@@ -986,7 +986,13 @@ window.LECTURES = [
           "check": "Додатний знак означає рух уздовж +Ox. Стале прискорення 4 м/с² збільшує проєкцію швидкості на 4 м/с щосекунди."
         },
         "given": "x(t)=3+4t+2t²; t=3 с",
-        "find": "v(t), a(t), v(3)"
+        "find": "v(t), a(t), v(3)",
+        "visual": [
+          "assets/worked/kinematics-01-01-1.png",
+          "assets/worked/kinematics-01-01-2.png",
+          "assets/worked/kinematics-01-01-step1.png",
+          "assets/worked/kinematics-01-01-answer.png"
+        ]
       },
       {
         "level": "Середній",
@@ -1015,7 +1021,13 @@ window.LECTURES = [
           "check": "До першої зупинки швидкість не змінює знак, тому шлях теж 6,25 м."
         },
         "given": "v₀=5 м/с; aₓ=−2 м/с²; vₓ=0",
-        "find": "t, Δx"
+        "find": "t, Δx",
+        "visual": [
+          "assets/worked/kinematics-01-02-1.png",
+          "assets/worked/kinematics-01-02-2.png",
+          "assets/worked/kinematics-01-02-step1.png",
+          "assets/worked/kinematics-01-02-answer.png"
+        ]
       },
       {
         "level": "Підвищений",
@@ -1045,7 +1057,13 @@ window.LECTURES = [
           "check": "Похідна отриманої координати дорівнює швидкості, а похідна швидкості — заданим 6t."
         },
         "given": "a(t)=6t; v₀=2 м/с; x₀=1 м; t=2 с",
-        "find": "v(t), x(t), x(2)"
+        "find": "v(t), x(t), x(2)",
+        "visual": [
+          "assets/worked/kinematics-01-03-1.png",
+          "assets/worked/kinematics-01-03-2.png",
+          "assets/worked/kinematics-01-03-step1.png",
+          "assets/worked/kinematics-01-03-answer.png"
+        ]
       },
       {
         "level": "Базовий",
@@ -1075,7 +1093,13 @@ window.LECTURES = [
           "check": "Середня векторна швидкість спрямована на схід. Її модуль менший за шляхову."
         },
         "given": "8 м на схід; 6 м на захід; Δt=7 с",
-        "find": "S, Δx, обидві середні швидкості"
+        "find": "S, Δx, обидві середні швидкості",
+        "visual": [
+          "assets/worked/kinematics-01-04-1.png",
+          "assets/worked/kinematics-01-04-2.png",
+          "assets/worked/kinematics-01-04-step1.png",
+          "assets/worked/kinematics-01-04-answer.png"
+        ]
       },
       {
         "level": "Поглиблений",
@@ -1102,7 +1126,13 @@ window.LECTURES = [
           "check": "При t=0 маємо x=0, vₓ=1; похідна vₓ дорівнює 2t."
         },
         "given": "aₓ(t)=2t; v₀ₓ=1 м/с; x₀=0",
-        "find": "vₓ(t), x(t)"
+        "find": "vₓ(t), x(t)",
+        "visual": [
+          "assets/worked/kinematics-01-05-1.png",
+          "assets/worked/kinematics-01-05-2.png",
+          "assets/worked/kinematics-01-05-step1.png",
+          "assets/worked/kinematics-01-05-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 1.1, с. 3",
@@ -1138,7 +1168,14 @@ window.LECTURES = [
           "check": "13,33 м/с > 11,55 м/с; напрям 30° між двома ділянками."
         },
         "given": "l₁=l₂; v₁=10 м/с; v₂=20 м/с; кут 60°",
-        "find": "vсер, модуль і напрям середньої векторної швидкості"
+        "find": "vсер, модуль і напрям середньої векторної швидкості",
+        "visual": [
+          "assets/worked/kinematics-01-06-1.png",
+          "assets/worked/kinematics-01-06-2.png",
+          "assets/worked/kinematics-01-06-step1.png",
+          "assets/worked/kinematics-01-06-step2.png",
+          "assets/worked/kinematics-01-06-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 1.2, с. 3",
@@ -1169,7 +1206,13 @@ window.LECTURES = [
           "check": "Результат ≈7,06 км/год лежить між 4 і 12 км/год. У СІ це ≈1,96 м/с."
         },
         "given": "половини шляху рівні; v₁=12 км/год; v₂=6 км/год; v₃=4 км/год; останні два часи рівні",
-        "find": "vсер"
+        "find": "vсер",
+        "visual": [
+          "assets/worked/kinematics-01-07-1.png",
+          "assets/worked/kinematics-01-07-2.png",
+          "assets/worked/kinematics-01-07-step1.png",
+          "assets/worked/kinematics-01-07-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 1.8, с. 3",
@@ -1203,7 +1246,14 @@ window.LECTURES = [
           "check": "При t=0,5 с обидва прискорення −1 м/с², але швидкості різні."
         },
         "given": "x₁=1,5+4t²−3t³; x₂=6−2t²+t³",
-        "find": "t при a₁=a₂; v₁, v₂"
+        "find": "t при a₁=a₂; v₁, v₂",
+        "visual": [
+          "assets/worked/kinematics-01-08-1.png",
+          "assets/worked/kinematics-01-08-2.png",
+          "assets/worked/kinematics-01-08-step1.png",
+          "assets/worked/kinematics-01-08-step2.png",
+          "assets/worked/kinematics-01-08-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 1.10, с. 4",
@@ -1239,7 +1289,14 @@ window.LECTURES = [
           "check": "У момент повороту координата −1 м, прискорення −2 м/с². Відстань від старту 4 м."
         },
         "given": "x=−5+4t−t²; t=2 с",
-        "find": "x, vₓ, aₓ; час повернення; відстань до повороту"
+        "find": "x, vₓ, aₓ; час повернення; відстань до повороту",
+        "visual": [
+          "assets/worked/kinematics-01-09-1.png",
+          "assets/worked/kinematics-01-09-2.png",
+          "assets/worked/kinematics-01-09-step1.png",
+          "assets/worked/kinematics-01-09-step2.png",
+          "assets/worked/kinematics-01-09-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 1.13, с. 4",
@@ -1274,7 +1331,14 @@ window.LECTURES = [
           "check": "За весь рух переміщення нульове, але шлях додатний."
         },
         "given": "r⃗=b⃗t(1−ct); b⃗≠0, c>0",
-        "find": "v⃗, a⃗, час повернення, S"
+        "find": "v⃗, a⃗, час повернення, S",
+        "visual": [
+          "assets/worked/kinematics-01-10-1.png",
+          "assets/worked/kinematics-01-10-2.png",
+          "assets/worked/kinematics-01-10-step1.png",
+          "assets/worked/kinematics-01-10-step2.png",
+          "assets/worked/kinematics-01-10-answer.png"
+        ]
       }
     ],
     "cards": [
@@ -4716,7 +4780,13 @@ window.LECTURES = [
           "check": "Модулі завжди невід’ємні; v≈5,39 м/с, a≈4,47 м/с²."
         },
         "given": "r⃗=(2t²,3t,−t²) м; t=1 с",
-        "find": "v⃗, a⃗ та їх модулі"
+        "find": "v⃗, a⃗ та їх модулі",
+        "visual": [
+          "assets/worked/kinematics-02-01-1.png",
+          "assets/worked/kinematics-02-01-2.png",
+          "assets/worked/kinematics-02-01-step1.png",
+          "assets/worked/kinematics-02-01-answer.png"
+        ]
       },
       {
         "level": "Базовий",
@@ -4747,7 +4817,13 @@ window.LECTURES = [
         "given": "v=10 м/с; R=20 м; dv/dt=−2 м/с²",
         "find": "a",
         "image": "assets/curvature.svg",
-        "imageCaption": "Загальна схема явища (не числовий масштаб задачі)."
+        "imageCaption": "Загальна схема явища (не числовий масштаб задачі).",
+        "visual": [
+          "assets/worked/kinematics-02-02-1.png",
+          "assets/worked/kinematics-02-02-2.png",
+          "assets/worked/kinematics-02-02-step1.png",
+          "assets/worked/kinematics-02-02-answer.png"
+        ]
       },
       {
         "level": "Базовий",
@@ -4777,7 +4853,13 @@ window.LECTURES = [
         "find": "v",
         "image": "assets/galileo.svg",
         "imageCaption": "Загальна схема явища (не числовий масштаб задачі).",
-        "title": "Додавання швидкостей: приклад з вагоном (числова адаптація)"
+        "title": "Додавання швидкостей: приклад з вагоном (числова адаптація)",
+        "visual": [
+          "assets/worked/kinematics-02-03-1.png",
+          "assets/worked/kinematics-02-03-2.png",
+          "assets/worked/kinematics-02-03-step1.png",
+          "assets/worked/kinematics-02-03-answer.png"
+        ]
       },
       {
         "level": "Середній",
@@ -4807,7 +4889,13 @@ window.LECTURES = [
         "given": "x=8+10t+2t²; V=4 м/с; паралельні осі",
         "find": "x′, vₓ′, aₓ′",
         "image": "assets/galileo.svg",
-        "imageCaption": "Загальна схема явища (не числовий масштаб задачі)."
+        "imageCaption": "Загальна схема явища (не числовий масштаб задачі).",
+        "visual": [
+          "assets/worked/kinematics-02-04-1.png",
+          "assets/worked/kinematics-02-04-2.png",
+          "assets/worked/kinematics-02-04-step1.png",
+          "assets/worked/kinematics-02-04-answer.png"
+        ]
       },
       {
         "level": "Середній",
@@ -4836,7 +4924,13 @@ window.LECTURES = [
         "given": "a=13 м/с²; aτ=5 м/с²; v=6 м/с",
         "find": "R",
         "image": "assets/curvature.svg",
-        "imageCaption": "Загальна схема явища (не числовий масштаб задачі)."
+        "imageCaption": "Загальна схема явища (не числовий масштаб задачі).",
+        "visual": [
+          "assets/worked/kinematics-02-05-1.png",
+          "assets/worked/kinematics-02-05-2.png",
+          "assets/worked/kinematics-02-05-step1.png",
+          "assets/worked/kinematics-02-05-answer.png"
+        ]
       },
       {
         "level": "Середній",
@@ -4866,7 +4960,13 @@ window.LECTURES = [
         "given": "v=2+3t; R=5 м; t=2 с",
         "find": "aτ, aₙ, a",
         "image": "assets/curvature.svg",
-        "imageCaption": "Загальна схема явища (не числовий масштаб задачі)."
+        "imageCaption": "Загальна схема явища (не числовий масштаб задачі).",
+        "visual": [
+          "assets/worked/kinematics-02-06-1.png",
+          "assets/worked/kinematics-02-06-2.png",
+          "assets/worked/kinematics-02-06-step1.png",
+          "assets/worked/kinematics-02-06-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 1.20, с. 5",
@@ -4901,7 +5001,14 @@ window.LECTURES = [
           "check": "При t=0 швидкість горизонтальна, прискорення вертикальне, кут 90°."
         },
         "given": "r⃗=αt i⃗+βt² j⃗; α, β≠0",
-        "find": "y(x), v⃗, a⃗, φ"
+        "find": "y(x), v⃗, a⃗, φ",
+        "visual": [
+          "assets/worked/kinematics-02-07-1.png",
+          "assets/worked/kinematics-02-07-2.png",
+          "assets/worked/kinematics-02-07-step1.png",
+          "assets/worked/kinematics-02-07-step2.png",
+          "assets/worked/kinematics-02-07-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 1.21, с. 5",
@@ -4937,7 +5044,14 @@ window.LECTURES = [
           "check": "Кут 90°; при сталому модулі швидкості прискорення змінює лише напрям."
         },
         "given": "x=A sinωt; y=A(1−cosωt); A, ω>0",
-        "find": "траєкторія, v, a, кут, S за τ"
+        "find": "траєкторія, v, a, кут, S за τ",
+        "visual": [
+          "assets/worked/kinematics-02-08-1.png",
+          "assets/worked/kinematics-02-08-2.png",
+          "assets/worked/kinematics-02-08-step1.png",
+          "assets/worked/kinematics-02-08-step2.png",
+          "assets/worked/kinematics-02-08-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 1.30, с. 6",
@@ -4970,7 +5084,13 @@ window.LECTURES = [
           "check": "Модуль aτ≈8,49 м/с². Без інформації про розгін чи гальмування знак невідомий."
         },
         "given": "R=10 м; aₙ=4,9 м/с²; β=60° від нормалі",
-        "find": "v, |aτ|"
+        "find": "v, |aτ|",
+        "visual": [
+          "assets/worked/kinematics-02-09-1.png",
+          "assets/worked/kinematics-02-09-2.png",
+          "assets/worked/kinematics-02-09-step1.png",
+          "assets/worked/kinematics-02-09-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 1.31, с. 6",
@@ -5005,7 +5125,14 @@ window.LECTURES = [
           "check": "Беремо додатний корінь, бо час після старту невід’ємний."
         },
         "given": "R=1 м; aτ=1 м/с²; v₀=0; θ=45°",
-        "find": "t"
+        "find": "t",
+        "visual": [
+          "assets/worked/kinematics-02-10-1.png",
+          "assets/worked/kinematics-02-10-2.png",
+          "assets/worked/kinematics-02-10-step1.png",
+          "assets/worked/kinematics-02-10-step2.png",
+          "assets/worked/kinematics-02-10-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 1.29, с. 5",
@@ -5042,7 +5169,14 @@ window.LECTURES = [
           "check": "Шлях 8 м, хорда ≈6,73 м. Середні швидкості 4 і ≈3,37 м/с відповідно."
         },
         "given": "R=4 м; v₀=3 м/с; aτ=1 м/с²; t=2 с",
-        "find": "S, модуль переміщення, обидві середні швидкості"
+        "find": "S, модуль переміщення, обидві середні швидкості",
+        "visual": [
+          "assets/worked/kinematics-02-11-1.png",
+          "assets/worked/kinematics-02-11-2.png",
+          "assets/worked/kinematics-02-11-step1.png",
+          "assets/worked/kinematics-02-11-step2.png",
+          "assets/worked/kinematics-02-11-answer.png"
+        ]
       }
     ],
     "oral": [
@@ -7590,7 +7724,13 @@ window.LECTURES = [
           "check": "За 0,5 с тіло повертається на 2π рад."
         },
         "given": "120 об/хв",
-        "find": "T, ν, ω"
+        "find": "T, ν, ω",
+        "visual": [
+          "assets/worked/rigid-body-01-01-1.png",
+          "assets/worked/rigid-body-01-01-2.png",
+          "assets/worked/rigid-body-01-01-step1.png",
+          "assets/worked/rigid-body-01-01-answer.png"
+        ]
       },
       {
         "level": "Базовий",
@@ -7620,7 +7760,13 @@ window.LECTURES = [
         "given": "r=0,8 м; θ=30°; ω=6 рад/с",
         "find": "R, v",
         "image": "assets/rotation.svg",
-        "imageCaption": "Загальна схема явища (не числовий масштаб задачі)."
+        "imageCaption": "Загальна схема явища (не числовий масштаб задачі).",
+        "visual": [
+          "assets/worked/rigid-body-01-02-1.png",
+          "assets/worked/rigid-body-01-02-2.png",
+          "assets/worked/rigid-body-01-02-step1.png",
+          "assets/worked/rigid-body-01-02-answer.png"
+        ]
       },
       {
         "level": "Базовий",
@@ -7650,7 +7796,13 @@ window.LECTURES = [
         "given": "R=0,2 м; ω=4 рад/с; β=3 рад/с²",
         "find": "aτ, aₙ, a",
         "image": "assets/rotation.svg",
-        "imageCaption": "Загальна схема явища (не числовий масштаб задачі)."
+        "imageCaption": "Загальна схема явища (не числовий масштаб задачі).",
+        "visual": [
+          "assets/worked/rigid-body-01-03-1.png",
+          "assets/worked/rigid-body-01-03-2.png",
+          "assets/worked/rigid-body-01-03-step1.png",
+          "assets/worked/rigid-body-01-03-answer.png"
+        ]
       },
       {
         "level": "Базовий",
@@ -7677,7 +7829,13 @@ window.LECTURES = [
           "check": "Середня кутова швидкість (2+14)/2=8 рад/с; за 3 с кут 24 рад."
         },
         "given": "ω₀=2 рад/с; β=4 рад/с²; t=3 с",
-        "find": "ω, Δφ"
+        "find": "ω, Δφ",
+        "visual": [
+          "assets/worked/rigid-body-01-04-1.png",
+          "assets/worked/rigid-body-01-04-2.png",
+          "assets/worked/rigid-body-01-04-step1.png",
+          "assets/worked/rigid-body-01-04-answer.png"
+        ]
       },
       {
         "level": "Поглиблений",
@@ -7704,7 +7862,13 @@ window.LECTURES = [
           "check": "Похідні φ та ω_z відтворюють ω_z та β_z відповідно."
         },
         "given": "β_z=2t; ω₀z=3 рад/с; φ₀=0",
-        "find": "ω_z(t), φ(t)"
+        "find": "ω_z(t), φ(t)",
+        "visual": [
+          "assets/worked/rigid-body-01-05-1.png",
+          "assets/worked/rigid-body-01-05-2.png",
+          "assets/worked/rigid-body-01-05-step1.png",
+          "assets/worked/rigid-body-01-05-answer.png"
+        ]
       },
       {
         "level": "Базовий",
@@ -7736,7 +7900,13 @@ window.LECTURES = [
         "record": "Лекція 14.09 · 01:17:05–01:26:50; числа — авторський приклад",
         "given": "R=0,5 м; v₀=4 м/с; кочення без проковзування",
         "find": "ω, v_A, v_B, v_C",
-        "imageCaption": "Загальна схема явища (не числовий масштаб задачі)."
+        "imageCaption": "Загальна схема явища (не числовий масштаб задачі).",
+        "visual": [
+          "assets/worked/rigid-body-01-06-1.png",
+          "assets/worked/rigid-body-01-06-2.png",
+          "assets/worked/rigid-body-01-06-step1.png",
+          "assets/worked/rigid-body-01-06-answer.png"
+        ]
       },
       {
         "level": "Базовий",
@@ -7768,7 +7938,13 @@ window.LECTURES = [
         "record": "Лекція 14.09 · 01:30:12–01:35:23; числа — авторський приклад",
         "given": "R=0,4 м; v₀=2 м/с; CP=0,6 м",
         "find": "v_P",
-        "imageCaption": "Загальна схема явища (не числовий масштаб задачі)."
+        "imageCaption": "Загальна схема явища (не числовий масштаб задачі).",
+        "visual": [
+          "assets/worked/rigid-body-01-07-1.png",
+          "assets/worked/rigid-body-01-07-2.png",
+          "assets/worked/rigid-body-01-07-step1.png",
+          "assets/worked/rigid-body-01-07-answer.png"
+        ]
       },
       {
         "level": "Каверзна задача",
@@ -7797,7 +7973,13 @@ window.LECTURES = [
         "image": "assets/rolling.svg",
         "given": "v₀=3 м/с; R=0,3 м; рівномірне кочення",
         "find": "прискорення точки контакту",
-        "imageCaption": "Загальна схема явища (не числовий масштаб задачі)."
+        "imageCaption": "Загальна схема явища (не числовий масштаб задачі).",
+        "visual": [
+          "assets/worked/rigid-body-01-08-1.png",
+          "assets/worked/rigid-body-01-08-2.png",
+          "assets/worked/rigid-body-01-08-step1.png",
+          "assets/worked/rigid-body-01-08-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 1.26, с. 5",
@@ -7833,7 +8015,14 @@ window.LECTURES = [
           "check": "Час ≈7,85 с, число обертів ≈21,60 (21 повний оберт і частина наступного)."
         },
         "given": "β=−2 рад/с²; ν₁=240 об/хв; ν₂=90 об/хв",
-        "find": "N, t"
+        "find": "N, t",
+        "visual": [
+          "assets/worked/rigid-body-01-09-1.png",
+          "assets/worked/rigid-body-01-09-2.png",
+          "assets/worked/rigid-body-01-09-step1.png",
+          "assets/worked/rigid-body-01-09-step2.png",
+          "assets/worked/rigid-body-01-09-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 1.27, с. 5",
@@ -7866,7 +8055,13 @@ window.LECTURES = [
           "check": "β≈1,26 рад/с²; час 10 с дає 50 обертів."
         },
         "given": "N=50; ν₁=4 Гц; ν₂=6 Гц",
-        "find": "β"
+        "find": "β",
+        "visual": [
+          "assets/worked/rigid-body-01-10-1.png",
+          "assets/worked/rigid-body-01-10-2.png",
+          "assets/worked/rigid-body-01-10-step1.png",
+          "assets/worked/rigid-body-01-10-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 1.28, с. 5",
@@ -7901,7 +8096,14 @@ window.LECTURES = [
           "check": "Миттєве β(1) не дорівнює середньому, бо β не стала."
         },
         "given": "φ=6t−2t³; t₀=0",
-        "find": "середні ω, β та β у момент зупинки"
+        "find": "середні ω, β та β у момент зупинки",
+        "visual": [
+          "assets/worked/rigid-body-01-11-1.png",
+          "assets/worked/rigid-body-01-11-2.png",
+          "assets/worked/rigid-body-01-11-step1.png",
+          "assets/worked/rigid-body-01-11-step2.png",
+          "assets/worked/rigid-body-01-11-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 1.33, с. 6",
@@ -7935,7 +8137,14 @@ window.LECTURES = [
           "check": "Шлях точки 4 м більший за переміщення центра 2πR≈3,14 м."
         },
         "given": "R=0,50 м; рівномірне кочення без проковзування",
-        "find": "S за один оберт"
+        "find": "S за один оберт",
+        "visual": [
+          "assets/worked/rigid-body-01-12-1.png",
+          "assets/worked/rigid-body-01-12-2.png",
+          "assets/worked/rigid-body-01-12-step1.png",
+          "assets/worked/rigid-body-01-12-step2.png",
+          "assets/worked/rigid-body-01-12-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 1.35, с. 6",
@@ -7970,7 +8179,14 @@ window.LECTURES = [
           "check": "Одиниці ω — рад/с, β — рад/с²."
         },
         "given": "ω⃗=at i⃗+bt² j⃗; a=0,50 рад/с²; b=0,060 рад/с³; t=10 с",
-        "find": "модулі ω⃗, β⃗"
+        "find": "модулі ω⃗, β⃗",
+        "visual": [
+          "assets/worked/rigid-body-01-13-1.png",
+          "assets/worked/rigid-body-01-13-2.png",
+          "assets/worked/rigid-body-01-13-step1.png",
+          "assets/worked/rigid-body-01-13-step2.png",
+          "assets/worked/rigid-body-01-13-answer.png"
+        ]
       },
       {
         "level": "Базовий",
@@ -8001,7 +8217,13 @@ window.LECTURES = [
         "record": "Лекція 14.09 · 01:17:05–01:26:50",
         "title": "Задача з лекції: швидкості точок диска",
         "given": "R, v₀; рівномірне кочення праворуч без проковзування",
-        "find": "v_A, v_B, v_C та напрями"
+        "find": "v_A, v_B, v_C та напрями",
+        "visual": [
+          "assets/worked/rigid-body-01-14-1.png",
+          "assets/worked/rigid-body-01-14-2.png",
+          "assets/worked/rigid-body-01-14-step1.png",
+          "assets/worked/rigid-body-01-14-answer.png"
+        ]
       },
       {
         "level": "Базовий",
@@ -8035,7 +8257,13 @@ window.LECTURES = [
         "record": "Лекція 14.09 · 01:30:12–01:35:23",
         "title": "Задача з лекції: метод миттєвого центра",
         "given": "R, v₀, r=CP; кочення без проковзування",
-        "find": "v_P і напрям"
+        "find": "v_P і напрям",
+        "visual": [
+          "assets/worked/rigid-body-01-15-1.png",
+          "assets/worked/rigid-body-01-15-2.png",
+          "assets/worked/rigid-body-01-15-step1.png",
+          "assets/worked/rigid-body-01-15-answer.png"
+        ]
       }
     ],
     "oral": [
@@ -10212,7 +10440,14 @@ window.LECTURES = [
         "image": "assets/turning.svg",
         "title": "Задача №1.11: шлях та точка повороту",
         "given": "x=6t−0,125t³; інтервали 0–5 с, 2–6 с",
-        "find": "S₀₋₅, vсер₂₋₆, aₓ при повороті"
+        "find": "S₀₋₅, vсер₂₋₆, aₓ при повороті",
+        "visual": [
+          "assets/worked/practice-17-09-01-1.png",
+          "assets/worked/practice-17-09-01-2.png",
+          "assets/worked/practice-17-09-01-step1.png",
+          "assets/worked/practice-17-09-01-step2.png",
+          "assets/worked/practice-17-09-01-answer.png"
+        ]
       },
       {
         "level": "Базовий",
@@ -10249,7 +10484,14 @@ window.LECTURES = [
         "image": "assets/balloon.svg",
         "title": "Задача №2.7: аеростат і баласт",
         "given": "M=250 кг; a=0,2 м/с²; g=9,8 м/с²",
-        "find": "m"
+        "find": "m",
+        "visual": [
+          "assets/worked/practice-17-09-02-1.png",
+          "assets/worked/practice-17-09-02-2.png",
+          "assets/worked/practice-17-09-02-step1.png",
+          "assets/worked/practice-17-09-02-step2.png",
+          "assets/worked/practice-17-09-02-answer.png"
+        ]
       },
       {
         "level": "Поглиблений",
@@ -10287,7 +10529,14 @@ window.LECTURES = [
         "image": "assets/wedge.svg",
         "title": "Задача №2.15: умови початку руху (числовий приклад)",
         "given": "m₁, m₂; α, μ; ідеальний блок та нитка; приклад α=30°, μ=0,2",
-        "find": "межі відношення m₂/m₁"
+        "find": "межі відношення m₂/m₁",
+        "visual": [
+          "assets/worked/practice-17-09-03-1.png",
+          "assets/worked/practice-17-09-03-2.png",
+          "assets/worked/practice-17-09-03-step1.png",
+          "assets/worked/practice-17-09-03-step2.png",
+          "assets/worked/practice-17-09-03-answer.png"
+        ]
       },
       {
         "level": "Базовий",
@@ -10314,7 +10563,13 @@ window.LECTURES = [
           "check": "Переміщення −3 м, шлях 5 м."
         },
         "given": "x=2t−t²; 0–3 с",
-        "find": "S"
+        "find": "S",
+        "visual": [
+          "assets/worked/practice-17-09-04-1.png",
+          "assets/worked/practice-17-09-04-2.png",
+          "assets/worked/practice-17-09-04-step1.png",
+          "assets/worked/practice-17-09-04-answer.png"
+        ]
       },
       {
         "level": "Базовий",
@@ -10345,7 +10600,13 @@ window.LECTURES = [
         "given": "M=400 кг; a=0,1 м/с²; g=9,9 м/с²",
         "find": "m",
         "image": "assets/balloon.svg",
-        "imageCaption": "Загальна схема явища (не числовий масштаб задачі)."
+        "imageCaption": "Загальна схема явища (не числовий масштаб задачі).",
+        "visual": [
+          "assets/worked/practice-17-09-05-1.png",
+          "assets/worked/practice-17-09-05-2.png",
+          "assets/worked/practice-17-09-05-step1.png",
+          "assets/worked/practice-17-09-05-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 1.12, с. 4",
@@ -10381,7 +10642,14 @@ window.LECTURES = [
           "check": "Середня шляхова ≈1,42 м/с. Знак інтеграла другої ділянки змінюємо саме для шляху."
         },
         "given": "vₓ=2t−0,5t²; t₁=1 с; t₂=5 с",
-        "find": "vсер"
+        "find": "vсер",
+        "visual": [
+          "assets/worked/practice-17-09-06-1.png",
+          "assets/worked/practice-17-09-06-2.png",
+          "assets/worked/practice-17-09-06-step1.png",
+          "assets/worked/practice-17-09-06-step2.png",
+          "assets/worked/practice-17-09-06-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 2.6, с. 7",
@@ -10416,7 +10684,14 @@ window.LECTURES = [
           "check": "Після скидання маса 230 кг, сума сил 2400−100−2300=0 Н."
         },
         "given": "M=250 кг; F_A=2,4 кН=2400 Н; g=10 м/с²; рівномірний рух",
-        "find": "m"
+        "find": "m",
+        "visual": [
+          "assets/worked/practice-17-09-07-1.png",
+          "assets/worked/practice-17-09-07-2.png",
+          "assets/worked/practice-17-09-07-step1.png",
+          "assets/worked/practice-17-09-07-step2.png",
+          "assets/worked/practice-17-09-07-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 2.14, с. 8",
@@ -10452,7 +10727,14 @@ window.LECTURES = [
           "check": "Рівнодійна на брусок 5,6 Н дорівнює 4·1,4 Н."
         },
         "given": "M=4 кг; m₁=1 кг; m₂=2 кг; g=9,8 м/с²",
-        "find": "a, T₁, T₂"
+        "find": "a, T₁, T₂",
+        "visual": [
+          "assets/worked/practice-17-09-08-1.png",
+          "assets/worked/practice-17-09-08-2.png",
+          "assets/worked/practice-17-09-08-step1.png",
+          "assets/worked/practice-17-09-08-step2.png",
+          "assets/worked/practice-17-09-08-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 2.18, с. 8",
@@ -10488,7 +10770,14 @@ window.LECTURES = [
           "check": "N=mg/(1+μ²)>0, контакт збережено."
         },
         "given": "m, μ; рівномірний рух; нитка під кутом α",
-        "find": "α для мінімуму, T_min"
+        "find": "α для мінімуму, T_min",
+        "visual": [
+          "assets/worked/practice-17-09-09-1.png",
+          "assets/worked/practice-17-09-09-2.png",
+          "assets/worked/practice-17-09-09-step1.png",
+          "assets/worked/practice-17-09-09-step2.png",
+          "assets/worked/practice-17-09-09-answer.png"
+        ]
       }
     ],
     "oral": [
@@ -12591,7 +12880,13 @@ window.LECTURES = [
           "check": "Н/кг=м/с²; напрям a збігається з рівнодійною."
         },
         "given": "m=2 кг; F₁=6 Н; F₂=8 Н; кут 90°",
-        "find": "a"
+        "find": "a",
+        "visual": [
+          "assets/worked/dynamics-21-09-01-1.png",
+          "assets/worked/dynamics-21-09-01-2.png",
+          "assets/worked/dynamics-21-09-01-step1.png",
+          "assets/worked/dynamics-21-09-01-answer.png"
+        ]
       },
       {
         "level": "Базовий",
@@ -12620,7 +12915,13 @@ window.LECTURES = [
           "check": "Кінцева швидкість −1 м/с; знак означає рух проти +Ox."
         },
         "given": "m=4 кг; v₀ₓ=3 м/с; Fₓ=−8 Н; Δt=2 с",
-        "find": "pₓ"
+        "find": "pₓ",
+        "visual": [
+          "assets/worked/dynamics-21-09-02-1.png",
+          "assets/worked/dynamics-21-09-02-2.png",
+          "assets/worked/dynamics-21-09-02-step1.png",
+          "assets/worked/dynamics-21-09-02-answer.png"
+        ]
       },
       {
         "level": "Базовий",
@@ -12646,7 +12947,13 @@ window.LECTURES = [
           "check": "Площа трикутника з основою 4 с та висотою 12 Н також дорівнює 24 Н·с."
         },
         "given": "Fₓ=3t; 0–4 с",
-        "find": "Δpₓ"
+        "find": "Δpₓ",
+        "visual": [
+          "assets/worked/dynamics-21-09-03-1.png",
+          "assets/worked/dynamics-21-09-03-2.png",
+          "assets/worked/dynamics-21-09-03-step1.png",
+          "assets/worked/dynamics-21-09-03-answer.png"
+        ]
       },
       {
         "level": "Базовий",
@@ -12673,7 +12980,13 @@ window.LECTURES = [
           "check": "Збільшення відстані утричі зменшує силу у 9, а не у 3 рази."
         },
         "given": "r₂=3r₁; маси сталі",
-        "find": "F₂/F₁"
+        "find": "F₂/F₁",
+        "visual": [
+          "assets/worked/dynamics-21-09-04-1.png",
+          "assets/worked/dynamics-21-09-04-2.png",
+          "assets/worked/dynamics-21-09-04-step1.png",
+          "assets/worked/dynamics-21-09-04-answer.png"
+        ]
       },
       {
         "level": "Базовий",
@@ -12709,7 +13022,13 @@ window.LECTURES = [
         "title": "Приклад лектора: тертя спокою",
         "given": "m=1 кг; μₛ=0,1; g=10 м/с²; F=0,5 Н; спочатку спокій",
         "find": "сила тертя",
-        "imageCaption": "Загальна схема явища (не числовий масштаб задачі)."
+        "imageCaption": "Загальна схема явища (не числовий масштаб задачі).",
+        "visual": [
+          "assets/worked/dynamics-21-09-05-1.png",
+          "assets/worked/dynamics-21-09-05-2.png",
+          "assets/worked/dynamics-21-09-05-step1.png",
+          "assets/worked/dynamics-21-09-05-answer.png"
+        ]
       },
       {
         "level": "Базовий",
@@ -12740,7 +13059,13 @@ window.LECTURES = [
         "given": "m=60 кг; a=2 м/с² угору; g=9,8 м/с²",
         "find": "P",
         "image": "assets/weight.svg",
-        "imageCaption": "Загальна схема явища (не числовий масштаб задачі)."
+        "imageCaption": "Загальна схема явища (не числовий масштаб задачі).",
+        "visual": [
+          "assets/worked/dynamics-21-09-06-1.png",
+          "assets/worked/dynamics-21-09-06-2.png",
+          "assets/worked/dynamics-21-09-06-step1.png",
+          "assets/worked/dynamics-21-09-06-answer.png"
+        ]
       },
       {
         "level": "Базовий",
@@ -12768,7 +13093,13 @@ window.LECTURES = [
           "check": "Сумарний імпульс нульовий, хоча обидва тіла рухаються."
         },
         "given": "m₁=2 кг; m₂=3 кг; v₁ₓ=3 м/с; v₂ₓ=−2 м/с",
-        "find": "Pₓ"
+        "find": "Pₓ",
+        "visual": [
+          "assets/worked/dynamics-21-09-07-1.png",
+          "assets/worked/dynamics-21-09-07-2.png",
+          "assets/worked/dynamics-21-09-07-step1.png",
+          "assets/worked/dynamics-21-09-07-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 2.1, с. 6",
@@ -12805,7 +13136,14 @@ window.LECTURES = [
           "check": "При t=1,25 с прискорення нульове, але швидкість не обов’язково нульова."
         },
         "given": "m=2 кг; x=5+2t+0,75t²−0,2t³; t₁=2 с, t₂=5 с",
-        "find": "Fₓ(t₁), Fₓ(t₂), час нульової сили"
+        "find": "Fₓ(t₁), Fₓ(t₂), час нульової сили",
+        "visual": [
+          "assets/worked/dynamics-21-09-08-1.png",
+          "assets/worked/dynamics-21-09-08-2.png",
+          "assets/worked/dynamics-21-09-08-step1.png",
+          "assets/worked/dynamics-21-09-08-step2.png",
+          "assets/worked/dynamics-21-09-08-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 2.4, с. 7",
@@ -12843,7 +13181,14 @@ window.LECTURES = [
           "check": "Рівнодійна до центра, а не по дотичній; модуль сталої швидкості Aω."
         },
         "given": "m; x=A sinωt; y=A cosωt; A,ω>0",
-        "find": "F, напрям"
+        "find": "F, напрям",
+        "visual": [
+          "assets/worked/dynamics-21-09-09-1.png",
+          "assets/worked/dynamics-21-09-09-2.png",
+          "assets/worked/dynamics-21-09-09-step1.png",
+          "assets/worked/dynamics-21-09-09-step2.png",
+          "assets/worked/dynamics-21-09-09-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 2.5, с. 7",
@@ -12880,7 +13225,14 @@ window.LECTURES = [
           "check": "Коефіцієнт тертя безрозмірний; маса скоротилася."
         },
         "given": "v₀=20 м/с; t=40 с; g=9,8 м/с²",
-        "find": "μ"
+        "find": "μ",
+        "visual": [
+          "assets/worked/dynamics-21-09-10-1.png",
+          "assets/worked/dynamics-21-09-10-2.png",
+          "assets/worked/dynamics-21-09-10-step1.png",
+          "assets/worked/dynamics-21-09-10-step2.png",
+          "assets/worked/dynamics-21-09-10-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 2.11, с. 7",
@@ -12917,7 +13269,14 @@ window.LECTURES = [
           "check": "При рівності можливий граничний спокій; ковзання починається при перевищенні."
         },
         "given": "m₁=1 кг; m₂=5 кг; μ=0,3; g=9,8 м/с²",
-        "find": "гранична сила F"
+        "find": "гранична сила F",
+        "visual": [
+          "assets/worked/dynamics-21-09-11-1.png",
+          "assets/worked/dynamics-21-09-11-2.png",
+          "assets/worked/dynamics-21-09-11-step1.png",
+          "assets/worked/dynamics-21-09-11-step2.png",
+          "assets/worked/dynamics-21-09-11-answer.png"
+        ]
       },
       {
         "source": "С. О. Подласов, збірник 2023, № 2.12, с. 7",
@@ -12957,7 +13316,14 @@ window.LECTURES = [
           "check": "Якщо m прямує до нуля, a прямує до нуля; формула часу застосовна при m>0 та H>0."
         },
         "given": "M, m, H; ідеальні нитка та блок; старт зі спокою",
-        "find": "a, t, T₀, F"
+        "find": "a, t, T₀, F",
+        "visual": [
+          "assets/worked/dynamics-21-09-12-1.png",
+          "assets/worked/dynamics-21-09-12-2.png",
+          "assets/worked/dynamics-21-09-12-step1.png",
+          "assets/worked/dynamics-21-09-12-step2.png",
+          "assets/worked/dynamics-21-09-12-answer.png"
+        ]
       }
     ],
     "oral": [
@@ -13780,5 +14146,5659 @@ window.LECTURES = [
       ]
     },
     "standard": "Дано → позначення та СІ → необхідна теорія → рисунок (де доречно) → кроки → формули → відповідь → перевірка. Матеріал лектора відокремлено від навчальних доповнень."
+  },
+  {
+    "id": "momentum-28-09-1",
+    "title": "Неінерціальні системи відліку. Динаміка систем тіл",
+    "date": "28.09.2026",
+    "duration": "44 хв 42 с",
+    "unit": "Механіка",
+    "description": "Сили інерції, відцентрова сила, сила Коріоліса, зовнішні й внутрішні сили, імпульс системи.",
+    "source": "28.09.26ch1.mp4. Конспект за розшифровкою; таймкоди приблизні. Акценти лектора — переказ. Додаткові задачі, пояснення та питання укладено окремо.",
+    "pdf": "pdf/momentum-28-09-1.pdf",
+    "reading": [
+      {
+        "title": "1. Неінерціальні системи та поступальний рух",
+        "time": "03:00–10:50",
+        "blocks": [
+          [
+            "p",
+            "Інерціальна система відліку — система, у якій вільне тіло не змінює вектор швидкості. Система, що рухається з прискоренням або обертається відносно інерціальної, є неінерціальною. Другий закон Ньютона в її координатах потребує введення сил інерції."
+          ],
+          [
+            "p",
+            "Нехай рухома система поступально рухається з прискоренням a₀. Прискорення тіла відносно нерухомої системи дорівнює сумі відносного прискорення a′ і прискорення початку рухомої системи. Після підстановки в другий закон Ньютона переносимо доданок ma₀ у праву частину. Додатковий доданок має розмірність сили та спрямований проти прискорення системи."
+          ],
+          [
+            "p",
+            "Сила інерції не описує взаємодію двох тіл. Вона залежить від вибору системи відліку й пропорційна масі. У гальмівному автобусі пасажир відносно салону зміщується вперед; відносно дороги він продовжує рухатися за інерцією."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 03:00–10:50",
+            "Спочатку записується зв’язок прискорень у двох системах, а вже з нього виникає додатковий силовий член. Сили інерції потрібні для застосування звичної форми рівнянь у неінерціальній системі."
+          ],
+          [
+            "math",
+            "\\vec F_{in}=-m\\vec a_0",
+            "Сила інерції поступальної системи",
+            true
+          ],
+          [
+            "note",
+            "Фізика з нуля",
+            "Стрілка над літерою означає вектор; штрих позначає величину в рухомій системі. Знак мінус вказує на протилежний напрям, а не від’ємну масу."
+          ],
+          [
+            "figure",
+            "new-inertia",
+            "Прискорена кабіна: сила інерції протилежна прискоренню системи."
+          ]
+        ]
+      },
+      {
+        "title": "2. Відцентрова сила інерції",
+        "time": "10:50–16:35",
+        "blocks": [
+          [
+            "p",
+            "У системі, що рівномірно обертається, тіло, нерухоме відносно цієї системи, у нерухомій системі рухається по колу. Доцентрове прискорення спрямоване до осі обертання. У рухомій системі його відносне прискорення дорівнює нулю, тому реальна сила врівноважується відцентровою силою інерції."
+          ],
+          [
+            "p",
+            "Радіус R є перпендикулярною відстанню до осі обертання, а не довільною відстанню від початку координат. Модуль відцентрової сили зростає пропорційно масі, радіусу та квадрату кутової швидкості."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 10:50–16:35",
+            "Не плутати доцентрову результуючу реальних сил у нерухомій системі з відцентровою силою інерції в обертовій системі. Вони належать до різних описів."
+          ],
+          [
+            "math",
+            "F_{cf}=m\\omega^2R",
+            "Відцентрова сила",
+            true
+          ],
+          [
+            "figure",
+            "new-centrifugal",
+            "Радіальний напрям відцентрової сили інерції."
+          ]
+        ]
+      },
+      {
+        "title": "3. Сила Коріоліса",
+        "time": "16:35–25:30",
+        "blocks": [
+          [
+            "p",
+            "Якщо тіло рухається відносно обертової системи, з’являється ще один доданок — сила Коріоліса. Вона перпендикулярна до відносної швидкості й осі обертання. Модуль визначається векторним добутком і залежить від кута між швидкістю та вектором кутової швидкості."
+          ],
+          [
+            "p",
+            "За сталої кутової швидкості та збігу початків систем прискорення в інерціальній системі включає відносне, відцентрове за модулем (доцентрове за напрямом) та коріолісове прискорення. Перенесення двох останніх членів дає відповідні сили інерції."
+          ],
+          [
+            "p",
+            "В обертовій системі Землі коріолісова сила впливає на напрям великих потоків повітря та води. Маятник Фуко демонструє обертання Землі відносно площини коливань. Вплив на реальні річки залежить також від рельєфу та гідродинаміки."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 16:35–25:30",
+            "Розгляд починається з нерухомої в обертовій системі точки, а далі — з точки, яка рухається відносно неї. Маятник Фуко наведено як приклад прояву обертання Землі."
+          ],
+          [
+            "math",
+            "\\vec F_C=2m(\\vec v\\,^{\\prime}\\times\\vec\\omega)",
+            "Сила Коріоліса",
+            true
+          ],
+          [
+            "note",
+            "Фізика з нуля",
+            "Векторний добуток дає вектор, перпендикулярний до обох множників. Якщо вони паралельні, добуток дорівнює нулю."
+          ]
+        ]
+      },
+      {
+        "title": "4. Система тіл та імпульс",
+        "time": "25:30–31:20",
+        "blocks": [
+          [
+            "p",
+            "Механічна система — сукупність тіл або матеріальних точок, які виділено для розгляду. Сили між тілами цієї системи є внутрішніми, а сили від тіл поза системою — зовнішніми. Той самий контакт може бути внутрішнім чи зовнішнім залежно від меж обраної системи."
+          ],
+          [
+            "p",
+            "Імпульс матеріальної точки — векторна величина: добуток скалярної маси тіла на вектор його швидкості. Імпульс системи адитивний: треба додати імпульси векторно, а не додавати їх модулі."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 25:30–31:20",
+            "Вибір системи є першою дією при розв’язанні задачі. Не можна визначити внутрішні сили без того, щоб назвати тіла, включені в систему."
+          ],
+          [
+            "math",
+            "\\vec P=\\sum_i m_i\\vec v_i",
+            "Імпульс системи",
+            true
+          ]
+        ]
+      },
+      {
+        "title": "5. Другий закон Ньютона для системи. Збереження імпульсу",
+        "time": "31:20–44:42",
+        "blocks": [
+          [
+            "p",
+            "Диференціюємо суму імпульсів за часом. Для кожного тіла похідна імпульсу дорівнює сумі сил на нього. За третім законом Ньютона внутрішні сили виникають парами, рівними за модулем і протилежними за напрямом. У сумі по всій системі ці пари скорочуються."
+          ],
+          [
+            "p",
+            "Отже зміна повного імпульсу визначається лише рівнодійною зовнішніх сил. Замкнена система — система без зовнішніх сил у прийнятій моделі. Її сумарний імпульс сталий. При цьому імпульс окремого тіла може змінюватися."
+          ],
+          [
+            "p",
+            "Імпульс сили — інтеграл сили за часом; його одиниця Н·с збігається з кг·м/с. Це не те саме поняття, що імпульс тіла, хоча імпульс рівнодійної сил дорівнює зміні імпульсу тіла або системи."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 31:20–44:42",
+            "Внутрішні сили не зникають для окремих тіл. Вони компенсуються тільки після складання рівнянь для всієї системи. Закон збереження — це незалежність сумарного імпульсу від часу."
+          ],
+          [
+            "math",
+            "\\frac{d\\vec P}{dt}=\\sum_i\\vec F_{i,ext}",
+            "Рівняння для системи",
+            true
+          ],
+          [
+            "math",
+            "\\sum_i\\vec F_{i,ext}=0\\Rightarrow\\vec P=\\mathrm{const}",
+            "Закон збереження",
+            true
+          ]
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "1. Неінерціальні системи та поступальний рух",
+        "time": "03:00–10:50",
+        "text": [
+          "Інерціальна система відліку — система, у якій вільне тіло не змінює вектор швидкості. Система, що рухається з прискоренням або обертається відносно інерціальної, є неінерціальною. Другий закон Ньютона в її координатах потребує введення сил інерції.",
+          "Нехай рухома система поступально рухається з прискоренням a₀. Прискорення тіла відносно нерухомої системи дорівнює сумі відносного прискорення a′ і прискорення початку рухомої системи. Після підстановки в другий закон Ньютона переносимо доданок ma₀ у праву частину. Додатковий доданок має розмірність сили та спрямований проти прискорення системи.",
+          "Сила інерції не описує взаємодію двох тіл. Вона залежить від вибору системи відліку й пропорційна масі. У гальмівному автобусі пасажир відносно салону зміщується вперед; відносно дороги він продовжує рухатися за інерцією."
+        ],
+        "equations": [
+          "Fін = −ma₀"
+        ]
+      },
+      {
+        "title": "2. Відцентрова сила інерції",
+        "time": "10:50–16:35",
+        "text": [
+          "У системі, що рівномірно обертається, тіло, нерухоме відносно цієї системи, у нерухомій системі рухається по колу. Доцентрове прискорення спрямоване до осі обертання. У рухомій системі його відносне прискорення дорівнює нулю, тому реальна сила врівноважується відцентровою силою інерції.",
+          "Радіус R є перпендикулярною відстанню до осі обертання, а не довільною відстанню від початку координат. Модуль відцентрової сили зростає пропорційно масі, радіусу та квадрату кутової швидкості."
+        ],
+        "equations": [
+          "Fвідц = mω²R"
+        ]
+      },
+      {
+        "title": "3. Сила Коріоліса",
+        "time": "16:35–25:30",
+        "text": [
+          "Якщо тіло рухається відносно обертової системи, з’являється ще один доданок — сила Коріоліса. Вона перпендикулярна до відносної швидкості й осі обертання. Модуль визначається векторним добутком і залежить від кута між швидкістю та вектором кутової швидкості.",
+          "За сталої кутової швидкості та збігу початків систем прискорення в інерціальній системі включає відносне, відцентрове за модулем (доцентрове за напрямом) та коріолісове прискорення. Перенесення двох останніх членів дає відповідні сили інерції.",
+          "В обертовій системі Землі коріолісова сила впливає на напрям великих потоків повітря та води. Маятник Фуко демонструє обертання Землі відносно площини коливань. Вплив на реальні річки залежить також від рельєфу та гідродинаміки."
+        ],
+        "equations": [
+          "F_C = 2m(v′ × ω)"
+        ]
+      },
+      {
+        "title": "4. Система тіл та імпульс",
+        "time": "25:30–31:20",
+        "text": [
+          "Механічна система — сукупність тіл або матеріальних точок, які виділено для розгляду. Сили між тілами цієї системи є внутрішніми, а сили від тіл поза системою — зовнішніми. Той самий контакт може бути внутрішнім чи зовнішнім залежно від меж обраної системи.",
+          "Імпульс матеріальної точки — векторна величина: добуток скалярної маси тіла на вектор його швидкості. Імпульс системи адитивний: треба додати імпульси векторно, а не додавати їх модулі."
+        ],
+        "equations": [
+          "P = Σ mᵢvᵢ"
+        ]
+      },
+      {
+        "title": "5. Другий закон Ньютона для системи. Збереження імпульсу",
+        "time": "31:20–44:42",
+        "text": [
+          "Диференціюємо суму імпульсів за часом. Для кожного тіла похідна імпульсу дорівнює сумі сил на нього. За третім законом Ньютона внутрішні сили виникають парами, рівними за модулем і протилежними за напрямом. У сумі по всій системі ці пари скорочуються.",
+          "Отже зміна повного імпульсу визначається лише рівнодійною зовнішніх сил. Замкнена система — система без зовнішніх сил у прийнятій моделі. Її сумарний імпульс сталий. При цьому імпульс окремого тіла може змінюватися.",
+          "Імпульс сили — інтеграл сили за часом; його одиниця Н·с збігається з кг·м/с. Це не те саме поняття, що імпульс тіла, хоча імпульс рівнодійної сил дорівнює зміні імпульсу тіла або системи."
+        ],
+        "equations": [
+          "dP/dt = Σ Fзовн",
+          "Σ Fзовн = 0 ⇒ P = const"
+        ]
+      }
+    ],
+    "summary": [
+      "Інерціальна система відліку — система, у якій вільне тіло не змінює вектор швидкості. Система, що рухається з прискоренням або обертається відносно інерціальної, є неінерціальною. Другий закон Ньютона в її координатах потребує введення сил інерції.",
+      "У системі, що рівномірно обертається, тіло, нерухоме відносно цієї системи, у нерухомій системі рухається по колу. Доцентрове прискорення спрямоване до осі обертання. У рухомій системі його відносне прискорення дорівнює нулю, тому реальна сила врівноважується відцентровою силою інерції.",
+      "Якщо тіло рухається відносно обертової системи, з’являється ще один доданок — сила Коріоліса. Вона перпендикулярна до відносної швидкості й осі обертання. Модуль визначається векторним добутком і залежить від кута між швидкістю та вектором кутової швидкості.",
+      "Механічна система — сукупність тіл або матеріальних точок, які виділено для розгляду. Сили між тілами цієї системи є внутрішніми, а сили від тіл поза системою — зовнішніми. Той самий контакт може бути внутрішнім чи зовнішнім залежно від меж обраної системи.",
+      "Диференціюємо суму імпульсів за часом. Для кожного тіла похідна імпульсу дорівнює сумі сил на нього. За третім законом Ньютона внутрішні сили виникають парами, рівними за модулем і протилежними за напрямом. У сумі по всій системі ці пари скорочуються."
+    ],
+    "formulas": [
+      {
+        "name": "Сила інерції поступальної системи",
+        "latex": "\\vec F_{in}=-m\\vec a_0",
+        "eq": "Fін = −ma₀",
+        "vars": "Fін — сила інерції; m — маса тіла; a₀ — прискорення системи відліку",
+        "steps": [
+          "a = a′ + a₀",
+          "ma = F",
+          "ma′ = F − ma₀"
+        ]
+      },
+      {
+        "name": "Відцентрова сила",
+        "latex": "F_{cf}=m\\omega^2R",
+        "eq": "Fвідц = mω²R",
+        "vars": "Fвідц — модуль відцентрової сили; ω — кутова швидкість; R — відстань до осі; m — маса",
+        "steps": [
+          "aₙ = ω²R",
+          "Fвідц = maₙ",
+          "Напрям — від осі."
+        ]
+      },
+      {
+        "name": "Сила Коріоліса",
+        "latex": "\\vec F_C=2m(\\vec v\\,^{\\prime}\\times\\vec\\omega)",
+        "eq": "F_C = 2m(v′ × ω)",
+        "vars": "F_C — сила Коріоліса; v′ — відносна швидкість; ω — вектор кутової швидкості; m — маса",
+        "steps": [
+          "a_C = 2ω × v′",
+          "F_C = −ma_C",
+          "Зміна порядку множників змінює знак."
+        ]
+      },
+      {
+        "name": "Імпульс системи",
+        "latex": "\\vec P=\\sum_i m_i\\vec v_i",
+        "eq": "P = Σ mᵢvᵢ",
+        "vars": "P — сумарний імпульс; mᵢ — маса i-го тіла; vᵢ — швидкість i-го тіла; i — індекс тіла",
+        "steps": [
+          "pᵢ = mᵢvᵢ",
+          "Додаємо всі вектори імпульсів."
+        ]
+      },
+      {
+        "name": "Рівняння для системи",
+        "latex": "\\frac{d\\vec P}{dt}=\\sum_i\\vec F_{i,ext}",
+        "eq": "dP/dt = Σ Fзовн",
+        "vars": "P — імпульс системи; t — час; Fзовн — зовнішня сила",
+        "steps": [
+          "Диференціюємо суму імпульсів.",
+          "Застосовуємо другий закон до кожного тіла.",
+          "Скорочуємо внутрішні пари сил."
+        ]
+      },
+      {
+        "name": "Закон збереження",
+        "latex": "\\sum_i\\vec F_{i,ext}=0\\Rightarrow\\vec P=\\mathrm{const}",
+        "eq": "Σ Fзовн = 0 ⇒ P = const",
+        "vars": "P — імпульс системи; Fзовн — зовнішня сила",
+        "steps": [
+          "Якщо похідна P за часом нульова, P не змінюється."
+        ]
+      }
+    ],
+    "formulaTable": [
+      [
+        "Сила інерції поступальної системи",
+        "\\vec F_{in}=-m\\vec a_0"
+      ],
+      [
+        "Відцентрова сила",
+        "F_{cf}=m\\omega^2R"
+      ],
+      [
+        "Сила Коріоліса",
+        "\\vec F_C=2m(\\vec v\\,^{\\prime}\\times\\vec\\omega)"
+      ],
+      [
+        "Імпульс системи",
+        "\\vec P=\\sum_i m_i\\vec v_i"
+      ],
+      [
+        "Рівняння для системи",
+        "\\frac{d\\vec P}{dt}=\\sum_i\\vec F_{i,ext}"
+      ],
+      [
+        "Закон збереження",
+        "\\sum_i\\vec F_{i,ext}=0\\Rightarrow\\vec P=\\mathrm{const}"
+      ]
+    ],
+    "quiz": [
+      {
+        "q": "Яка система неінерціальна?",
+        "o": [
+          "Система зі сталою векторною швидкістю",
+          "Система з прискоренням відносно інерціальної",
+          "Система в спокої відносно інерціальної",
+          "Будь-яка система координат"
+        ],
+        "a": 1,
+        "why": "Прискорення або обертання відносно інерціальної системи потребує сил інерції.",
+        "topic": "Неінерціальні системи відліку. Динаміка систем тіл",
+        "detail": []
+      },
+      {
+        "q": "Куди напрямлена поступальна сила інерції?",
+        "o": [
+          "Завжди вниз",
+          "Уздовж прискорення",
+          "Завжди вздовж швидкості",
+          "Проти прискорення системи"
+        ],
+        "a": 3,
+        "why": "Fін = −ma₀; мінус задає напрям.",
+        "topic": "Неінерціальні системи відліку. Динаміка систем тіл",
+        "detail": []
+      },
+      {
+        "q": "Як зміниться відцентрова сила при подвоєнні ω?",
+        "o": [
+          "У 2 рази збільшиться",
+          "У 4 рази зменшиться",
+          "У 4 рази збільшиться",
+          "Не зміниться"
+        ],
+        "a": 2,
+        "why": "Fвідц пропорційна квадрату ω.",
+        "topic": "Неінерціальні системи відліку. Динаміка систем тіл",
+        "detail": []
+      },
+      {
+        "q": "Коли сила Коріоліса нульова?",
+        "o": [
+          "Маса ненульова",
+          "v′ паралельна ω",
+          "v′ максимальна за сталого кута 90°",
+          "v′ перпендикулярна ω"
+        ],
+        "a": 1,
+        "why": "Модуль векторного добутку пропорційний синусу кута.",
+        "topic": "Неінерціальні системи відліку. Динаміка систем тіл",
+        "detail": []
+      },
+      {
+        "q": "Що визначає зміну імпульсу системи?",
+        "o": [
+          "Рівнодійна зовнішніх сил",
+          "Лише шлях",
+          "Сума модулів внутрішніх сил",
+          "Лише маса"
+        ],
+        "a": 0,
+        "why": "Внутрішні сили компенсуються парами при сумуванні.",
+        "topic": "Неінерціальні системи відліку. Динаміка систем тіл",
+        "detail": []
+      },
+      {
+        "q": "Одиниця імпульсу тіла?",
+        "o": [
+          "кг·м/с",
+          "Вт",
+          "Дж",
+          "Н/с"
+        ],
+        "a": 0,
+        "why": "p = mv; кг помножити на м/с.",
+        "topic": "Неінерціальні системи відліку. Динаміка систем тіл",
+        "detail": []
+      },
+      {
+        "q": "Чи змінюються імпульси окремих тіл у замкненій системі?",
+        "o": [
+          "Ніколи",
+          "Можуть змінюватися",
+          "Тільки за дії зовнішньої сили",
+          "Тільки при зміні маси"
+        ],
+        "a": 1,
+        "why": "Закон збереження стосується суми векторів імпульсів.",
+        "topic": "Неінерціальні системи відліку. Динаміка систем тіл",
+        "detail": []
+      },
+      {
+        "q": "Чи є сила інерції парою до реальної сили за третім законом?",
+        "o": [
+          "Ні",
+          "Так, лише при обертанні",
+          "Так, якщо маси рівні",
+          "Так, завжди"
+        ],
+        "a": 0,
+        "why": "Сила інерції виникає через вибір неінерціальної системи, а не взаємодію.",
+        "topic": "Неінерціальні системи відліку. Динаміка систем тіл",
+        "detail": []
+      },
+      {
+        "q": "Кабіна прискорюється вправо з 3 м/с². Маса 2 кг. Яка сила інерції?",
+        "o": [
+          "3 Н вправо",
+          "1,5 Н вліво",
+          "6 Н вправо",
+          "6 Н вліво"
+        ],
+        "a": 3,
+        "why": "−ma₀=−6 Н у напрямі осі вправо.",
+        "topic": "Неінерціальні системи відліку. Динаміка систем тіл",
+        "detail": []
+      },
+      {
+        "q": "m=0,5 кг, ω=5 рад/с, R=0,4 м. Яка відцентрова сила?",
+        "o": [
+          "10 Н",
+          "1 Н",
+          "0,1 Н",
+          "5 Н"
+        ],
+        "a": 3,
+        "why": "0,5·25·0,4=5 Н.",
+        "topic": "Неінерціальні системи відліку. Динаміка систем тіл",
+        "detail": []
+      },
+      {
+        "q": "Чи виконує сила Коріоліса роботу відносно рухомої системи?",
+        "o": [
+          "Так, завжди додатну",
+          "Лише коли швидкість паралельна осі",
+          "Так, завжди від’ємну",
+          "Ні, бо перпендикулярна відносній швидкості"
+        ],
+        "a": 3,
+        "why": "Скалярний добуток перпендикулярних векторів нульовий.",
+        "topic": "Неінерціальні системи відліку. Динаміка систем тіл",
+        "detail": []
+      },
+      {
+        "q": "Два тіла мають імпульси +5 і −3 кг·м/с. Яка сума?",
+        "o": [
+          "+8 кг·м/с",
+          "+2 кг·м/с",
+          "−8 кг·м/с",
+          "−2 кг·м/с"
+        ],
+        "a": 1,
+        "why": "Алгебраїчно додаємо проєкції: 5−3=2.",
+        "topic": "Неінерціальні системи відліку. Динаміка систем тіл",
+        "detail": []
+      },
+      {
+        "q": "Який запис відповідає поняттю «Сила інерції поступальної системи»?",
+        "o": [
+          "λ = m/l; dm = λdx",
+          "Fін = −ma₀",
+          "r_C = Σ mᵢrᵢ / Σ mᵢ",
+          "v_C = P/M"
+        ],
+        "a": 1,
+        "why": "a = a′ + a₀; ma = F; ma′ = F − ma₀. Fін — сила інерції; m — маса тіла; a₀ — прискорення системи відліку",
+        "detail": [
+          "a = a′ + a₀",
+          "ma = F",
+          "ma′ = F − ma₀"
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Відцентрова сила»?",
+        "o": [
+          "A = Eₖ₂ − Eₖ₁",
+          "Fвідц = mω²R",
+          "F_C = 2m(v′ × ω)",
+          "Eₖ = Σ mᵢvᵢ²/2"
+        ],
+        "a": 1,
+        "why": "aₙ = ω²R; Fвідц = maₙ; Напрям — від осі.. Fвідц — модуль відцентрової сили; ω — кутова швидкість; R — відстань до осі; m — маса",
+        "detail": [
+          "aₙ = ω²R",
+          "Fвідц = maₙ",
+          "Напрям — від осі."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Сила Коріоліса»?",
+        "o": [
+          "U=mgz+C",
+          "U=kx²/2",
+          "F=−∇U",
+          "F_C = 2m(v′ × ω)"
+        ],
+        "a": 3,
+        "why": "a_C = 2ω × v′; F_C = −ma_C; Зміна порядку множників змінює знак.. F_C — сила Коріоліса; v′ — відносна швидкість; ω — вектор кутової швидкості; m — маса",
+        "detail": [
+          "a_C = 2ω × v′",
+          "F_C = −ma_C",
+          "Зміна порядку множників змінює знак."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Імпульс системи»?",
+        "o": [
+          "Eₖ = mv²/2 = p²/(2m)",
+          "Ma_C = Σ Fзовн",
+          "F=−∇U",
+          "P = Σ mᵢvᵢ"
+        ],
+        "a": 3,
+        "why": "pᵢ = mᵢvᵢ; Додаємо всі вектори імпульсів.. P — сумарний імпульс; mᵢ — маса i-го тіла; vᵢ — швидкість i-го тіла; i — індекс тіла",
+        "detail": [
+          "pᵢ = mᵢvᵢ",
+          "Додаємо всі вектори імпульсів."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Рівняння для системи»?",
+        "o": [
+          "P = δA/dt = F·v",
+          "dP/dt = Σ Fзовн",
+          "U=mgz+C",
+          "∮ Fконс·dr = 0"
+        ],
+        "a": 1,
+        "why": "Диференціюємо суму імпульсів.; Застосовуємо другий закон до кожного тіла.; Скорочуємо внутрішні пари сил.. P — імпульс системи; t — час; Fзовн — зовнішня сила",
+        "detail": [
+          "Диференціюємо суму імпульсів.",
+          "Застосовуємо другий закон до кожного тіла.",
+          "Скорочуємо внутрішні пари сил."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Закон збереження»?",
+        "o": [
+          "F=−∇U",
+          "Σ Fзовн = 0 ⇒ P = const",
+          "A = Eₖ₂ − Eₖ₁",
+          "λ = m/l; dm = λdx"
+        ],
+        "a": 1,
+        "why": "Якщо похідна P за часом нульова, P не змінюється.. P — імпульс системи; Fзовн — зовнішня сила",
+        "detail": [
+          "Якщо похідна P за часом нульова, P не змінюється."
+        ],
+        "topic": "Формули"
+      }
+    ],
+    "tasks": [
+      {
+        "title": "Прискорена кабіна",
+        "level": "Практика",
+        "q": "Тіло масою 2 кг нерухоме відносно горизонтально прискореної кабіни. Прискорення кабіни 3 м/с². Знайти силу інерції.",
+        "given": "m = 2 кг; a₀ = 3 м/с²",
+        "find": "Fін",
+        "hint": "Визнач систему, відомі величини та фізичний закон. Лише потім підставляй дані.",
+        "steps": [
+          "Обираємо +Ox за прискоренням кабіни.",
+          "Застосовуємо формулу сили інерції; проєкція від’ємна.",
+          "Множимо 2 на 3, отримуємо 6 Н проти Ox."
+        ],
+        "answer": "6 Н проти прискорення кабіни.",
+        "guide": {
+          "vars": [
+            "m — маса, кг",
+            "a₀ — прискорення кабіни, м/с²",
+            "Fін — сила інерції, Н"
+          ],
+          "theory": "У поступально прискореній системі вводимо силу −ma₀; нерухомість відносно кабіни не означає відсутність прискорення відносно землі.",
+          "math": [
+            "F_{in,x}=-ma_0=-2\\cdot3=-6\\ \\mathrm{N}"
+          ],
+          "check": "кг·м/с² = Н."
+        },
+        "source": "",
+        "record": "",
+        "image": "assets/new-inertia.svg",
+        "imageCaption": "Авторська схема до задачі (не в масштабі).",
+        "visual": [
+          "assets/worked/momentum-28-09-1-01-1.png",
+          "assets/worked/momentum-28-09-1-01-2.png",
+          "assets/worked/momentum-28-09-1-01-step1.png",
+          "assets/worked/momentum-28-09-1-01-answer.png"
+        ]
+      },
+      {
+        "title": "Відцентрова сила",
+        "level": "Практика",
+        "q": "Точка масою 0,5 кг перебуває на відстані 0,4 м від осі диска, ω = 5 рад/с.",
+        "given": "m = 0,5 кг; R = 0,4 м; ω = 5 рад/с",
+        "find": "Fвідц",
+        "hint": "Визнач систему, відомі величини та фізичний закон. Лише потім підставляй дані.",
+        "steps": [
+          "Квадрат кутової швидкості дорівнює 25.",
+          "Множимо 0,5 на 25 і на 0,4.",
+          "У системі диска сила напрямлена від осі."
+        ],
+        "answer": "5 Н, від осі.",
+        "guide": {
+          "vars": [
+            "m — маса, кг",
+            "R — відстань до осі, м",
+            "ω — кутова швидкість, рад/с",
+            "Fвідц — сила інерції, Н"
+          ],
+          "theory": "За рівномірного обертання модуль відцентрової сили дорівнює mω²R.",
+          "math": [
+            "F_{cf}=m\\omega^2R=0.5\\cdot25\\cdot0.4=5\\ \\mathrm{N}"
+          ],
+          "check": "Радіан безрозмірний; одиниця сили Н."
+        },
+        "source": "",
+        "record": "",
+        "image": "assets/new-centrifugal.svg",
+        "imageCaption": "Авторська схема до задачі (не в масштабі).",
+        "visual": [
+          "assets/worked/momentum-28-09-1-02-1.png",
+          "assets/worked/momentum-28-09-1-02-2.png",
+          "assets/worked/momentum-28-09-1-02-step1.png",
+          "assets/worked/momentum-28-09-1-02-answer.png"
+        ]
+      }
+    ],
+    "oral": [
+      [
+        "Яка система неінерціальна?",
+        "Прискорення або обертання відносно інерціальної системи потребує сил інерції. Відповідь: Система з прискоренням відносно інерціальної."
+      ],
+      [
+        "Куди напрямлена поступальна сила інерції?",
+        "Fін = −ma₀; мінус задає напрям. Відповідь: Проти прискорення системи."
+      ],
+      [
+        "Як зміниться відцентрова сила при подвоєнні ω?",
+        "Fвідц пропорційна квадрату ω. Відповідь: У 4 рази збільшиться."
+      ],
+      [
+        "Коли сила Коріоліса нульова?",
+        "Модуль векторного добутку пропорційний синусу кута. Відповідь: v′ паралельна ω."
+      ],
+      [
+        "Що визначає зміну імпульсу системи?",
+        "Внутрішні сили компенсуються парами при сумуванні. Відповідь: Рівнодійна зовнішніх сил."
+      ],
+      [
+        "Одиниця імпульсу тіла?",
+        "p = mv; кг помножити на м/с. Відповідь: кг·м/с."
+      ],
+      [
+        "Чи змінюються імпульси окремих тіл у замкненій системі?",
+        "Закон збереження стосується суми векторів імпульсів. Відповідь: Можуть змінюватися."
+      ],
+      [
+        "Чи є сила інерції парою до реальної сили за третім законом?",
+        "Сила інерції виникає через вибір неінерціальної системи, а не взаємодію. Відповідь: Ні."
+      ],
+      [
+        "Кабіна прискорюється вправо з 3 м/с². Маса 2 кг. Яка сила інерції?",
+        "−ma₀=−6 Н у напрямі осі вправо. Відповідь: 6 Н вліво."
+      ],
+      [
+        "m=0,5 кг, ω=5 рад/с, R=0,4 м. Яка відцентрова сила?",
+        "0,5·25·0,4=5 Н. Відповідь: 5 Н."
+      ],
+      [
+        "Чи виконує сила Коріоліса роботу відносно рухомої системи?",
+        "Скалярний добуток перпендикулярних векторів нульовий. Відповідь: Ні, бо перпендикулярна відносній швидкості."
+      ],
+      [
+        "Два тіла мають імпульси +5 і −3 кг·м/с. Яка сума?",
+        "Алгебраїчно додаємо проєкції: 5−3=2. Відповідь: +2 кг·м/с."
+      ],
+      [
+        "Виведи: Сила інерції поступальної системи",
+        "a = a′ + a₀; ma = F; ma′ = F − ma₀. Позначення: Fін — сила інерції; m — маса тіла; a₀ — прискорення системи відліку"
+      ],
+      [
+        "Виведи: Відцентрова сила",
+        "aₙ = ω²R; Fвідц = maₙ; Напрям — від осі.. Позначення: Fвідц — модуль відцентрової сили; ω — кутова швидкість; R — відстань до осі; m — маса"
+      ],
+      [
+        "Виведи: Сила Коріоліса",
+        "a_C = 2ω × v′; F_C = −ma_C; Зміна порядку множників змінює знак.. Позначення: F_C — сила Коріоліса; v′ — відносна швидкість; ω — вектор кутової швидкості; m — маса"
+      ],
+      [
+        "Виведи: Імпульс системи",
+        "pᵢ = mᵢvᵢ; Додаємо всі вектори імпульсів.. Позначення: P — сумарний імпульс; mᵢ — маса i-го тіла; vᵢ — швидкість i-го тіла; i — індекс тіла"
+      ],
+      [
+        "Виведи: Рівняння для системи",
+        "Диференціюємо суму імпульсів.; Застосовуємо другий закон до кожного тіла.; Скорочуємо внутрішні пари сил.. Позначення: P — імпульс системи; t — час; Fзовн — зовнішня сила"
+      ],
+      [
+        "Виведи: Закон збереження",
+        "Якщо похідна P за часом нульова, P не змінюється.. Позначення: P — імпульс системи; Fзовн — зовнішня сила"
+      ]
+    ],
+    "cards": [
+      [
+        "Яка система неінерціальна?",
+        "Система з прискоренням відносно інерціальної"
+      ],
+      [
+        "Куди напрямлена поступальна сила інерції?",
+        "Проти прискорення системи"
+      ],
+      [
+        "Як зміниться відцентрова сила при подвоєнні ω?",
+        "У 4 рази збільшиться"
+      ],
+      [
+        "Коли сила Коріоліса нульова?",
+        "v′ паралельна ω"
+      ],
+      [
+        "Що визначає зміну імпульсу системи?",
+        "Рівнодійна зовнішніх сил"
+      ],
+      [
+        "Одиниця імпульсу тіла?",
+        "кг·м/с"
+      ],
+      [
+        "Чи змінюються імпульси окремих тіл у замкненій системі?",
+        "Можуть змінюватися"
+      ],
+      [
+        "Чи є сила інерції парою до реальної сили за третім законом?",
+        "Ні"
+      ],
+      [
+        "Кабіна прискорюється вправо з 3 м/с². Маса 2 кг. Яка сила інерції?",
+        "6 Н вліво"
+      ],
+      [
+        "m=0,5 кг, ω=5 рад/с, R=0,4 м. Яка відцентрова сила?",
+        "5 Н"
+      ],
+      [
+        "Чи виконує сила Коріоліса роботу відносно рухомої системи?",
+        "Ні, бо перпендикулярна відносній швидкості"
+      ],
+      [
+        "Два тіла мають імпульси +5 і −3 кг·м/с. Яка сума?",
+        "+2 кг·м/с"
+      ],
+      [
+        "Сила інерції поступальної системи",
+        "Fін = −ma₀"
+      ],
+      [
+        "Відцентрова сила",
+        "Fвідц = mω²R"
+      ],
+      [
+        "Сила Коріоліса",
+        "F_C = 2m(v′ × ω)"
+      ],
+      [
+        "Імпульс системи",
+        "P = Σ mᵢvᵢ"
+      ],
+      [
+        "Рівняння для системи",
+        "dP/dt = Σ Fзовн"
+      ],
+      [
+        "Закон збереження",
+        "Σ Fзовн = 0 ⇒ P = const"
+      ]
+    ],
+    "glossary": [
+      [
+        "Сила інерції",
+        "Позначення: Fін. Одиниця СІ: Н."
+      ],
+      [
+        "Маса тіла",
+        "Позначення: m. Одиниця СІ: кг."
+      ],
+      [
+        "Прискорення системи відліку",
+        "Позначення: a₀. Одиниця СІ: м/с²."
+      ],
+      [
+        "Модуль відцентрової сили",
+        "Позначення: Fвідц. Одиниця СІ: Н."
+      ],
+      [
+        "Кутова швидкість",
+        "Позначення: ω. Одиниця СІ: рад/с."
+      ],
+      [
+        "Відстань до осі",
+        "Позначення: R. Одиниця СІ: м."
+      ],
+      [
+        "Маса",
+        "Позначення: m. Одиниця СІ: кг."
+      ],
+      [
+        "Сила коріоліса",
+        "Позначення: F_C. Одиниця СІ: Н."
+      ],
+      [
+        "Відносна швидкість",
+        "Позначення: v′. Одиниця СІ: м/с."
+      ],
+      [
+        "Вектор кутової швидкості",
+        "Позначення: ω. Одиниця СІ: рад/с."
+      ],
+      [
+        "Сумарний імпульс",
+        "Позначення: P. Одиниця СІ: кг·м/с."
+      ],
+      [
+        "Маса i-го тіла",
+        "Позначення: mᵢ. Одиниця СІ: кг."
+      ],
+      [
+        "Швидкість i-го тіла",
+        "Позначення: vᵢ. Одиниця СІ: м/с."
+      ],
+      [
+        "Індекс тіла",
+        "Позначення: i. Одиниця СІ: —."
+      ],
+      [
+        "Імпульс системи",
+        "Позначення: P. Одиниця СІ: кг·м/с."
+      ],
+      [
+        "Час",
+        "Позначення: t. Одиниця СІ: с."
+      ],
+      [
+        "Зовнішня сила",
+        "Позначення: Fзовн. Одиниця СІ: Н."
+      ]
+    ],
+    "symbols": {
+      "\\vec F_{in}=-m\\vec a_0": [
+        [
+          "Fін",
+          "сила інерції",
+          "Н"
+        ],
+        [
+          "m",
+          "маса тіла",
+          "кг"
+        ],
+        [
+          "a₀",
+          "прискорення системи відліку",
+          "м/с²"
+        ]
+      ],
+      "F_{cf}=m\\omega^2R": [
+        [
+          "Fвідц",
+          "модуль відцентрової сили",
+          "Н"
+        ],
+        [
+          "ω",
+          "кутова швидкість",
+          "рад/с"
+        ],
+        [
+          "R",
+          "відстань до осі",
+          "м"
+        ],
+        [
+          "m",
+          "маса",
+          "кг"
+        ]
+      ],
+      "\\vec F_C=2m(\\vec v\\,^{\\prime}\\times\\vec\\omega)": [
+        [
+          "F_C",
+          "сила Коріоліса",
+          "Н"
+        ],
+        [
+          "v′",
+          "відносна швидкість",
+          "м/с"
+        ],
+        [
+          "ω",
+          "вектор кутової швидкості",
+          "рад/с"
+        ],
+        [
+          "m",
+          "маса",
+          "кг"
+        ]
+      ],
+      "\\vec P=\\sum_i m_i\\vec v_i": [
+        [
+          "P",
+          "сумарний імпульс",
+          "кг·м/с"
+        ],
+        [
+          "mᵢ",
+          "маса i-го тіла",
+          "кг"
+        ],
+        [
+          "vᵢ",
+          "швидкість i-го тіла",
+          "м/с"
+        ],
+        [
+          "i",
+          "індекс тіла",
+          "—"
+        ]
+      ],
+      "\\frac{d\\vec P}{dt}=\\sum_i\\vec F_{i,ext}": [
+        [
+          "P",
+          "імпульс системи",
+          "кг·м/с"
+        ],
+        [
+          "t",
+          "час",
+          "с"
+        ],
+        [
+          "Fзовн",
+          "зовнішня сила",
+          "Н"
+        ]
+      ],
+      "\\sum_i\\vec F_{i,ext}=0\\Rightarrow\\vec P=\\mathrm{const}": [
+        [
+          "P",
+          "імпульс системи",
+          "кг·м/с"
+        ],
+        [
+          "Fзовн",
+          "зовнішня сила",
+          "Н"
+        ]
+      ]
+    },
+    "podcast": [
+      {
+        "title": "Неінерціальні системи та поступальний рух",
+        "text": "Інерціальна система відліку — система, у якій вільне тіло не змінює вектор швидкості. Система, що рухається з прискоренням або обертається відносно інерціальної, є неінерціальною. Другий закон Ньютона в її координатах потребує введення сил інерції. Нехай рухома система поступально рухається з прискоренням a₀. Прискорення тіла відносно нерухомої системи дорівнює сумі відносного прискорення a′ і прискорення початку рухомої системи. Після підстановки в другий закон Ньютона переносимо доданок ma₀ у праву частину. Додатковий доданок має розмірність сили та спрямований проти прискорення системи. Сила інерції не описує взаємодію двох тіл. Вона залежить від вибору системи відліку й пропорційна масі. У гальмівному автобусі пасажир відносно салону зміщується вперед; відносно дороги він продовжує рухатися за інерцією. Важливий акцент: Спочатку записується зв’язок прискорень у двох системах, а вже з нього виникає додатковий силовий член. Сили інерції потрібні для застосування звичної форми рівнянь у неінерціальній системі. Стрілка над літерою означає вектор; штрих позначає величину в рухомій системі. Знак мінус вказує на протилежний напрям, а не від’ємну масу."
+      },
+      {
+        "title": "Відцентрова сила інерції",
+        "text": "У системі, що рівномірно обертається, тіло, нерухоме відносно цієї системи, у нерухомій системі рухається по колу. Доцентрове прискорення спрямоване до осі обертання. У рухомій системі його відносне прискорення дорівнює нулю, тому реальна сила врівноважується відцентровою силою інерції. Радіус R є перпендикулярною відстанню до осі обертання, а не довільною відстанню від початку координат. Модуль відцентрової сили зростає пропорційно масі, радіусу та квадрату кутової швидкості. Важливий акцент: Не плутати доцентрову результуючу реальних сил у нерухомій системі з відцентровою силою інерції в обертовій системі. Вони належать до різних описів."
+      },
+      {
+        "title": "Сила Коріоліса",
+        "text": "Якщо тіло рухається відносно обертової системи, з’являється ще один доданок — сила Коріоліса. Вона перпендикулярна до відносної швидкості й осі обертання. Модуль визначається векторним добутком і залежить від кута між швидкістю та вектором кутової швидкості. За сталої кутової швидкості та збігу початків систем прискорення в інерціальній системі включає відносне, відцентрове за модулем (доцентрове за напрямом) та коріолісове прискорення. Перенесення двох останніх членів дає відповідні сили інерції. В обертовій системі Землі коріолісова сила впливає на напрям великих потоків повітря та води. Маятник Фуко демонструє обертання Землі відносно площини коливань. Вплив на реальні річки залежить також від рельєфу та гідродинаміки. Важливий акцент: Розгляд починається з нерухомої в обертовій системі точки, а далі — з точки, яка рухається відносно неї. Маятник Фуко наведено як приклад прояву обертання Землі. Векторний добуток дає вектор, перпендикулярний до обох множників. Якщо вони паралельні, добуток дорівнює нулю."
+      },
+      {
+        "title": "Система тіл та імпульс",
+        "text": "Механічна система — сукупність тіл або матеріальних точок, які виділено для розгляду. Сили між тілами цієї системи є внутрішніми, а сили від тіл поза системою — зовнішніми. Той самий контакт може бути внутрішнім чи зовнішнім залежно від меж обраної системи. Імпульс матеріальної точки — векторна величина: добуток скалярної маси тіла на вектор його швидкості. Імпульс системи адитивний: треба додати імпульси векторно, а не додавати їх модулі. Важливий акцент: Вибір системи є першою дією при розв’язанні задачі. Не можна визначити внутрішні сили без того, щоб назвати тіла, включені в систему."
+      },
+      {
+        "title": "Другий закон Ньютона для системи. Збереження імпульсу",
+        "text": "Диференціюємо суму імпульсів за часом. Для кожного тіла похідна імпульсу дорівнює сумі сил на нього. За третім законом Ньютона внутрішні сили виникають парами, рівними за модулем і протилежними за напрямом. У сумі по всій системі ці пари скорочуються. Отже зміна повного імпульсу визначається лише рівнодійною зовнішніх сил. Замкнена система — система без зовнішніх сил у прийнятій моделі. Її сумарний імпульс сталий. При цьому імпульс окремого тіла може змінюватися. Імпульс сили — інтеграл сили за часом; його одиниця Н·с збігається з кг·м/с. Це не те саме поняття, що імпульс тіла, хоча імпульс рівнодійної сил дорівнює зміні імпульсу тіла або системи. Важливий акцент: Внутрішні сили не зникають для окремих тіл. Вони компенсуються тільки після складання рівнянь для всієї системи. Закон збереження — це незалежність сумарного імпульсу від часу."
+      },
+      {
+        "title": "Практичне повторення",
+        "text": "Прискорена кабіна. У поступально прискореній системі вводимо силу −ma₀; нерухомість відносно кабіни не означає відсутність прискорення відносно землі. Обираємо +Ox за прискоренням кабіни. Відцентрова сила. За рівномірного обертання модуль відцентрової сили дорівнює mω²R. Квадрат кутової швидкості дорівнює 25. Перед іспитом спробуй самостійно назвати закон, його умови та фізичний зміст."
+      }
+    ],
+    "simulation": "",
+    "standard": "Візуальні задачі: умова, дані, теорія, покрокове розв’язання, відповідь. Рисунки схематичні."
+  },
+  {
+    "id": "momentum-28-09-2",
+    "title": "Збереження імпульсу. Центр мас",
+    "date": "28.09.2026",
+    "duration": "28 хв 49 с",
+    "unit": "Механіка",
+    "description": "Умови збереження імпульсу, центр мас, теорема руху центра мас, загальне поняття змінної маси.",
+    "source": "28.09.26ch2.mp4. Конспект за розшифровкою; таймкоди приблизні. Акценти лектора — переказ. Додаткові задачі, пояснення та питання укладено окремо.",
+    "pdf": "pdf/momentum-28-09-2.pdf",
+    "reading": [
+      {
+        "title": "1. Збереження імпульсу в незамкнених системах",
+        "time": "00:00–07:20",
+        "blocks": [
+          [
+            "p",
+            "Закон збереження імпульсу можна застосовувати не лише до замкненої системи. Якщо зовнішні сили є, але їх векторна сума дорівнює нулю, повний імпульс зберігається точно."
+          ],
+          [
+            "p",
+            "У короткому процесі імпульс зовнішніх сил може бути малим порівняно з характерними змінами імпульсів тіл. Тоді збереження повного імпульсу є наближеним. Важливий саме інтеграл зовнішньої сили за часом, а не сама тривалість процесу."
+          ],
+          [
+            "p",
+            "Третя ситуація: зовнішня рівнодійна має нульову проєкцію на певну вісь. Тоді зберігається тільки відповідна компонента повного імпульсу, навіть якщо інші компоненти змінюються."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 00:00–07:20",
+            "Три умови треба вміти називати окремо. У перших двох використовується векторна форма (точно або наближено), у третій — проєкція."
+          ],
+          [
+            "math",
+            "\\sum_i F_{i,x}=0\\Rightarrow P_x=\\mathrm{const}",
+            "Збереження проєкції",
+            true
+          ]
+        ]
+      },
+      {
+        "title": "2. Центр мас як зважене середнє",
+        "time": "07:20–15:00",
+        "blocks": [
+          [
+            "p",
+            "Центр мас — геометрична точка, положення якої визначається розподілом маси системи. Це середнє положення частинок із вагами, пропорційними їх масам. Для двох тіл центр мас лежить на відрізку між ними, ближче до масивнішого. Він не обов’язково збігається з геометричним центром або належить речовині тіла."
+          ],
+          [
+            "p",
+            "Сумарний імпульс системи можна поділити на сумарну масу; так отримуємо швидкість центра мас. За сталих мас частинок вираз є похідною радіус-вектора центра мас."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 07:20–15:00",
+            "Формула швидкості центра мас виникає з імпульсу системи. Необхідно розуміти, навіщо в чисельнику присутні добутки мас на координати."
+          ],
+          [
+            "math",
+            "\\vec r_C=\\frac{\\sum_i m_i\\vec r_i}{\\sum_i m_i}",
+            "Радіус-вектор центра мас",
+            true
+          ],
+          [
+            "math",
+            "\\vec v_C=\\frac{\\vec P}{M}",
+            "Швидкість центра мас",
+            true
+          ],
+          [
+            "figure",
+            "new-com",
+            "Центр мас системи з двома вантажами."
+          ]
+        ]
+      },
+      {
+        "title": "3. Теорема про рух центра мас",
+        "time": "15:00–21:40",
+        "blocks": [
+          [
+            "p",
+            "Центр мас системи сталої маси рухається так, ніби в ньому зосереджена вся маса, а на нього діє рівнодійна зовнішніх сил. Це не означає, що в центрі мас фізично прикладено всі сили: теорема описує поступальний рух системи."
+          ],
+          [
+            "p",
+            "У системі відліку, пов’язаній із центром мас, сумарний імпульс дорівнює нулю. Для двох тіл їхні імпульси мають однакові модулі та протилежні напрями. Якщо центр мас прискорюється, пов’язана з ним система не обов’язково інерціальна."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 15:00–21:40",
+            "Система центра мас особливо зручна для задач взаємодії двох тіл: імпульси в ній протилежні."
+          ],
+          [
+            "math",
+            "M\\vec a_C=\\sum_i\\vec F_{i,ext}",
+            "Теорема руху центра мас",
+            true
+          ],
+          [
+            "math",
+            "\\sum_i m_i(\\vec v_i-\\vec v_C)=0",
+            "Імпульс у системі центра мас",
+            true
+          ]
+        ]
+      },
+      {
+        "title": "4. Системи зі змінною масою",
+        "time": "21:40–28:00",
+        "blocks": [
+          [
+            "p",
+            "Якщо система обмінюється речовиною з оточенням, її маса змінюється. Приклад з лекції — транспортний засіб, який завантажується на ходу. Маса, що приєднується або відділяється, переносить імпульс. Тому рівняння для системи зі сталою масою не можна механічно переносити на відкриту систему."
+          ],
+          [
+            "p",
+            "Під час складання балансу імпульсу необхідно чітко визначити, що саме входить до системи, відносно якої системи відліку задана швидкість речовини та який знак має зміна маси. Детальне виведення рівнянь відкритих систем належить до подальшого курсу механіки."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 21:40–28:00",
+            "У записі наголошено, що рух тіл змінної маси не обмежується одним прикладом; серед інших прикладів є завантаження транспорту."
+          ]
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "1. Збереження імпульсу в незамкнених системах",
+        "time": "00:00–07:20",
+        "text": [
+          "Закон збереження імпульсу можна застосовувати не лише до замкненої системи. Якщо зовнішні сили є, але їх векторна сума дорівнює нулю, повний імпульс зберігається точно.",
+          "У короткому процесі імпульс зовнішніх сил може бути малим порівняно з характерними змінами імпульсів тіл. Тоді збереження повного імпульсу є наближеним. Важливий саме інтеграл зовнішньої сили за часом, а не сама тривалість процесу.",
+          "Третя ситуація: зовнішня рівнодійна має нульову проєкцію на певну вісь. Тоді зберігається тільки відповідна компонента повного імпульсу, навіть якщо інші компоненти змінюються."
+        ],
+        "equations": [
+          "Σ Fзовн,x = 0 ⇒ Pₓ = const"
+        ]
+      },
+      {
+        "title": "2. Центр мас як зважене середнє",
+        "time": "07:20–15:00",
+        "text": [
+          "Центр мас — геометрична точка, положення якої визначається розподілом маси системи. Це середнє положення частинок із вагами, пропорційними їх масам. Для двох тіл центр мас лежить на відрізку між ними, ближче до масивнішого. Він не обов’язково збігається з геометричним центром або належить речовині тіла.",
+          "Сумарний імпульс системи можна поділити на сумарну масу; так отримуємо швидкість центра мас. За сталих мас частинок вираз є похідною радіус-вектора центра мас."
+        ],
+        "equations": [
+          "r_C = Σ mᵢrᵢ / Σ mᵢ",
+          "v_C = P/M"
+        ]
+      },
+      {
+        "title": "3. Теорема про рух центра мас",
+        "time": "15:00–21:40",
+        "text": [
+          "Центр мас системи сталої маси рухається так, ніби в ньому зосереджена вся маса, а на нього діє рівнодійна зовнішніх сил. Це не означає, що в центрі мас фізично прикладено всі сили: теорема описує поступальний рух системи.",
+          "У системі відліку, пов’язаній із центром мас, сумарний імпульс дорівнює нулю. Для двох тіл їхні імпульси мають однакові модулі та протилежні напрями. Якщо центр мас прискорюється, пов’язана з ним система не обов’язково інерціальна."
+        ],
+        "equations": [
+          "Ma_C = Σ Fзовн",
+          "Σ mᵢ(vᵢ − v_C) = 0"
+        ]
+      },
+      {
+        "title": "4. Системи зі змінною масою",
+        "time": "21:40–28:00",
+        "text": [
+          "Якщо система обмінюється речовиною з оточенням, її маса змінюється. Приклад з лекції — транспортний засіб, який завантажується на ходу. Маса, що приєднується або відділяється, переносить імпульс. Тому рівняння для системи зі сталою масою не можна механічно переносити на відкриту систему.",
+          "Під час складання балансу імпульсу необхідно чітко визначити, що саме входить до системи, відносно якої системи відліку задана швидкість речовини та який знак має зміна маси. Детальне виведення рівнянь відкритих систем належить до подальшого курсу механіки."
+        ],
+        "equations": []
+      }
+    ],
+    "summary": [
+      "Закон збереження імпульсу можна застосовувати не лише до замкненої системи. Якщо зовнішні сили є, але їх векторна сума дорівнює нулю, повний імпульс зберігається точно.",
+      "Центр мас — геометрична точка, положення якої визначається розподілом маси системи. Це середнє положення частинок із вагами, пропорційними їх масам. Для двох тіл центр мас лежить на відрізку між ними, ближче до масивнішого. Він не обов’язково збігається з геометричним центром або належить речовині тіла.",
+      "Центр мас системи сталої маси рухається так, ніби в ньому зосереджена вся маса, а на нього діє рівнодійна зовнішніх сил. Це не означає, що в центрі мас фізично прикладено всі сили: теорема описує поступальний рух системи.",
+      "Якщо система обмінюється речовиною з оточенням, її маса змінюється. Приклад з лекції — транспортний засіб, який завантажується на ходу. Маса, що приєднується або відділяється, переносить імпульс. Тому рівняння для системи зі сталою масою не можна механічно переносити на відкриту систему."
+    ],
+    "formulas": [
+      {
+        "name": "Збереження проєкції",
+        "latex": "\\sum_i F_{i,x}=0\\Rightarrow P_x=\\mathrm{const}",
+        "eq": "Σ Fзовн,x = 0 ⇒ Pₓ = const",
+        "vars": "Fзовн,x — проєкція зовнішньої сили; Pₓ — проєкція імпульсу",
+        "steps": [
+          "Проєктуємо закон dP/dt = Σ Fзовн на Ox.",
+          "За нульової правої частини похідна Pₓ нульова."
+        ]
+      },
+      {
+        "name": "Радіус-вектор центра мас",
+        "latex": "\\vec r_C=\\frac{\\sum_i m_i\\vec r_i}{\\sum_i m_i}",
+        "eq": "r_C = Σ mᵢrᵢ / Σ mᵢ",
+        "vars": "r_C — радіус-вектор центра мас; rᵢ — радіус-вектор i-го тіла; mᵢ — маса i-го тіла",
+        "steps": [
+          "Множимо кожен радіус-вектор на масу.",
+          "Додаємо результати.",
+          "Ділимо на загальну масу."
+        ]
+      },
+      {
+        "name": "Швидкість центра мас",
+        "latex": "\\vec v_C=\\frac{\\vec P}{M}",
+        "eq": "v_C = P/M",
+        "vars": "v_C — швидкість центра мас; P — імпульс системи; M — загальна маса",
+        "steps": [
+          "Диференціюємо r_C за сталих мас.",
+          "Чисельник стає сумою імпульсів."
+        ]
+      },
+      {
+        "name": "Теорема руху центра мас",
+        "latex": "M\\vec a_C=\\sum_i\\vec F_{i,ext}",
+        "eq": "Ma_C = Σ Fзовн",
+        "vars": "M — маса системи; a_C — прискорення центра мас; Fзовн — зовнішня сила",
+        "steps": [
+          "P = Mv_C",
+          "dP/dt = M dv_C/dt",
+          "Підставляємо закон для системи."
+        ]
+      },
+      {
+        "name": "Імпульс у системі центра мас",
+        "latex": "\\sum_i m_i(\\vec v_i-\\vec v_C)=0",
+        "eq": "Σ mᵢ(vᵢ − v_C) = 0",
+        "vars": "mᵢ — маса тіла; vᵢ — швидкість тіла; v_C — швидкість центра мас",
+        "steps": [
+          "Розкриваємо суму: P − Mv_C.",
+          "Оскільки P = Mv_C, результат нуль."
+        ]
+      }
+    ],
+    "formulaTable": [
+      [
+        "Збереження проєкції",
+        "\\sum_i F_{i,x}=0\\Rightarrow P_x=\\mathrm{const}"
+      ],
+      [
+        "Радіус-вектор центра мас",
+        "\\vec r_C=\\frac{\\sum_i m_i\\vec r_i}{\\sum_i m_i}"
+      ],
+      [
+        "Швидкість центра мас",
+        "\\vec v_C=\\frac{\\vec P}{M}"
+      ],
+      [
+        "Теорема руху центра мас",
+        "M\\vec a_C=\\sum_i\\vec F_{i,ext}"
+      ],
+      [
+        "Імпульс у системі центра мас",
+        "\\sum_i m_i(\\vec v_i-\\vec v_C)=0"
+      ]
+    ],
+    "quiz": [
+      {
+        "q": "Коли імпульс незамкненої системи зберігається точно?",
+        "o": [
+          "Коли швидкість одного тіла нульова",
+          "Коли рівнодійна зовнішніх сил нульова",
+          "Коли внутрішні сили нульові",
+          "Коли маси однакові"
+        ],
+        "a": 1,
+        "why": "Вирішальним є dP/dt = Σ Fзовн.",
+        "topic": "Збереження імпульсу. Центр мас",
+        "detail": []
+      },
+      {
+        "q": "Якщо ΣFₓ = 0, але ΣFᵧ ≠ 0, що зберігається?",
+        "o": [
+          "Модуль P обов’язково",
+          "Pᵧ",
+          "Pₓ",
+          "Усі компоненти"
+        ],
+        "a": 2,
+        "why": "Рівняння для проєкцій застосовуються незалежно.",
+        "topic": "Збереження імпульсу. Центр мас",
+        "detail": []
+      },
+      {
+        "q": "Де центр мас двох тіл?",
+        "o": [
+          "Ближче до легшого",
+          "Завжди посередині",
+          "Завжди поза відрізком",
+          "Ближче до важчого тіла"
+        ],
+        "a": 3,
+        "why": "Координата є зваженим середнім із додатними вагами.",
+        "topic": "Збереження імпульсу. Центр мас",
+        "detail": []
+      },
+      {
+        "q": "Яка швидкість центра мас?",
+        "o": [
+          "M/P",
+          "P/M",
+          "Добуток мас і швидкостей",
+          "Сума модулів швидкостей"
+        ],
+        "a": 1,
+        "why": "Загальний імпульс дорівнює Mv_C.",
+        "topic": "Збереження імпульсу. Центр мас",
+        "detail": []
+      },
+      {
+        "q": "Який сумарний імпульс у системі центра мас?",
+        "o": [
+          "Нуль",
+          "Завжди 1 кг·м/с",
+          "M/a",
+          "Імпульс найбільшого тіла"
+        ],
+        "a": 0,
+        "why": "Після переходу до системи центра мас P − Mv_C = 0.",
+        "topic": "Збереження імпульсу. Центр мас",
+        "detail": []
+      },
+      {
+        "q": "Чи може центр мас бути поза речовиною тіла?",
+        "o": [
+          "Так",
+          "Ні",
+          "Лише при нульовій масі",
+          "Лише для точкової маси"
+        ],
+        "a": 0,
+        "why": "Наприклад, центр мас однорідного кільця розміщений у його порожнині.",
+        "topic": "Збереження імпульсу. Центр мас",
+        "detail": []
+      },
+      {
+        "q": "Що прискорює центр мас замкненої системи?",
+        "o": [
+          "Взаємні сили тяжіння всередині",
+          "Внутрішнє тертя",
+          "Нічого: a_C = 0",
+          "Внутрішня сила пружності"
+        ],
+        "a": 2,
+        "why": "Зовнішня рівнодійна нульова.",
+        "topic": "Збереження імпульсу. Центр мас",
+        "detail": []
+      },
+      {
+        "q": "Що треба врахувати при зміні маси відкритої системи?",
+        "o": [
+          "Лише координату центра мас",
+          "Лише температуру",
+          "Лише зміну об’єму",
+          "Перенесення імпульсу речовиною"
+        ],
+        "a": 3,
+        "why": "Речовина, яка входить або виходить, має імпульс.",
+        "topic": "Збереження імпульсу. Центр мас",
+        "detail": []
+      },
+      {
+        "q": "Маси 2 та 6 кг стоять у x=0 та x=4 м. Де центр мас?",
+        "o": [
+          "1 м",
+          "3 м",
+          "4 м",
+          "2 м"
+        ],
+        "a": 1,
+        "why": "(2·0+6·4)/8=3 м.",
+        "topic": "Збереження імпульсу. Центр мас",
+        "detail": []
+      },
+      {
+        "q": "Pₓ=12 кг·м/с; M=4 кг. Яка швидкість центра мас?",
+        "o": [
+          "3 м/с",
+          "8 м/с",
+          "0,33 м/с",
+          "48 м/с"
+        ],
+        "a": 0,
+        "why": "v_C=P/M=12/4.",
+        "topic": "Збереження імпульсу. Центр мас",
+        "detail": []
+      },
+      {
+        "q": "На систему 5 кг діє рівнодійна 10 Н. Яке прискорення центра мас?",
+        "o": [
+          "5 м/с²",
+          "50 м/с²",
+          "2 м/с²",
+          "0,5 м/с²"
+        ],
+        "a": 2,
+        "why": "a_C=F/M=10/5.",
+        "topic": "Збереження імпульсу. Центр мас",
+        "detail": []
+      },
+      {
+        "q": "Дві частинки 1 та 3 кг мають проєкції швидкості 6 і −2 м/с. Який Pₓ?",
+        "o": [
+          "0",
+          "−6 кг·м/с",
+          "4 кг·м/с",
+          "12 кг·м/с"
+        ],
+        "a": 0,
+        "why": "1·6+3·(−2)=0.",
+        "topic": "Збереження імпульсу. Центр мас",
+        "detail": []
+      },
+      {
+        "q": "Який запис відповідає поняттю «Збереження проєкції»?",
+        "o": [
+          "U=mgz+C",
+          "A = Eₖ₂ − Eₖ₁",
+          "λ = m/l; dm = λdx",
+          "Σ Fзовн,x = 0 ⇒ Pₓ = const"
+        ],
+        "a": 3,
+        "why": "Проєктуємо закон dP/dt = Σ Fзовн на Ox.; За нульової правої частини похідна Pₓ нульова.. Fзовн,x — проєкція зовнішньої сили; Pₓ — проєкція імпульсу",
+        "detail": [
+          "Проєктуємо закон dP/dt = Σ Fзовн на Ox.",
+          "За нульової правої частини похідна Pₓ нульова."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Радіус-вектор центра мас»?",
+        "o": [
+          "A = Eₖ₂ − Eₖ₁",
+          "r_C = Σ mᵢrᵢ / Σ mᵢ",
+          "P = δA/dt = F·v",
+          "dP/dt = Σ Fзовн"
+        ],
+        "a": 1,
+        "why": "Множимо кожен радіус-вектор на масу.; Додаємо результати.; Ділимо на загальну масу.. r_C — радіус-вектор центра мас; rᵢ — радіус-вектор i-го тіла; mᵢ — маса i-го тіла",
+        "detail": [
+          "Множимо кожен радіус-вектор на масу.",
+          "Додаємо результати.",
+          "Ділимо на загальну масу."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Швидкість центра мас»?",
+        "o": [
+          "Fₓ=−∂U/∂x",
+          "∮ Fконс·dr = 0",
+          "Σ Fзовн,x = 0 ⇒ Pₓ = const",
+          "v_C = P/M"
+        ],
+        "a": 3,
+        "why": "Диференціюємо r_C за сталих мас.; Чисельник стає сумою імпульсів.. v_C — швидкість центра мас; P — імпульс системи; M — загальна маса",
+        "detail": [
+          "Диференціюємо r_C за сталих мас.",
+          "Чисельник стає сумою імпульсів."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Теорема руху центра мас»?",
+        "o": [
+          "Σ Fзовн,x = 0 ⇒ Pₓ = const",
+          "Ma_C = Σ Fзовн",
+          "Σ mᵢ(vᵢ − v_C) = 0",
+          "v_C = P/M"
+        ],
+        "a": 1,
+        "why": "P = Mv_C; dP/dt = M dv_C/dt; Підставляємо закон для системи.. M — маса системи; a_C — прискорення центра мас; Fзовн — зовнішня сила",
+        "detail": [
+          "P = Mv_C",
+          "dP/dt = M dv_C/dt",
+          "Підставляємо закон для системи."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Імпульс у системі центра мас»?",
+        "o": [
+          "F=−∇U",
+          "Δp = ∫ F dt",
+          "A₁₂ = U₁−U₂ = −ΔU",
+          "Σ mᵢ(vᵢ − v_C) = 0"
+        ],
+        "a": 3,
+        "why": "Розкриваємо суму: P − Mv_C.; Оскільки P = Mv_C, результат нуль.. mᵢ — маса тіла; vᵢ — швидкість тіла; v_C — швидкість центра мас",
+        "detail": [
+          "Розкриваємо суму: P − Mv_C.",
+          "Оскільки P = Mv_C, результат нуль."
+        ],
+        "topic": "Формули"
+      }
+    ],
+    "tasks": [
+      {
+        "title": "Центр мас стрижня з двома вантажами",
+        "level": "Практика",
+        "q": "На кінцях однорідного стрижня довжиною 0,8 м і масою 0,05 кг розміщено вантажі 0,25 і 0,10 кг. Знайти центр мас від першого вантажу.",
+        "given": "m₁=0,25 кг; m₂=0,10 кг; m₀=0,05 кг; l=0,8 м",
+        "find": "x_C",
+        "hint": "Визнач систему, відомі величини та фізичний закон. Лише потім підставляй дані.",
+        "steps": [
+          "Обираємо x₁=0, x₂=0,8 м, x₀=0,4 м.",
+          "Обчислюємо чисельник: 0,25·0 + 0,10·0,8 + 0,05·0,4 = 0,10 кг·м.",
+          "Загальна маса 0,40 кг. Ділимо 0,10 на 0,40."
+        ],
+        "answer": "0,25 м від першого вантажу.",
+        "guide": {
+          "vars": [
+            "m₁,m₂ — маси вантажів, кг",
+            "m₀ — маса стрижня, кг",
+            "l — довжина, м",
+            "x_C — координата центра мас, м"
+          ],
+          "theory": "Зважуємо координати масами; центр мас однорідного стрижня лежить посередині.",
+          "math": [
+            "x_C=\\frac{m_1x_1+m_2x_2+m_0x_0}{m_1+m_2+m_0}",
+            "x_C=\\frac{0.10}{0.40}=0.25\\ \\mathrm{m}"
+          ],
+          "check": "Координата між 0 і 0,8 м, ближче до важчої маси."
+        },
+        "source": "Подласов, збірник 2023 · №3.22, с. 12",
+        "record": "",
+        "image": "assets/new-com.svg",
+        "imageCaption": "Авторська схема до задачі (не в масштабі).",
+        "visual": [
+          "assets/worked/momentum-28-09-2-01-1.png",
+          "assets/worked/momentum-28-09-2-01-2.png",
+          "assets/worked/momentum-28-09-2-01-step1.png",
+          "assets/worked/momentum-28-09-2-01-answer.png"
+        ]
+      },
+      {
+        "title": "Злипання двох кульок",
+        "level": "Практика",
+        "q": "Дві кульки масами 40 г і 60 г мають швидкості 0,6 і 0,4 м/с під кутом 60° одна до одної; після зіткнення злипаються.",
+        "given": "m₁=0,04 кг; m₂=0,06 кг; v₁=0,6 м/с; v₂=0,4 м/с; α=60°",
+        "find": "v",
+        "hint": "Визнач систему, відомі величини та фізичний закон. Лише потім підставляй дані.",
+        "steps": [
+          "Імпульси обох кульок за модулем рівні 0,024 кг·м/с.",
+          "За теоремою косинусів модуль їх суми дорівнює 0,024√(2+2cos60°) = 0,024√3.",
+          "Ділимо на загальну масу 0,10 кг."
+        ],
+        "answer": "0,416 м/с.",
+        "guide": {
+          "vars": [
+            "m₁,m₂ — маси, кг",
+            "v₁,v₂ — модулі швидкостей, м/с",
+            "α — кут між швидкостями",
+            "v — модуль спільної швидкості, м/с"
+          ],
+          "theory": "Імпульс зберігається за відсутності значного зовнішнього імпульсу; кінетична енергія при злипанні не зберігається.",
+          "math": [
+            "\\vec v=\\frac{m_1\\vec v_1+m_2\\vec v_2}{m_1+m_2}",
+            "v=\\frac{0.024\\sqrt{3}}{0.10}\\approx0.416\\ \\mathrm{m/s}"
+          ],
+          "check": "Модуль отримуємо з векторної суми, не зі суми модулів."
+        },
+        "source": "Подласов, збірник 2023 · №3.8, с. 10",
+        "record": "",
+        "image": "assets/new-collision.svg",
+        "imageCaption": "Авторська схема до задачі (не в масштабі).",
+        "visual": [
+          "assets/worked/momentum-28-09-2-02-1.png",
+          "assets/worked/momentum-28-09-2-02-2.png",
+          "assets/worked/momentum-28-09-2-02-step1.png",
+          "assets/worked/momentum-28-09-2-02-answer.png"
+        ]
+      }
+    ],
+    "oral": [
+      [
+        "Коли імпульс незамкненої системи зберігається точно?",
+        "Вирішальним є dP/dt = Σ Fзовн. Відповідь: Коли рівнодійна зовнішніх сил нульова."
+      ],
+      [
+        "Якщо ΣFₓ = 0, але ΣFᵧ ≠ 0, що зберігається?",
+        "Рівняння для проєкцій застосовуються незалежно. Відповідь: Pₓ."
+      ],
+      [
+        "Де центр мас двох тіл?",
+        "Координата є зваженим середнім із додатними вагами. Відповідь: Ближче до важчого тіла."
+      ],
+      [
+        "Яка швидкість центра мас?",
+        "Загальний імпульс дорівнює Mv_C. Відповідь: P/M."
+      ],
+      [
+        "Який сумарний імпульс у системі центра мас?",
+        "Після переходу до системи центра мас P − Mv_C = 0. Відповідь: Нуль."
+      ],
+      [
+        "Чи може центр мас бути поза речовиною тіла?",
+        "Наприклад, центр мас однорідного кільця розміщений у його порожнині. Відповідь: Так."
+      ],
+      [
+        "Що прискорює центр мас замкненої системи?",
+        "Зовнішня рівнодійна нульова. Відповідь: Нічого: a_C = 0."
+      ],
+      [
+        "Що треба врахувати при зміні маси відкритої системи?",
+        "Речовина, яка входить або виходить, має імпульс. Відповідь: Перенесення імпульсу речовиною."
+      ],
+      [
+        "Маси 2 та 6 кг стоять у x=0 та x=4 м. Де центр мас?",
+        "(2·0+6·4)/8=3 м. Відповідь: 3 м."
+      ],
+      [
+        "Pₓ=12 кг·м/с; M=4 кг. Яка швидкість центра мас?",
+        "v_C=P/M=12/4. Відповідь: 3 м/с."
+      ],
+      [
+        "На систему 5 кг діє рівнодійна 10 Н. Яке прискорення центра мас?",
+        "a_C=F/M=10/5. Відповідь: 2 м/с²."
+      ],
+      [
+        "Дві частинки 1 та 3 кг мають проєкції швидкості 6 і −2 м/с. Який Pₓ?",
+        "1·6+3·(−2)=0. Відповідь: 0."
+      ],
+      [
+        "Виведи: Збереження проєкції",
+        "Проєктуємо закон dP/dt = Σ Fзовн на Ox.; За нульової правої частини похідна Pₓ нульова.. Позначення: Fзовн,x — проєкція зовнішньої сили; Pₓ — проєкція імпульсу"
+      ],
+      [
+        "Виведи: Радіус-вектор центра мас",
+        "Множимо кожен радіус-вектор на масу.; Додаємо результати.; Ділимо на загальну масу.. Позначення: r_C — радіус-вектор центра мас; rᵢ — радіус-вектор i-го тіла; mᵢ — маса i-го тіла"
+      ],
+      [
+        "Виведи: Швидкість центра мас",
+        "Диференціюємо r_C за сталих мас.; Чисельник стає сумою імпульсів.. Позначення: v_C — швидкість центра мас; P — імпульс системи; M — загальна маса"
+      ],
+      [
+        "Виведи: Теорема руху центра мас",
+        "P = Mv_C; dP/dt = M dv_C/dt; Підставляємо закон для системи.. Позначення: M — маса системи; a_C — прискорення центра мас; Fзовн — зовнішня сила"
+      ],
+      [
+        "Виведи: Імпульс у системі центра мас",
+        "Розкриваємо суму: P − Mv_C.; Оскільки P = Mv_C, результат нуль.. Позначення: mᵢ — маса тіла; vᵢ — швидкість тіла; v_C — швидкість центра мас"
+      ]
+    ],
+    "cards": [
+      [
+        "Коли імпульс незамкненої системи зберігається точно?",
+        "Коли рівнодійна зовнішніх сил нульова"
+      ],
+      [
+        "Якщо ΣFₓ = 0, але ΣFᵧ ≠ 0, що зберігається?",
+        "Pₓ"
+      ],
+      [
+        "Де центр мас двох тіл?",
+        "Ближче до важчого тіла"
+      ],
+      [
+        "Яка швидкість центра мас?",
+        "P/M"
+      ],
+      [
+        "Який сумарний імпульс у системі центра мас?",
+        "Нуль"
+      ],
+      [
+        "Чи може центр мас бути поза речовиною тіла?",
+        "Так"
+      ],
+      [
+        "Що прискорює центр мас замкненої системи?",
+        "Нічого: a_C = 0"
+      ],
+      [
+        "Що треба врахувати при зміні маси відкритої системи?",
+        "Перенесення імпульсу речовиною"
+      ],
+      [
+        "Маси 2 та 6 кг стоять у x=0 та x=4 м. Де центр мас?",
+        "3 м"
+      ],
+      [
+        "Pₓ=12 кг·м/с; M=4 кг. Яка швидкість центра мас?",
+        "3 м/с"
+      ],
+      [
+        "На систему 5 кг діє рівнодійна 10 Н. Яке прискорення центра мас?",
+        "2 м/с²"
+      ],
+      [
+        "Дві частинки 1 та 3 кг мають проєкції швидкості 6 і −2 м/с. Який Pₓ?",
+        "0"
+      ],
+      [
+        "Збереження проєкції",
+        "Σ Fзовн,x = 0 ⇒ Pₓ = const"
+      ],
+      [
+        "Радіус-вектор центра мас",
+        "r_C = Σ mᵢrᵢ / Σ mᵢ"
+      ],
+      [
+        "Швидкість центра мас",
+        "v_C = P/M"
+      ],
+      [
+        "Теорема руху центра мас",
+        "Ma_C = Σ Fзовн"
+      ],
+      [
+        "Імпульс у системі центра мас",
+        "Σ mᵢ(vᵢ − v_C) = 0"
+      ]
+    ],
+    "glossary": [
+      [
+        "Проєкція зовнішньої сили",
+        "Позначення: Fзовн,x. Одиниця СІ: Н."
+      ],
+      [
+        "Проєкція імпульсу",
+        "Позначення: Pₓ. Одиниця СІ: кг·м/с."
+      ],
+      [
+        "Радіус-вектор центра мас",
+        "Позначення: r_C. Одиниця СІ: м."
+      ],
+      [
+        "Радіус-вектор i-го тіла",
+        "Позначення: rᵢ. Одиниця СІ: м."
+      ],
+      [
+        "Маса i-го тіла",
+        "Позначення: mᵢ. Одиниця СІ: кг."
+      ],
+      [
+        "Швидкість центра мас",
+        "Позначення: v_C. Одиниця СІ: м/с."
+      ],
+      [
+        "Імпульс системи",
+        "Позначення: P. Одиниця СІ: кг·м/с."
+      ],
+      [
+        "Загальна маса",
+        "Позначення: M. Одиниця СІ: кг."
+      ],
+      [
+        "Маса системи",
+        "Позначення: M. Одиниця СІ: кг."
+      ],
+      [
+        "Прискорення центра мас",
+        "Позначення: a_C. Одиниця СІ: м/с²."
+      ],
+      [
+        "Зовнішня сила",
+        "Позначення: Fзовн. Одиниця СІ: Н."
+      ],
+      [
+        "Маса тіла",
+        "Позначення: mᵢ. Одиниця СІ: кг."
+      ],
+      [
+        "Швидкість тіла",
+        "Позначення: vᵢ. Одиниця СІ: м/с."
+      ]
+    ],
+    "symbols": {
+      "\\sum_i F_{i,x}=0\\Rightarrow P_x=\\mathrm{const}": [
+        [
+          "Fзовн,x",
+          "проєкція зовнішньої сили",
+          "Н"
+        ],
+        [
+          "Pₓ",
+          "проєкція імпульсу",
+          "кг·м/с"
+        ]
+      ],
+      "\\vec r_C=\\frac{\\sum_i m_i\\vec r_i}{\\sum_i m_i}": [
+        [
+          "r_C",
+          "радіус-вектор центра мас",
+          "м"
+        ],
+        [
+          "rᵢ",
+          "радіус-вектор i-го тіла",
+          "м"
+        ],
+        [
+          "mᵢ",
+          "маса i-го тіла",
+          "кг"
+        ]
+      ],
+      "\\vec v_C=\\frac{\\vec P}{M}": [
+        [
+          "v_C",
+          "швидкість центра мас",
+          "м/с"
+        ],
+        [
+          "P",
+          "імпульс системи",
+          "кг·м/с"
+        ],
+        [
+          "M",
+          "загальна маса",
+          "кг"
+        ]
+      ],
+      "M\\vec a_C=\\sum_i\\vec F_{i,ext}": [
+        [
+          "M",
+          "маса системи",
+          "кг"
+        ],
+        [
+          "a_C",
+          "прискорення центра мас",
+          "м/с²"
+        ],
+        [
+          "Fзовн",
+          "зовнішня сила",
+          "Н"
+        ]
+      ],
+      "\\sum_i m_i(\\vec v_i-\\vec v_C)=0": [
+        [
+          "mᵢ",
+          "маса тіла",
+          "кг"
+        ],
+        [
+          "vᵢ",
+          "швидкість тіла",
+          "м/с"
+        ],
+        [
+          "v_C",
+          "швидкість центра мас",
+          "м/с"
+        ]
+      ]
+    },
+    "podcast": [
+      {
+        "title": "Збереження імпульсу в незамкнених системах",
+        "text": "Закон збереження імпульсу можна застосовувати не лише до замкненої системи. Якщо зовнішні сили є, але їх векторна сума дорівнює нулю, повний імпульс зберігається точно. У короткому процесі імпульс зовнішніх сил може бути малим порівняно з характерними змінами імпульсів тіл. Тоді збереження повного імпульсу є наближеним. Важливий саме інтеграл зовнішньої сили за часом, а не сама тривалість процесу. Третя ситуація: зовнішня рівнодійна має нульову проєкцію на певну вісь. Тоді зберігається тільки відповідна компонента повного імпульсу, навіть якщо інші компоненти змінюються. Важливий акцент: Три умови треба вміти називати окремо. У перших двох використовується векторна форма (точно або наближено), у третій — проєкція."
+      },
+      {
+        "title": "Центр мас як зважене середнє",
+        "text": "Центр мас — геометрична точка, положення якої визначається розподілом маси системи. Це середнє положення частинок із вагами, пропорційними їх масам. Для двох тіл центр мас лежить на відрізку між ними, ближче до масивнішого. Він не обов’язково збігається з геометричним центром або належить речовині тіла. Сумарний імпульс системи можна поділити на сумарну масу; так отримуємо швидкість центра мас. За сталих мас частинок вираз є похідною радіус-вектора центра мас. Важливий акцент: Формула швидкості центра мас виникає з імпульсу системи. Необхідно розуміти, навіщо в чисельнику присутні добутки мас на координати."
+      },
+      {
+        "title": "Теорема про рух центра мас",
+        "text": "Центр мас системи сталої маси рухається так, ніби в ньому зосереджена вся маса, а на нього діє рівнодійна зовнішніх сил. Це не означає, що в центрі мас фізично прикладено всі сили: теорема описує поступальний рух системи. У системі відліку, пов’язаній із центром мас, сумарний імпульс дорівнює нулю. Для двох тіл їхні імпульси мають однакові модулі та протилежні напрями. Якщо центр мас прискорюється, пов’язана з ним система не обов’язково інерціальна. Важливий акцент: Система центра мас особливо зручна для задач взаємодії двох тіл: імпульси в ній протилежні."
+      },
+      {
+        "title": "Системи зі змінною масою",
+        "text": "Якщо система обмінюється речовиною з оточенням, її маса змінюється. Приклад з лекції — транспортний засіб, який завантажується на ходу. Маса, що приєднується або відділяється, переносить імпульс. Тому рівняння для системи зі сталою масою не можна механічно переносити на відкриту систему. Під час складання балансу імпульсу необхідно чітко визначити, що саме входить до системи, відносно якої системи відліку задана швидкість речовини та який знак має зміна маси. Детальне виведення рівнянь відкритих систем належить до подальшого курсу механіки. Важливий акцент: У записі наголошено, що рух тіл змінної маси не обмежується одним прикладом; серед інших прикладів є завантаження транспорту."
+      },
+      {
+        "title": "Практичне повторення",
+        "text": "Центр мас стрижня з двома вантажами. Зважуємо координати масами; центр мас однорідного стрижня лежить посередині. Обираємо x₁=0, x₂=0,8 м, x₀=0,4 м. Злипання двох кульок. Імпульс зберігається за відсутності значного зовнішнього імпульсу; кінетична енергія при злипанні не зберігається. Імпульси обох кульок за модулем рівні 0,024 кг·м/с. Перед іспитом спробуй самостійно назвати закон, його умови та фізичний зміст."
+      }
+    ],
+    "simulation": "",
+    "standard": "Візуальні задачі: умова, дані, теорія, покрокове розв’язання, відповідь. Рисунки схематичні."
+  },
+  {
+    "id": "practice-01-10",
+    "title": "Практика: імпульс і центр мас",
+    "date": "01.10.2026",
+    "duration": "100 хв 33 с",
+    "unit": "Механіка",
+    "description": "Імпульс сили, контактна сила, інтегрування по масі, збереження імпульсу в проєкціях і центр мас.",
+    "source": "1.10.26.mp4; початок розшифровки 11:08, перерва близько 45:30–68:00. Приклади з розділенням тіл переказано в загальному вигляді без спеціальних застосувань. Конспект за розшифровкою; таймкоди приблизні. Акценти лектора — переказ. Додаткові задачі, пояснення та питання укладено окремо.",
+    "pdf": "pdf/practice-01-10.pdf",
+    "reading": [
+      {
+        "title": "1. Як вибрати закон",
+        "time": "11:08–15:45",
+        "blocks": [
+          [
+            "p",
+            "Задачі на імпульс починаються з визначення системи тіл та інерціальної системи відліку. Для замкненої системи повний імпульс зберігається. Якщо зовнішня сила ненульова, треба знайти її імпульс або перевірити, чи дорівнює нулю проєкція сили на обрану вісь."
+          ],
+          [
+            "p",
+            "Не слід ототожнювати імпульс тіла та імпульс сили. Перший характеризує стан руху, другий — дію сили протягом інтервалу часу. Для сталої за напрямом сили середня проєкція дорівнює зміні проєкції імпульсу, поділеній на час."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 11:08–15:45",
+            "Не починай із підстановки чисел. Спочатку запиши закон у векторному вигляді, визнач сили й напрями осей, потім проєкції."
+          ],
+          [
+            "math",
+            "\\Delta\\vec p=\\int_{t_1}^{t_2}\\vec F\\,dt",
+            "Теорема про зміну імпульсу",
+            true
+          ]
+        ]
+      },
+      {
+        "title": "2. Контактна сила: удар пластиліну",
+        "time": "15:45–30:35",
+        "blocks": [
+          [
+            "p",
+            "При непружному ударі пластиліну об стелю його швидкість зменшується до нуля. На пластилін діють сила тяжіння і контактна сила стелі, обидві вниз. За третім законом Ньютона пластилін діє на стелю силою такого самого модуля, але вгору."
+          ],
+          [
+            "p",
+            "Якщо тривалість зупинки задана, можна визначити середню контактну силу. Миттєва сила під час деформації невідома без закону її зміни."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 15:45–30:35",
+            "Не слід відкидати силу тяжіння без перевірки. Знак сили визначає обрана вісь; сила стелі на пластилін та сила пластиліну на стелю прикладені до різних тіл."
+          ],
+          [
+            "worked",
+            0
+          ]
+        ]
+      },
+      {
+        "title": "3. Інтегрування по масі: ланцюжок",
+        "time": "30:40–45:00; 68:40–71:10",
+        "blocks": [
+          [
+            "p",
+            "Однорідний ланцюжок у вертикальному положенні складається з елементів, які спочатку розташовані на різних висотах. При падінні швидкість елемента перед зупинкою залежить від його початкової висоти."
+          ],
+          [
+            "p",
+            "Масу елемента можна виразити через лінійну густину: маса всього ланцюжка поділена на довжину. Імпульси ударів окремих елементів додаються інтегруванням по висоті. Розрахунок описує суму ударних імпульсів, а не повний імпульс усіх сил тиску з урахуванням ваги вже укладеної частини."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 30:40–45:00; 68:40–71:10",
+            "Не треба вигадувати новий закон. Спочатку знайди швидкість елемента із кінематики, потім його масу з пропорції, і лише після цього інтегруй."
+          ],
+          [
+            "math",
+            "\\lambda=\\frac{m}{l},\\quad dm=\\lambda\\,dx",
+            "Лінійна густина",
+            true
+          ],
+          [
+            "worked",
+            1
+          ]
+        ]
+      },
+      {
+        "title": "4. Збереження проєкцій імпульсу",
+        "time": "71:10–79:50",
+        "blocks": [
+          [
+            "p",
+            "Для коротких внутрішніх взаємодій, коли зовнішнім імпульсом можна знехтувати, записують рівність сумарного імпульсу до і після. При русі в площині отримують два незалежні скалярні рівняння."
+          ],
+          [
+            "p",
+            "Якщо один компонент імпульсу одного тіла дорівнює нулю, інші тіла несуть весь сумарний імпульс системи вздовж цієї осі. Векторний запис допомагає не втратити напрям проєкцій."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 71:10–79:50",
+            "Спочатку запиши векторне рівняння; лише потім переходь до проєкцій. Конкретні спеціальні приклади розділення тіл не відтворено; залишено загальний фізичний принцип."
+          ]
+        ]
+      },
+      {
+        "title": "5. Людина на плоту",
+        "time": "79:50–92:00",
+        "blocks": [
+          [
+            "p",
+            "Якщо пліт і людина спочатку нерухомі, а горизонтальним опором води можна знехтувати, горизонтальний імпульс системи весь час дорівнює нулю. Швидкість людини відносно берега є сумою швидкості людини відносно плота та швидкості плота відносно берега."
+          ],
+          [
+            "p",
+            "Інтегрування рівняння швидкостей дає переміщення плота. Диференціювання дає прискорення, а множення на масу плота — горизонтальну силу."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 79:50–92:00",
+            "Відносну швидкість не можна безпосередньо підставляти в закон збереження імпульсу для берега. Усі швидкості в рівнянні мають бути відносно однієї системи."
+          ],
+          [
+            "worked",
+            2
+          ]
+        ]
+      },
+      {
+        "title": "6. Система центра мас і самостійна робота",
+        "time": "92:00–100:25",
+        "blocks": [
+          [
+            "p",
+            "Центр мас двох частинок визначають як зважене середнє радіус-векторів. Швидкість центра мас — сумарний імпульс, поділений на загальну масу. Віднімаючи швидкість центра мас від швидкості кожної частинки, отримуємо швидкості у цій системі."
+          ],
+          [
+            "p",
+            "У системі центра мас сумарний імпульс нульовий. Для двох частинок імпульси рівні за модулем і протилежні."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 92:00–100:25",
+            "Наприкінці заняття названо вправи для самостійної роботи. Серед чітко розпізнаних — №3.4 та №3.9. Нижче наведено авторське розв’язання №3.9; №3.4 залишено для самостійної роботи."
+          ],
+          [
+            "worked",
+            3
+          ]
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "1. Як вибрати закон",
+        "time": "11:08–15:45",
+        "text": [
+          "Задачі на імпульс починаються з визначення системи тіл та інерціальної системи відліку. Для замкненої системи повний імпульс зберігається. Якщо зовнішня сила ненульова, треба знайти її імпульс або перевірити, чи дорівнює нулю проєкція сили на обрану вісь.",
+          "Не слід ототожнювати імпульс тіла та імпульс сили. Перший характеризує стан руху, другий — дію сили протягом інтервалу часу. Для сталої за напрямом сили середня проєкція дорівнює зміні проєкції імпульсу, поділеній на час."
+        ],
+        "equations": [
+          "Δp = ∫ F dt"
+        ]
+      },
+      {
+        "title": "2. Контактна сила: удар пластиліну",
+        "time": "15:45–30:35",
+        "text": [
+          "При непружному ударі пластиліну об стелю його швидкість зменшується до нуля. На пластилін діють сила тяжіння і контактна сила стелі, обидві вниз. За третім законом Ньютона пластилін діє на стелю силою такого самого модуля, але вгору.",
+          "Якщо тривалість зупинки задана, можна визначити середню контактну силу. Миттєва сила під час деформації невідома без закону її зміни."
+        ],
+        "equations": []
+      },
+      {
+        "title": "3. Інтегрування по масі: ланцюжок",
+        "time": "30:40–45:00; 68:40–71:10",
+        "text": [
+          "Однорідний ланцюжок у вертикальному положенні складається з елементів, які спочатку розташовані на різних висотах. При падінні швидкість елемента перед зупинкою залежить від його початкової висоти.",
+          "Масу елемента можна виразити через лінійну густину: маса всього ланцюжка поділена на довжину. Імпульси ударів окремих елементів додаються інтегруванням по висоті. Розрахунок описує суму ударних імпульсів, а не повний імпульс усіх сил тиску з урахуванням ваги вже укладеної частини."
+        ],
+        "equations": [
+          "λ = m/l; dm = λdx"
+        ]
+      },
+      {
+        "title": "4. Збереження проєкцій імпульсу",
+        "time": "71:10–79:50",
+        "text": [
+          "Для коротких внутрішніх взаємодій, коли зовнішнім імпульсом можна знехтувати, записують рівність сумарного імпульсу до і після. При русі в площині отримують два незалежні скалярні рівняння.",
+          "Якщо один компонент імпульсу одного тіла дорівнює нулю, інші тіла несуть весь сумарний імпульс системи вздовж цієї осі. Векторний запис допомагає не втратити напрям проєкцій."
+        ],
+        "equations": []
+      },
+      {
+        "title": "5. Людина на плоту",
+        "time": "79:50–92:00",
+        "text": [
+          "Якщо пліт і людина спочатку нерухомі, а горизонтальним опором води можна знехтувати, горизонтальний імпульс системи весь час дорівнює нулю. Швидкість людини відносно берега є сумою швидкості людини відносно плота та швидкості плота відносно берега.",
+          "Інтегрування рівняння швидкостей дає переміщення плота. Диференціювання дає прискорення, а множення на масу плота — горизонтальну силу."
+        ],
+        "equations": []
+      },
+      {
+        "title": "6. Система центра мас і самостійна робота",
+        "time": "92:00–100:25",
+        "text": [
+          "Центр мас двох частинок визначають як зважене середнє радіус-векторів. Швидкість центра мас — сумарний імпульс, поділений на загальну масу. Віднімаючи швидкість центра мас від швидкості кожної частинки, отримуємо швидкості у цій системі.",
+          "У системі центра мас сумарний імпульс нульовий. Для двох частинок імпульси рівні за модулем і протилежні."
+        ],
+        "equations": []
+      }
+    ],
+    "summary": [
+      "Задачі на імпульс починаються з визначення системи тіл та інерціальної системи відліку. Для замкненої системи повний імпульс зберігається. Якщо зовнішня сила ненульова, треба знайти її імпульс або перевірити, чи дорівнює нулю проєкція сили на обрану вісь.",
+      "При непружному ударі пластиліну об стелю його швидкість зменшується до нуля. На пластилін діють сила тяжіння і контактна сила стелі, обидві вниз. За третім законом Ньютона пластилін діє на стелю силою такого самого модуля, але вгору.",
+      "Однорідний ланцюжок у вертикальному положенні складається з елементів, які спочатку розташовані на різних висотах. При падінні швидкість елемента перед зупинкою залежить від його початкової висоти.",
+      "Для коротких внутрішніх взаємодій, коли зовнішнім імпульсом можна знехтувати, записують рівність сумарного імпульсу до і після. При русі в площині отримують два незалежні скалярні рівняння.",
+      "Якщо пліт і людина спочатку нерухомі, а горизонтальним опором води можна знехтувати, горизонтальний імпульс системи весь час дорівнює нулю. Швидкість людини відносно берега є сумою швидкості людини відносно плота та швидкості плота відносно берега.",
+      "Центр мас двох частинок визначають як зважене середнє радіус-векторів. Швидкість центра мас — сумарний імпульс, поділений на загальну масу. Віднімаючи швидкість центра мас від швидкості кожної частинки, отримуємо швидкості у цій системі."
+    ],
+    "formulas": [
+      {
+        "name": "Теорема про зміну імпульсу",
+        "latex": "\\Delta\\vec p=\\int_{t_1}^{t_2}\\vec F\\,dt",
+        "eq": "Δp = ∫ F dt",
+        "vars": "p — імпульс тіла; F — рівнодійна сил; t — час",
+        "steps": [
+          "dp/dt = F",
+          "Інтегруємо обидві частини за часом."
+        ]
+      },
+      {
+        "name": "Лінійна густина",
+        "latex": "\\lambda=\\frac{m}{l},\\quad dm=\\lambda\\,dx",
+        "eq": "λ = m/l; dm = λdx",
+        "vars": "λ — лінійна густина; m — маса; l — довжина; dx — елемент довжини; dm — маса елемента",
+        "steps": [
+          "Для однорідного тіла λ стала.",
+          "Маса елемента дорівнює густині, помноженій на довжину."
+        ]
+      }
+    ],
+    "formulaTable": [
+      [
+        "Теорема про зміну імпульсу",
+        "\\Delta\\vec p=\\int_{t_1}^{t_2}\\vec F\\,dt"
+      ],
+      [
+        "Лінійна густина",
+        "\\lambda=\\frac{m}{l},\\quad dm=\\lambda\\,dx"
+      ]
+    ],
+    "quiz": [
+      {
+        "q": "Яку силу знаходимо з імпульсу за інтервал часу?",
+        "o": [
+          "Середню силу",
+          "Максимальну",
+          "Миттєву в кінці",
+          "Мінімальну"
+        ],
+        "a": 0,
+        "why": "Інтеграл сили поділений на тривалість є середнім.",
+        "topic": "Практика: імпульс і центр мас",
+        "detail": []
+      },
+      {
+        "q": "Куди діє сила стелі на пластилін?",
+        "o": [
+          "Горизонтально",
+          "Вгору",
+          "Завжди нуль",
+          "Вниз"
+        ],
+        "a": 3,
+        "why": "Стеля гальмує пластилін, що рухається вгору.",
+        "topic": "Практика: імпульс і центр мас",
+        "detail": []
+      },
+      {
+        "q": "Що означає dm у задачі про ланцюжок?",
+        "o": [
+          "Швидкість",
+          "Диференціал часу",
+          "Маса малого елемента",
+          "Маса всього ланцюжка"
+        ],
+        "a": 2,
+        "why": "dm=(m/l)dx для однорідного ланцюжка.",
+        "topic": "Практика: імпульс і центр мас",
+        "detail": []
+      },
+      {
+        "q": "Яка швидкість вільного падіння з висоти x?",
+        "o": [
+          "√(2gx)",
+          "x/g",
+          "gx",
+          "2gx"
+        ],
+        "a": 0,
+        "why": "Із v²=2gx за нульової початкової швидкості.",
+        "topic": "Практика: імпульс і центр мас",
+        "detail": []
+      },
+      {
+        "q": "Як співвідносяться швидкості людини на плоту?",
+        "o": [
+          "v = u·v′",
+          "v = v′−u завжди",
+          "v = u+v′",
+          "v = u/v′"
+        ],
+        "a": 2,
+        "why": "Додаємо вектори швидкості переносного й відносного руху.",
+        "topic": "Практика: імпульс і центр мас",
+        "detail": []
+      },
+      {
+        "q": "Що зберігається за відсутності горизонтальної зовнішньої сили?",
+        "o": [
+          "Кінетична енергія обов’язково",
+          "Вертикальний імпульс обов’язково",
+          "Горизонтальний імпульс",
+          "Шлях"
+        ],
+        "a": 2,
+        "why": "Проєкція рівняння dP/dt на горизонталь.",
+        "topic": "Практика: імпульс і центр мас",
+        "detail": []
+      },
+      {
+        "q": "Які імпульси двох частинок у системі центра мас?",
+        "o": [
+          "Однакові за напрямом",
+          "Обидва обов’язково нульові",
+          "Протилежні й рівні за модулем",
+          "Їх модулі відносяться як маси"
+        ],
+        "a": 2,
+        "why": "Сума двох векторів дорівнює нулю.",
+        "topic": "Практика: імпульс і центр мас",
+        "detail": []
+      },
+      {
+        "q": "Яка середня рівнодійна за зміни імпульсу 8 Н·с протягом 0,2 с?",
+        "o": [
+          "1,6 Н",
+          "0,025 Н",
+          "4 Н",
+          "40 Н"
+        ],
+        "a": 3,
+        "why": "Fсер=Δp/Δt=8/0,2.",
+        "topic": "Практика: імпульс і центр мас",
+        "detail": []
+      },
+      {
+        "q": "Маса ланцюжка 1 кг, довжина 1,4 м. Яка лінійна густина?",
+        "o": [
+          "0,4 кг/м",
+          "1 кг/м",
+          "1,4 кг/м",
+          "0,714 кг/м"
+        ],
+        "a": 3,
+        "why": "λ=m/l=1/1,4.",
+        "topic": "Практика: імпульс і центр мас",
+        "detail": []
+      },
+      {
+        "q": "Пліт 60 кг, людина 40 кг, відносне переміщення людини +2 м. Яке переміщення плота?",
+        "o": [
+          "+1,2 м",
+          "−0,8 м",
+          "−2 м",
+          "+0,8 м"
+        ],
+        "a": 1,
+        "why": "L=−ml′/(M+m)=−40·2/100.",
+        "topic": "Практика: імпульс і центр мас",
+        "detail": []
+      },
+      {
+        "q": "У №3.9 якою є x-компонента швидкості після злиття?",
+        "o": [
+          "2 м/с",
+          "13/3 м/с",
+          "6 м/с",
+          "10/3 м/с"
+        ],
+        "a": 3,
+        "why": "(2+2·4)/3=10/3.",
+        "topic": "Практика: імпульс і центр мас",
+        "detail": []
+      },
+      {
+        "q": "Який запис відповідає поняттю «Теорема про зміну імпульсу»?",
+        "o": [
+          "Δp = ∫ F dt",
+          "U=mgz+C",
+          "Σ Fзовн,x = 0 ⇒ Pₓ = const",
+          "F_C = 2m(v′ × ω)"
+        ],
+        "a": 0,
+        "why": "dp/dt = F; Інтегруємо обидві частини за часом.. p — імпульс тіла; F — рівнодійна сил; t — час",
+        "detail": [
+          "dp/dt = F",
+          "Інтегруємо обидві частини за часом."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Лінійна густина»?",
+        "o": [
+          "λ = m/l; dm = λdx",
+          "P = Σ mᵢvᵢ",
+          "dP/dt = Σ Fзовн",
+          "Σ mᵢ(vᵢ − v_C) = 0"
+        ],
+        "a": 0,
+        "why": "Для однорідного тіла λ стала.; Маса елемента дорівнює густині, помноженій на довжину.. λ — лінійна густина; m — маса; l — довжина; dx — елемент довжини; dm — маса елемента",
+        "detail": [
+          "Для однорідного тіла λ стала.",
+          "Маса елемента дорівнює густині, помноженій на довжину."
+        ],
+        "topic": "Формули"
+      }
+    ],
+    "tasks": [
+      {
+        "title": "№3.3 · Пластилін і стеля",
+        "level": "Практика",
+        "q": "Пластилін масою 10 г перед контактом зі стелею рухається вгору зі швидкістю 9,8 м/с. За 0,1 с він зупиняється. Визначити середню силу пластиліну на стелю.",
+        "given": "m=0,010 кг; v₀=9,8 м/с; v=0; Δt=0,1 с; g=9,8 м/с²",
+        "find": "N",
+        "hint": "Визнач систему, відомі величини та фізичний закон. Лише потім підставляй дані.",
+        "steps": [
+          "Вісь Oy напрямлена вгору. Початковий імпульс mv₀, кінцевий нуль.",
+          "Рівняння для пластиліну: Δpᵧ = (−N−mg)Δt.",
+          "Підставляємо Δpᵧ = −mv₀; після множення на −1 маємо mv₀ = (N+mg)Δt.",
+          "Ділимо на Δt та віднімаємо mg: N = mv₀/Δt − mg.",
+          "Обчислюємо 0,010·9,8/0,1 − 0,010·9,8 = 0,882 Н. За третім законом сила на стелю напрямлена вгору."
+        ],
+        "answer": "0,882 Н, вгору (середня сила).",
+        "guide": {
+          "vars": [
+            "m — маса, кг",
+            "v₀ — початкова швидкість, м/с",
+            "Δt — тривалість контакту, с",
+            "g — прискорення вільного падіння, м/с²",
+            "N — модуль середньої контактної сили, Н"
+          ],
+          "theory": "Другий закон Ньютона в імпульсній формі та третій закон Ньютона. Сили тяжіння і реакції стелі напрямлені вниз.",
+          "math": [
+            "-mv_0=(-N-mg)\\Delta t",
+            "N=\\frac{mv_0}{\\Delta t}-mg",
+            "N=0.882\\ \\mathrm{N}"
+          ],
+          "check": "Імпульс сили тяжіння врахований; 0,98 Н — модуль середньої рівнодійної, не контактної сили."
+        },
+        "source": "Подласов, збірник 2023 · №3.3, с. 10",
+        "record": "01.10 · 15:45–30:35",
+        "image": "assets/new-ceiling.svg",
+        "imageCaption": "Авторська схема до задачі (не в масштабі).",
+        "visual": [
+          "assets/worked/practice-01-10-01-1.png",
+          "assets/worked/practice-01-10-01-2.png",
+          "assets/worked/practice-01-10-01-step1.png",
+          "assets/worked/practice-01-10-01-step2.png",
+          "assets/worked/practice-01-10-01-answer.png"
+        ]
+      },
+      {
+        "title": "№3.6 · Ланцюжок",
+        "level": "Практика",
+        "q": "Однорідний ланцюжок масою 1 кг, довжиною 1,4 м, висить вертикально, нижній кінець торкається стола. Після звільнення падає. Знайти суму імпульсів ударів його елементів об стіл.",
+        "given": "m=1 кг; l=1,4 м; g=9,8 м/с²",
+        "find": "J",
+        "hint": "Визнач систему, відомі величини та фізичний закон. Лише потім підставляй дані.",
+        "steps": [
+          "Вільне падіння з висоти x: v² = 2gx, тому v=√(2gx).",
+          "Маса елемента dx дорівнює dm = (m/l)dx.",
+          "Величина ударного імпульсу елемента dJ = v dm.",
+          "Підставляємо й інтегруємо від 0 до l: J = (m/l)√(2g)∫₀ˡ√x dx.",
+          "Первісна √x дорівнює (2/3)x^(3/2). Підстановка меж дає J=(2m/3)√(2gl).",
+          "Чисельно: 2/3·√(2·9,8·1,4) ≈ 3,49 Н·с."
+        ],
+        "answer": "Приблизно 3,5 Н·с, вниз.",
+        "guide": {
+          "vars": [
+            "m — маса, кг",
+            "l — довжина, м",
+            "x — початкова висота елемента, м",
+            "dm — мала маса, кг",
+            "v — швидкість перед контактом, м/с",
+            "J — імпульс ударів, Н·с"
+          ],
+          "theory": "Ідеалізовані елементи падають вільно, зупиняються при контакті. Вага вже укладеної частини не входить до суми ударних імпульсів.",
+          "math": [
+            "v(x)=\\sqrt{2gx}",
+            "dJ=\\sqrt{2gx}\\frac{m}{l}\\,dx",
+            "J=\\frac{m\\sqrt{2g}}{l}\\int_0^l x^{1/2}\\,dx",
+            "J=\\frac{2m}{3}\\sqrt{2gl}\\approx3.49\\ \\mathrm{N\\,s}"
+          ],
+          "check": "Результат збігається з відповіддю збірника для ударного імпульсу."
+        },
+        "source": "Подласов, збірник 2023 · №3.6, с. 10",
+        "record": "01.10 · 30:40–45:00; 68:40–71:10",
+        "image": "assets/chain.svg",
+        "imageCaption": "Авторська схема до задачі (не в масштабі).",
+        "visual": [
+          "assets/worked/practice-01-10-02-1.png",
+          "assets/worked/practice-01-10-02-2.png",
+          "assets/worked/practice-01-10-02-step1.png",
+          "assets/worked/practice-01-10-02-step2.png",
+          "assets/worked/practice-01-10-02-answer.png"
+        ]
+      },
+      {
+        "title": "№3.17 · Пліт",
+        "level": "Практика",
+        "q": "Пліт маси M нерухомий на воді. Людина маси m проходить відносно плота відстань l′(t). Опором води знехтувати. Визначити переміщення та горизонтальну силу на пліт.",
+        "given": "M, m, l′(t); початковий імпульс 0",
+        "find": "L(t), Fₓ",
+        "hint": "Визнач систему, відомі величини та фізичний закон. Лише потім підставляй дані.",
+        "steps": [
+          "Обираємо +Ox у напрямі руху людини. Позначаємо u швидкість плота, v′ — швидкість людини щодо плота.",
+          "Швидкість людини відносно берега v=u+v′. Записуємо Mu+m(u+v′)=0.",
+          "Розкриваємо дужки: (M+m)u=−mv′; ділимо на M+m.",
+          "Інтегруємо швидкості від початку: L=−m l′/(M+m).",
+          "Диференціюємо u(t), а за другим законом Ньютона Fₓ=Mdu/dt."
+        ],
+        "answer": "L=−ml′/(M+m); Fₓ=−Mm/(M+m)·d²l′/dt².",
+        "guide": {
+          "vars": [
+            "M — маса плота, кг",
+            "m — маса людини, кг",
+            "l′ — переміщення відносно плота, м",
+            "L — переміщення плота відносно берега, м",
+            "u — швидкість плота, м/с",
+            "v′ — відносна швидкість людини, м/с",
+            "Fₓ — сила на пліт, Н"
+          ],
+          "theory": "Горизонтальна проєкція імпульсу системи стала. Класичне додавання швидкостей.",
+          "math": [
+            "u=-\\frac{m}{M+m}v^{\\prime}",
+            "L=-\\frac{m}{M+m}l^{\\prime}",
+            "F_x=-\\frac{Mm}{M+m}\\frac{d^2l^{\\prime}}{dt^2}"
+          ],
+          "check": "Мінус показує, що пліт переміщується протилежно відносному переміщенню людини."
+        },
+        "source": "Подласов, збірник 2023 · №3.17, с. 11",
+        "record": "01.10 · 79:50–92:00",
+        "image": "assets/new-raft.svg",
+        "imageCaption": "Авторська схема до задачі (не в масштабі).",
+        "visual": [
+          "assets/worked/practice-01-10-03-1.png",
+          "assets/worked/practice-01-10-03-2.png",
+          "assets/worked/practice-01-10-03-step1.png",
+          "assets/worked/practice-01-10-03-step2.png",
+          "assets/worked/practice-01-10-03-answer.png"
+        ]
+      },
+      {
+        "title": "№3.20 · Дві частинки у системі центра мас",
+        "level": "Практика",
+        "q": "Дві частинки мас m₁ та m₂ мають швидкості v₁ та v₂. Визначити швидкості та імпульси у системі центра мас.",
+        "given": "m₁,m₂,v₁,v₂",
+        "find": "u₁,u₂,p′₁,p′₂",
+        "hint": "Визнач систему, відомі величини та фізичний закон. Лише потім підставляй дані.",
+        "steps": [
+          "Знаходимо v_C=(m₁v₁+m₂v₂)/(m₁+m₂).",
+          "u₁=v₁−v_C; зводимо до спільного знаменника й скорочуємо m₁v₁.",
+          "Аналогічно u₂=v₂−v_C.",
+          "Множимо кожну швидкість на відповідну масу: імпульси рівні за модулем і протилежні."
+        ],
+        "answer": "u₁=m₂(v₁−v₂)/(m₁+m₂); u₂=m₁(v₂−v₁)/(m₁+m₂); p′₁=−p′₂.",
+        "guide": {
+          "vars": [
+            "m₁,m₂ — маси, кг",
+            "v₁,v₂ — вектори швидкостей, м/с",
+            "v_C — швидкість центра мас, м/с",
+            "u₁,u₂ — відносні швидкості, м/с",
+            "p′ — імпульс у системі центра мас, кг·м/с"
+          ],
+          "theory": "Від швидкості кожної частинки віднімаємо швидкість системи центра мас.",
+          "math": [
+            "\\vec u_1=\\frac{m_2(\\vec v_1-\\vec v_2)}{m_1+m_2}",
+            "\\vec u_2=\\frac{m_1(\\vec v_2-\\vec v_1)}{m_1+m_2}",
+            "\\vec p_1^{\\prime}=-\\vec p_2^{\\prime}"
+          ],
+          "check": "Сумарний імпульс у системі центра мас нульовий."
+        },
+        "source": "Подласов, збірник 2023 · №3.20, с. 11",
+        "record": "01.10 · 92:00–97:15",
+        "image": "assets/new-collision.svg",
+        "imageCaption": "Авторська схема до задачі (не в масштабі).",
+        "visual": [
+          "assets/worked/practice-01-10-04-1.png",
+          "assets/worked/practice-01-10-04-2.png",
+          "assets/worked/practice-01-10-04-step1.png",
+          "assets/worked/practice-01-10-04-answer.png"
+        ]
+      },
+      {
+        "title": "№3.9 · Злиття частинок",
+        "level": "Практика",
+        "q": "Частинка 2 удвічі масивніша за частинку 1. Їхні початкові швидкості (2;3) та (4;5) м/с. Після злиття знайти вектор швидкості та модуль.",
+        "given": "m₂=2m₁; v₁=(2;3); v₂=(4;5) м/с",
+        "find": "v, |v|",
+        "hint": "Визнач систему, відомі величини та фізичний закон. Лише потім підставляй дані.",
+        "steps": [
+          "Початковий імпульс m₁v₁+2m₁v₂.",
+          "Кінцевий імпульс 3m₁v. Скорочуємо m₁.",
+          "Проєкції: vₓ=(2+8)/3=10/3; vᵧ=(3+10)/3=13/3.",
+          "За теоремою Піфагора модуль √(100+169)/3 = √269/3."
+        ],
+        "answer": "(10/3; 13/3) м/с; 5,47 м/с.",
+        "guide": {
+          "vars": [
+            "m₁,m₂ — маси, кг",
+            "v₁,v₂ — швидкості, м/с",
+            "v — спільна швидкість, м/с"
+          ],
+          "theory": "При злитті у замкненій системі зберігається повний імпульс.",
+          "math": [
+            "\\vec v=\\frac{\\vec v_1+2\\vec v_2}{3}",
+            "v=\\frac{\\sqrt{269}}{3}\\approx5.47\\ \\mathrm{m/s}"
+          ],
+          "check": "У вихідній умові PDF є повтор індексу v₁; другий вектор трактовано як v₂."
+        },
+        "source": "Подласов, збірник 2023 · №3.9, с. 10",
+        "record": "",
+        "image": "assets/new-collision.svg",
+        "imageCaption": "Авторська схема до задачі (не в масштабі).",
+        "visual": [
+          "assets/worked/practice-01-10-05-1.png",
+          "assets/worked/practice-01-10-05-2.png",
+          "assets/worked/practice-01-10-05-step1.png",
+          "assets/worked/practice-01-10-05-answer.png"
+        ]
+      }
+    ],
+    "oral": [
+      [
+        "Яку силу знаходимо з імпульсу за інтервал часу?",
+        "Інтеграл сили поділений на тривалість є середнім. Відповідь: Середню силу."
+      ],
+      [
+        "Куди діє сила стелі на пластилін?",
+        "Стеля гальмує пластилін, що рухається вгору. Відповідь: Вниз."
+      ],
+      [
+        "Що означає dm у задачі про ланцюжок?",
+        "dm=(m/l)dx для однорідного ланцюжка. Відповідь: Маса малого елемента."
+      ],
+      [
+        "Яка швидкість вільного падіння з висоти x?",
+        "Із v²=2gx за нульової початкової швидкості. Відповідь: √(2gx)."
+      ],
+      [
+        "Як співвідносяться швидкості людини на плоту?",
+        "Додаємо вектори швидкості переносного й відносного руху. Відповідь: v = u+v′."
+      ],
+      [
+        "Що зберігається за відсутності горизонтальної зовнішньої сили?",
+        "Проєкція рівняння dP/dt на горизонталь. Відповідь: Горизонтальний імпульс."
+      ],
+      [
+        "Які імпульси двох частинок у системі центра мас?",
+        "Сума двох векторів дорівнює нулю. Відповідь: Протилежні й рівні за модулем."
+      ],
+      [
+        "Яка середня рівнодійна за зміни імпульсу 8 Н·с протягом 0,2 с?",
+        "Fсер=Δp/Δt=8/0,2. Відповідь: 40 Н."
+      ],
+      [
+        "Маса ланцюжка 1 кг, довжина 1,4 м. Яка лінійна густина?",
+        "λ=m/l=1/1,4. Відповідь: 0,714 кг/м."
+      ],
+      [
+        "Пліт 60 кг, людина 40 кг, відносне переміщення людини +2 м. Яке переміщення плота?",
+        "L=−ml′/(M+m)=−40·2/100. Відповідь: −0,8 м."
+      ],
+      [
+        "У №3.9 якою є x-компонента швидкості після злиття?",
+        "(2+2·4)/3=10/3. Відповідь: 10/3 м/с."
+      ],
+      [
+        "Виведи: Теорема про зміну імпульсу",
+        "dp/dt = F; Інтегруємо обидві частини за часом.. Позначення: p — імпульс тіла; F — рівнодійна сил; t — час"
+      ],
+      [
+        "Виведи: Лінійна густина",
+        "Для однорідного тіла λ стала.; Маса елемента дорівнює густині, помноженій на довжину.. Позначення: λ — лінійна густина; m — маса; l — довжина; dx — елемент довжини; dm — маса елемента"
+      ]
+    ],
+    "cards": [
+      [
+        "Яку силу знаходимо з імпульсу за інтервал часу?",
+        "Середню силу"
+      ],
+      [
+        "Куди діє сила стелі на пластилін?",
+        "Вниз"
+      ],
+      [
+        "Що означає dm у задачі про ланцюжок?",
+        "Маса малого елемента"
+      ],
+      [
+        "Яка швидкість вільного падіння з висоти x?",
+        "√(2gx)"
+      ],
+      [
+        "Як співвідносяться швидкості людини на плоту?",
+        "v = u+v′"
+      ],
+      [
+        "Що зберігається за відсутності горизонтальної зовнішньої сили?",
+        "Горизонтальний імпульс"
+      ],
+      [
+        "Які імпульси двох частинок у системі центра мас?",
+        "Протилежні й рівні за модулем"
+      ],
+      [
+        "Яка середня рівнодійна за зміни імпульсу 8 Н·с протягом 0,2 с?",
+        "40 Н"
+      ],
+      [
+        "Маса ланцюжка 1 кг, довжина 1,4 м. Яка лінійна густина?",
+        "0,714 кг/м"
+      ],
+      [
+        "Пліт 60 кг, людина 40 кг, відносне переміщення людини +2 м. Яке переміщення плота?",
+        "−0,8 м"
+      ],
+      [
+        "У №3.9 якою є x-компонента швидкості після злиття?",
+        "10/3 м/с"
+      ],
+      [
+        "Теорема про зміну імпульсу",
+        "Δp = ∫ F dt"
+      ],
+      [
+        "Лінійна густина",
+        "λ = m/l; dm = λdx"
+      ]
+    ],
+    "glossary": [
+      [
+        "Імпульс тіла",
+        "Позначення: p. Одиниця СІ: кг·м/с."
+      ],
+      [
+        "Рівнодійна сил",
+        "Позначення: F. Одиниця СІ: Н."
+      ],
+      [
+        "Час",
+        "Позначення: t. Одиниця СІ: с."
+      ],
+      [
+        "Лінійна густина",
+        "Позначення: λ. Одиниця СІ: кг/м."
+      ],
+      [
+        "Маса",
+        "Позначення: m. Одиниця СІ: кг."
+      ],
+      [
+        "Довжина",
+        "Позначення: l. Одиниця СІ: м."
+      ],
+      [
+        "Елемент довжини",
+        "Позначення: dx. Одиниця СІ: м."
+      ],
+      [
+        "Маса елемента",
+        "Позначення: dm. Одиниця СІ: кг."
+      ]
+    ],
+    "symbols": {
+      "\\Delta\\vec p=\\int_{t_1}^{t_2}\\vec F\\,dt": [
+        [
+          "p",
+          "імпульс тіла",
+          "кг·м/с"
+        ],
+        [
+          "F",
+          "рівнодійна сил",
+          "Н"
+        ],
+        [
+          "t",
+          "час",
+          "с"
+        ]
+      ],
+      "\\lambda=\\frac{m}{l},\\quad dm=\\lambda\\,dx": [
+        [
+          "λ",
+          "лінійна густина",
+          "кг/м"
+        ],
+        [
+          "m",
+          "маса",
+          "кг"
+        ],
+        [
+          "l",
+          "довжина",
+          "м"
+        ],
+        [
+          "dx",
+          "елемент довжини",
+          "м"
+        ],
+        [
+          "dm",
+          "маса елемента",
+          "кг"
+        ]
+      ]
+    },
+    "podcast": [
+      {
+        "title": "Як вибрати закон",
+        "text": "Задачі на імпульс починаються з визначення системи тіл та інерціальної системи відліку. Для замкненої системи повний імпульс зберігається. Якщо зовнішня сила ненульова, треба знайти її імпульс або перевірити, чи дорівнює нулю проєкція сили на обрану вісь. Не слід ототожнювати імпульс тіла та імпульс сили. Перший характеризує стан руху, другий — дію сили протягом інтервалу часу. Для сталої за напрямом сили середня проєкція дорівнює зміні проєкції імпульсу, поділеній на час. Важливий акцент: Не починай із підстановки чисел. Спочатку запиши закон у векторному вигляді, визнач сили й напрями осей, потім проєкції."
+      },
+      {
+        "title": "Контактна сила: удар пластиліну",
+        "text": "При непружному ударі пластиліну об стелю його швидкість зменшується до нуля. На пластилін діють сила тяжіння і контактна сила стелі, обидві вниз. За третім законом Ньютона пластилін діє на стелю силою такого самого модуля, але вгору. Якщо тривалість зупинки задана, можна визначити середню контактну силу. Миттєва сила під час деформації невідома без закону її зміни. Важливий акцент: Не слід відкидати силу тяжіння без перевірки. Знак сили визначає обрана вісь; сила стелі на пластилін та сила пластиліну на стелю прикладені до різних тіл."
+      },
+      {
+        "title": "Інтегрування по масі: ланцюжок",
+        "text": "Однорідний ланцюжок у вертикальному положенні складається з елементів, які спочатку розташовані на різних висотах. При падінні швидкість елемента перед зупинкою залежить від його початкової висоти. Масу елемента можна виразити через лінійну густину: маса всього ланцюжка поділена на довжину. Імпульси ударів окремих елементів додаються інтегруванням по висоті. Розрахунок описує суму ударних імпульсів, а не повний імпульс усіх сил тиску з урахуванням ваги вже укладеної частини. Важливий акцент: Не треба вигадувати новий закон. Спочатку знайди швидкість елемента із кінематики, потім його масу з пропорції, і лише після цього інтегруй."
+      },
+      {
+        "title": "Збереження проєкцій імпульсу",
+        "text": "Для коротких внутрішніх взаємодій, коли зовнішнім імпульсом можна знехтувати, записують рівність сумарного імпульсу до і після. При русі в площині отримують два незалежні скалярні рівняння. Якщо один компонент імпульсу одного тіла дорівнює нулю, інші тіла несуть весь сумарний імпульс системи вздовж цієї осі. Векторний запис допомагає не втратити напрям проєкцій. Важливий акцент: Спочатку запиши векторне рівняння; лише потім переходь до проєкцій. Конкретні спеціальні приклади розділення тіл не відтворено; залишено загальний фізичний принцип."
+      },
+      {
+        "title": "Людина на плоту",
+        "text": "Якщо пліт і людина спочатку нерухомі, а горизонтальним опором води можна знехтувати, горизонтальний імпульс системи весь час дорівнює нулю. Швидкість людини відносно берега є сумою швидкості людини відносно плота та швидкості плота відносно берега. Інтегрування рівняння швидкостей дає переміщення плота. Диференціювання дає прискорення, а множення на масу плота — горизонтальну силу. Важливий акцент: Відносну швидкість не можна безпосередньо підставляти в закон збереження імпульсу для берега. Усі швидкості в рівнянні мають бути відносно однієї системи."
+      },
+      {
+        "title": "Система центра мас і самостійна робота",
+        "text": "Центр мас двох частинок визначають як зважене середнє радіус-векторів. Швидкість центра мас — сумарний імпульс, поділений на загальну масу. Віднімаючи швидкість центра мас від швидкості кожної частинки, отримуємо швидкості у цій системі. У системі центра мас сумарний імпульс нульовий. Для двох частинок імпульси рівні за модулем і протилежні. Важливий акцент: Наприкінці заняття названо вправи для самостійної роботи. Серед чітко розпізнаних — №3.4 та №3.9. Нижче наведено авторське розв’язання №3.9; №3.4 залишено для самостійної роботи."
+      },
+      {
+        "title": "Практичне повторення",
+        "text": "№3.3 · Пластилін і стеля. Другий закон Ньютона в імпульсній формі та третій закон Ньютона. Сили тяжіння і реакції стелі напрямлені вниз. Вісь Oy напрямлена вгору. Початковий імпульс mv₀, кінцевий нуль. №3.6 · Ланцюжок. Ідеалізовані елементи падають вільно, зупиняються при контакті. Вага вже укладеної частини не входить до суми ударних імпульсів. Вільне падіння з висоти x: v² = 2gx, тому v=√(2gx). №3.17 · Пліт. Горизонтальна проєкція імпульсу системи стала. Класичне додавання швидкостей. Обираємо +Ox у напрямі руху людини. Позначаємо u швидкість плота, v′ — швидкість людини щодо плота. №3.20 · Дві частинки у системі центра мас. Від швидкості кожної частинки віднімаємо швидкість системи центра мас. Знаходимо v_C=(m₁v₁+m₂v₂)/(m₁+m₂). №3.9 · Злиття частинок. При злитті у замкненій системі зберігається повний імпульс. Початковий імпульс m₁v₁+2m₁v₂. Перед іспитом спробуй самостійно назвати закон, його умови та фізичний зміст."
+      }
+    ],
+    "simulation": "",
+    "standard": "Візуальні задачі: умова, дані, теорія, покрокове розв’язання, відповідь. Рисунки схематичні."
+  },
+  {
+    "id": "energy-05-10-1",
+    "title": "Робота, потужність і кінетична енергія",
+    "date": "05.10.2026",
+    "duration": "42 хв 08 с",
+    "unit": "Механіка",
+    "description": "Енергія як міра руху та взаємодії, елементарна робота, інтеграл роботи, потужність і теорема про кінетичну енергію.",
+    "source": "5.10.26ch1.mp4. Конспект за розшифровкою; таймкоди приблизні. Акценти лектора — переказ. Додаткові задачі, пояснення та питання укладено окремо.",
+    "pdf": "pdf/energy-05-10-1.pdf",
+    "reading": [
+      {
+        "title": "1. Енергія та її форми",
+        "time": "00:07–06:20",
+        "blocks": [
+          [
+            "p",
+            "Енергія — загальна кількісна міра руху й взаємодії матерії. У механіці розрізняють кінетичну енергію, пов’язану з рухом тіла, та потенціальну, пов’язану з взаємодією і взаємним розташуванням тіл. Енергія є скалярною величиною, вимірюється в джоулях."
+          ],
+          [
+            "p",
+            "Енергія може переходити з однієї форми в іншу. При цьому загальний енергетичний баланс має враховувати всі форми енергії. Механічна енергія не завжди зберігається окремо: наприклад, при терті частина механічної енергії переходить у внутрішню."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 00:07–06:20",
+            "Для майбутніх енергетиків важливо розуміти не тільки числові значення енергії, а і здатність системи виконувати роботу. Різні форми енергії мають спільний фізичний зміст."
+          ]
+        ]
+      },
+      {
+        "title": "2. Елементарна робота сили",
+        "time": "06:20–14:10",
+        "blocks": [
+          [
+            "p",
+            "Елементарна робота — скалярний добуток сили на малий вектор переміщення. Вона дорівнює добутку модулів сили й переміщення на косинус кута між ними. Якщо сила спрямована вздовж переміщення, робота додатна; протилежно — від’ємна; перпендикулярно — нульова."
+          ],
+          [
+            "p",
+            "Позначення δA використовується для елементарної роботи. Робота залежить від процесу і загалом не є диференціалом функції стану. Вектор переміщення dr є диференціалом радіус-вектора."
+          ],
+          [
+            "p",
+            "Проєкція сили на напрям руху дорівнює F cosα, тому можна множити цю проєкцію на елемент довжини шляху. Це еквівалентний спосіб обчислити скалярний добуток."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 06:20–14:10",
+            "Різниця між позначеннями δ і d має фізичний зміст: елементарна робота не є приростом окремої функції стану A."
+          ],
+          [
+            "math",
+            "\\delta A=\\vec F\\cdot d\\vec r=F\\,ds\\cos\\alpha",
+            "Елементарна робота",
+            true
+          ],
+          [
+            "note",
+            "Фізика з нуля",
+            "Скалярний добуток дає число, а не вектор. Від’ємна робота не означає, що сила має від’ємний модуль."
+          ]
+        ]
+      },
+      {
+        "title": "3. Робота на скінченній ділянці",
+        "time": "14:10–22:25",
+        "blocks": [
+          [
+            "p",
+            "Якщо сила змінюється уздовж траєкторії, розбиваємо рух на малі переміщення. Робота на всій ділянці дорівнює інтегралу елементарної роботи. При дії декількох сил робота рівнодійної дорівнює сумі робіт кожної сили, оскільки скалярний добуток лінійний."
+          ],
+          [
+            "p",
+            "Графічно робота дорівнює алгебраїчній площі під графіком проєкції сили на напрям руху від довжини шляху. Площі нижче осі враховуються зі знаком мінус."
+          ],
+          [
+            "p",
+            "За сталої сили й прямолінійного переміщення кут і модуль сили сталі, отже інтеграл зводиться до шкільної формули."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 14:10–22:25",
+            "Шкільна формула є окремим випадком інтегральної. Не можна множити довільну змінну силу на весь шлях."
+          ],
+          [
+            "math",
+            "A_{12}=\\int_1^2\\vec F\\cdot d\\vec r",
+            "Робота змінної сили",
+            true
+          ],
+          [
+            "math",
+            "A=Fs\\cos\\alpha",
+            "Стала сила",
+            true
+          ],
+          [
+            "figure",
+            "new-work",
+            "Скалярний добуток сили та переміщення."
+          ]
+        ]
+      },
+      {
+        "title": "4. Середня та миттєва потужність",
+        "time": "22:25–27:25",
+        "blocks": [
+          [
+            "p",
+            "Потужність характеризує швидкість виконання роботи. Середня потужність — відношення роботи до тривалості процесу. Миттєва потужність — робота за малий проміжок часу, поділена на цей проміжок у границі."
+          ],
+          [
+            "p",
+            "Підставляючи δA=F·dr, отримуємо скалярний добуток сили на миттєву швидкість. Від’ємна потужність означає, що сила зменшує механічну енергію через свою роботу. Одиниця потужності — ват, один джоуль за секунду."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 22:25–27:25",
+            "Середня потужність і функція миттєвої потужності — різні величини. Коли питають залежність від часу, треба шукати саме миттєву."
+          ],
+          [
+            "math",
+            "P=\\frac{\\delta A}{dt}=\\vec F\\cdot\\vec v",
+            "Миттєва потужність",
+            true
+          ],
+          [
+            "math",
+            "\\langle P\\rangle=\\frac{A}{\\Delta t}",
+            "Середня потужність",
+            true
+          ]
+        ]
+      },
+      {
+        "title": "5. Кінетична енергія та її теорема",
+        "time": "27:25–42:08",
+        "blocks": [
+          [
+            "p",
+            "Кінетична енергія матеріальної точки — скалярна величина, що характеризує її рух. В класичній механіці вона дорівнює половині добутку маси на квадрат модуля швидкості. Вона залежить від системи відліку."
+          ],
+          [
+            "p",
+            "Для виведення теореми застосовуємо другий закон Ньютона за сталої маси: сила дорівнює масі, помноженій на похідну швидкості за часом. Підставляємо в елементарну роботу. Оскільки dr=vdt, отримуємо m v·dv. Скалярний добуток v·dv дорівнює половині диференціала v²."
+          ],
+          [
+            "p",
+            "Інтегрування дає різницю кінетичних енергій між кінцевим і початковим станами. Теорема: робота рівнодійної всіх сил дорівнює приросту кінетичної енергії. Для малих змін δA=dEₖ."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 27:25–42:08",
+            "Теорема має інтегральний та диференціальний вигляд. Треба вміти не лише відтворити формулу енергії, а й пояснити, як вона виникла із закону Ньютона та означення роботи."
+          ],
+          [
+            "math",
+            "E_k=\\frac{mv^2}{2}=\\frac{p^2}{2m}",
+            "Кінетична енергія",
+            true
+          ],
+          [
+            "math",
+            "A_{\\mathrm{net}}=\\frac{mv_2^2}{2}-\\frac{mv_1^2}{2}",
+            "Теорема про кінетичну енергію",
+            true
+          ]
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "1. Енергія та її форми",
+        "time": "00:07–06:20",
+        "text": [
+          "Енергія — загальна кількісна міра руху й взаємодії матерії. У механіці розрізняють кінетичну енергію, пов’язану з рухом тіла, та потенціальну, пов’язану з взаємодією і взаємним розташуванням тіл. Енергія є скалярною величиною, вимірюється в джоулях.",
+          "Енергія може переходити з однієї форми в іншу. При цьому загальний енергетичний баланс має враховувати всі форми енергії. Механічна енергія не завжди зберігається окремо: наприклад, при терті частина механічної енергії переходить у внутрішню."
+        ],
+        "equations": []
+      },
+      {
+        "title": "2. Елементарна робота сили",
+        "time": "06:20–14:10",
+        "text": [
+          "Елементарна робота — скалярний добуток сили на малий вектор переміщення. Вона дорівнює добутку модулів сили й переміщення на косинус кута між ними. Якщо сила спрямована вздовж переміщення, робота додатна; протилежно — від’ємна; перпендикулярно — нульова.",
+          "Позначення δA використовується для елементарної роботи. Робота залежить від процесу і загалом не є диференціалом функції стану. Вектор переміщення dr є диференціалом радіус-вектора.",
+          "Проєкція сили на напрям руху дорівнює F cosα, тому можна множити цю проєкцію на елемент довжини шляху. Це еквівалентний спосіб обчислити скалярний добуток."
+        ],
+        "equations": [
+          "δA = F·dr = F ds cosα"
+        ]
+      },
+      {
+        "title": "3. Робота на скінченній ділянці",
+        "time": "14:10–22:25",
+        "text": [
+          "Якщо сила змінюється уздовж траєкторії, розбиваємо рух на малі переміщення. Робота на всій ділянці дорівнює інтегралу елементарної роботи. При дії декількох сил робота рівнодійної дорівнює сумі робіт кожної сили, оскільки скалярний добуток лінійний.",
+          "Графічно робота дорівнює алгебраїчній площі під графіком проєкції сили на напрям руху від довжини шляху. Площі нижче осі враховуються зі знаком мінус.",
+          "За сталої сили й прямолінійного переміщення кут і модуль сили сталі, отже інтеграл зводиться до шкільної формули."
+        ],
+        "equations": [
+          "A₁₂ = ∫ F·dr",
+          "A = Fs cosα"
+        ]
+      },
+      {
+        "title": "4. Середня та миттєва потужність",
+        "time": "22:25–27:25",
+        "text": [
+          "Потужність характеризує швидкість виконання роботи. Середня потужність — відношення роботи до тривалості процесу. Миттєва потужність — робота за малий проміжок часу, поділена на цей проміжок у границі.",
+          "Підставляючи δA=F·dr, отримуємо скалярний добуток сили на миттєву швидкість. Від’ємна потужність означає, що сила зменшує механічну енергію через свою роботу. Одиниця потужності — ват, один джоуль за секунду."
+        ],
+        "equations": [
+          "P = δA/dt = F·v",
+          "Pсер = A/Δt"
+        ]
+      },
+      {
+        "title": "5. Кінетична енергія та її теорема",
+        "time": "27:25–42:08",
+        "text": [
+          "Кінетична енергія матеріальної точки — скалярна величина, що характеризує її рух. В класичній механіці вона дорівнює половині добутку маси на квадрат модуля швидкості. Вона залежить від системи відліку.",
+          "Для виведення теореми застосовуємо другий закон Ньютона за сталої маси: сила дорівнює масі, помноженій на похідну швидкості за часом. Підставляємо в елементарну роботу. Оскільки dr=vdt, отримуємо m v·dv. Скалярний добуток v·dv дорівнює половині диференціала v².",
+          "Інтегрування дає різницю кінетичних енергій між кінцевим і початковим станами. Теорема: робота рівнодійної всіх сил дорівнює приросту кінетичної енергії. Для малих змін δA=dEₖ."
+        ],
+        "equations": [
+          "Eₖ = mv²/2 = p²/(2m)",
+          "A = Eₖ₂ − Eₖ₁"
+        ]
+      }
+    ],
+    "summary": [
+      "Енергія — загальна кількісна міра руху й взаємодії матерії. У механіці розрізняють кінетичну енергію, пов’язану з рухом тіла, та потенціальну, пов’язану з взаємодією і взаємним розташуванням тіл. Енергія є скалярною величиною, вимірюється в джоулях.",
+      "Елементарна робота — скалярний добуток сили на малий вектор переміщення. Вона дорівнює добутку модулів сили й переміщення на косинус кута між ними. Якщо сила спрямована вздовж переміщення, робота додатна; протилежно — від’ємна; перпендикулярно — нульова.",
+      "Якщо сила змінюється уздовж траєкторії, розбиваємо рух на малі переміщення. Робота на всій ділянці дорівнює інтегралу елементарної роботи. При дії декількох сил робота рівнодійної дорівнює сумі робіт кожної сили, оскільки скалярний добуток лінійний.",
+      "Потужність характеризує швидкість виконання роботи. Середня потужність — відношення роботи до тривалості процесу. Миттєва потужність — робота за малий проміжок часу, поділена на цей проміжок у границі.",
+      "Кінетична енергія матеріальної точки — скалярна величина, що характеризує її рух. В класичній механіці вона дорівнює половині добутку маси на квадрат модуля швидкості. Вона залежить від системи відліку."
+    ],
+    "formulas": [
+      {
+        "name": "Елементарна робота",
+        "latex": "\\delta A=\\vec F\\cdot d\\vec r=F\\,ds\\cos\\alpha",
+        "eq": "δA = F·dr = F ds cosα",
+        "vars": "δA — елементарна робота; F — сила; dr — вектор малого переміщення; ds — елемент шляху; α — кут між силою і переміщенням",
+        "steps": [
+          "Скалярний добуток дорівнює добутку модулів на косинус кута.",
+          "|dr| = ds."
+        ]
+      },
+      {
+        "name": "Робота змінної сили",
+        "latex": "A_{12}=\\int_1^2\\vec F\\cdot d\\vec r",
+        "eq": "A₁₂ = ∫ F·dr",
+        "vars": "A₁₂ — робота між положеннями 1 та 2; F — сила; dr — елемент переміщення",
+        "steps": [
+          "Сумуємо елементарні роботи вздовж траєкторії."
+        ]
+      },
+      {
+        "name": "Стала сила",
+        "latex": "A=Fs\\cos\\alpha",
+        "eq": "A = Fs cosα",
+        "vars": "A — робота; F — модуль сталої сили; s — довжина прямолінійного переміщення; α — кут між ними",
+        "steps": [
+          "Виносимо сталі F і cosα за інтеграл.",
+          "Інтеграл ds дорівнює s."
+        ]
+      },
+      {
+        "name": "Миттєва потужність",
+        "latex": "P=\\frac{\\delta A}{dt}=\\vec F\\cdot\\vec v",
+        "eq": "P = δA/dt = F·v",
+        "vars": "P — потужність; δA — елементарна робота; dt — малий проміжок часу; F — сила; v — швидкість",
+        "steps": [
+          "Підставляємо δA = F·dr.",
+          "dr/dt = v."
+        ]
+      },
+      {
+        "name": "Середня потужність",
+        "latex": "\\langle P\\rangle=\\frac{A}{\\Delta t}",
+        "eq": "Pсер = A/Δt",
+        "vars": "A — робота; Δt — інтервал часу; Pсер — середня потужність",
+        "steps": [
+          "Роботу ділимо на повний час її виконання."
+        ]
+      },
+      {
+        "name": "Кінетична енергія",
+        "latex": "E_k=\\frac{mv^2}{2}=\\frac{p^2}{2m}",
+        "eq": "Eₖ = mv²/2 = p²/(2m)",
+        "vars": "Eₖ — кінетична енергія; m — маса; v — модуль швидкості; p — модуль імпульсу",
+        "steps": [
+          "p=mv",
+          "Підставляємо v=p/m."
+        ]
+      },
+      {
+        "name": "Теорема про кінетичну енергію",
+        "latex": "A_{\\mathrm{net}}=\\frac{mv_2^2}{2}-\\frac{mv_1^2}{2}",
+        "eq": "A = Eₖ₂ − Eₖ₁",
+        "vars": "A — сумарна робота; v₁ — початкова швидкість; v₂ — кінцева швидкість; m — маса",
+        "steps": [
+          "δA=m(dv/dt)·dr",
+          "dr=vdt, тому δA=mv·dv",
+          "v·dv=d(v²)/2",
+          "Інтегруємо між початковим і кінцевим станами."
+        ]
+      }
+    ],
+    "formulaTable": [
+      [
+        "Елементарна робота",
+        "\\delta A=\\vec F\\cdot d\\vec r=F\\,ds\\cos\\alpha"
+      ],
+      [
+        "Робота змінної сили",
+        "A_{12}=\\int_1^2\\vec F\\cdot d\\vec r"
+      ],
+      [
+        "Стала сила",
+        "A=Fs\\cos\\alpha"
+      ],
+      [
+        "Миттєва потужність",
+        "P=\\frac{\\delta A}{dt}=\\vec F\\cdot\\vec v"
+      ],
+      [
+        "Середня потужність",
+        "\\langle P\\rangle=\\frac{A}{\\Delta t}"
+      ],
+      [
+        "Кінетична енергія",
+        "E_k=\\frac{mv^2}{2}=\\frac{p^2}{2m}"
+      ],
+      [
+        "Теорема про кінетичну енергію",
+        "A_{\\mathrm{net}}=\\frac{mv_2^2}{2}-\\frac{mv_1^2}{2}"
+      ]
+    ],
+    "quiz": [
+      {
+        "q": "Що є скаляром?",
+        "o": [
+          "Робота",
+          "Переміщення",
+          "Швидкість як вектор",
+          "Сила"
+        ],
+        "a": 0,
+        "why": "Скалярний добуток сили й переміщення дає число.",
+        "topic": "Робота, потужність і кінетична енергія",
+        "detail": []
+      },
+      {
+        "q": "Коли робота сили від’ємна?",
+        "o": [
+          "Кут між силою і рухом більший за 90°",
+          "Кут дорівнює 90°",
+          "Кут менший за 90°",
+          "Кут дорівнює нулю"
+        ],
+        "a": 0,
+        "why": "Косинус тупого кута від’ємний.",
+        "topic": "Робота, потужність і кінетична енергія",
+        "detail": []
+      },
+      {
+        "q": "Як знайти роботу змінної сили?",
+        "o": [
+          "Інтегрувати модуль сили за часом",
+          "Інтегрувати F·dr вздовж траєкторії",
+          "Брати похідну сили за часом",
+          "Множити її початкове значення на час"
+        ],
+        "a": 1,
+        "why": "Робота сумує скалярні добутки сили і малих переміщень.",
+        "topic": "Робота, потужність і кінетична енергія",
+        "detail": []
+      },
+      {
+        "q": "Одиниця потужності?",
+        "o": [
+          "Дж·с",
+          "кг·м/с",
+          "Н",
+          "Вт"
+        ],
+        "a": 3,
+        "why": "Один ват — джоуль за секунду.",
+        "topic": "Робота, потужність і кінетична енергія",
+        "detail": []
+      },
+      {
+        "q": "Миттєва потужність?",
+        "o": [
+          "F·v",
+          "mv",
+          "A·t",
+          "F·t"
+        ],
+        "a": 0,
+        "why": "δA/dt = F·dr/dt.",
+        "topic": "Робота, потужність і кінетична енергія",
+        "detail": []
+      },
+      {
+        "q": "Як зміниться Eₖ при подвоєнні швидкості?",
+        "o": [
+          "Зменшиться у 4 рази",
+          "Не зміниться",
+          "Зросте у 4 рази",
+          "Зросте у 2 рази"
+        ],
+        "a": 2,
+        "why": "Кінетична енергія пропорційна v².",
+        "topic": "Робота, потужність і кінетична енергія",
+        "detail": []
+      },
+      {
+        "q": "Що дорівнює зміні кінетичної енергії?",
+        "o": [
+          "Імпульс сили",
+          "Потужність сили",
+          "Тільки робота тяжіння",
+          "Робота всіх сил"
+        ],
+        "a": 3,
+        "why": "Теорема стосується сумарної роботи сил.",
+        "topic": "Робота, потужність і кінетична енергія",
+        "detail": []
+      },
+      {
+        "q": "Чи залежить Eₖ від системи відліку?",
+        "o": [
+          "Так",
+          "Лише при зміні маси",
+          "Лише для обертання",
+          "Ні"
+        ],
+        "a": 0,
+        "why": "Швидкість залежить від системи, отже й mv²/2.",
+        "topic": "Робота, потужність і кінетична енергія",
+        "detail": []
+      },
+      {
+        "q": "F=10 Н, s=2 м, кут 60°. Робота?",
+        "o": [
+          "−10 Дж",
+          "10 Дж",
+          "20 Дж",
+          "0 Дж"
+        ],
+        "a": 1,
+        "why": "10·2·cos60°=10 Дж.",
+        "topic": "Робота, потужність і кінетична енергія",
+        "detail": []
+      },
+      {
+        "q": "За 4 с виконано 120 Дж роботи. Середня потужність?",
+        "o": [
+          "30 Вт",
+          "120 Вт",
+          "480 Вт",
+          "4 Вт"
+        ],
+        "a": 0,
+        "why": "120/4=30 Вт.",
+        "topic": "Робота, потужність і кінетична енергія",
+        "detail": []
+      },
+      {
+        "q": "m=2 кг, v=3 м/с. Кінетична енергія?",
+        "o": [
+          "9 Дж",
+          "6 Дж",
+          "3 Дж",
+          "18 Дж"
+        ],
+        "a": 0,
+        "why": "2·3²/2=9 Дж.",
+        "topic": "Робота, потужність і кінетична енергія",
+        "detail": []
+      },
+      {
+        "q": "Якщо швидкість стала за модулем, що відбувається з сумарною роботою?",
+        "o": [
+          "Завжди від’ємна",
+          "Дорівнює нулю",
+          "Дорівнює імпульсу",
+          "Завжди додатна"
+        ],
+        "a": 1,
+        "why": "ΔEₖ=0 за сталої маси.",
+        "topic": "Робота, потужність і кінетична енергія",
+        "detail": []
+      },
+      {
+        "q": "Який запис відповідає поняттю «Елементарна робота»?",
+        "o": [
+          "r_C = Σ mᵢrᵢ / Σ mᵢ",
+          "Σ Fзовн = 0 ⇒ P = const",
+          "U=kx²/2",
+          "δA = F·dr = F ds cosα"
+        ],
+        "a": 3,
+        "why": "Скалярний добуток дорівнює добутку модулів на косинус кута.; |dr| = ds.. δA — елементарна робота; F — сила; dr — вектор малого переміщення; ds — елемент шляху; α — кут між силою і переміщенням",
+        "detail": [
+          "Скалярний добуток дорівнює добутку модулів на косинус кута.",
+          "|dr| = ds."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Робота змінної сили»?",
+        "o": [
+          "Σ Fзовн = 0 ⇒ P = const",
+          "A₁₂ = ∫ F·dr",
+          "U=−GMm/r",
+          "∮ Fконс·dr = 0"
+        ],
+        "a": 1,
+        "why": "Сумуємо елементарні роботи вздовж траєкторії.. A₁₂ — робота між положеннями 1 та 2; F — сила; dr — елемент переміщення",
+        "detail": [
+          "Сумуємо елементарні роботи вздовж траєкторії."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Стала сила»?",
+        "o": [
+          "Fₓ=−∂U/∂x",
+          "A = Fs cosα",
+          "A₁₂ = U₁−U₂ = −ΔU",
+          "Σ Fзовн = 0 ⇒ P = const"
+        ],
+        "a": 1,
+        "why": "Виносимо сталі F і cosα за інтеграл.; Інтеграл ds дорівнює s.. A — робота; F — модуль сталої сили; s — довжина прямолінійного переміщення; α — кут між ними",
+        "detail": [
+          "Виносимо сталі F і cosα за інтеграл.",
+          "Інтеграл ds дорівнює s."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Миттєва потужність»?",
+        "o": [
+          "A₁₂ = ∫ F·dr",
+          "F=−∇U",
+          "P = δA/dt = F·v",
+          "F_C = 2m(v′ × ω)"
+        ],
+        "a": 2,
+        "why": "Підставляємо δA = F·dr.; dr/dt = v.. P — потужність; δA — елементарна робота; dt — малий проміжок часу; F — сила; v — швидкість",
+        "detail": [
+          "Підставляємо δA = F·dr.",
+          "dr/dt = v."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Середня потужність»?",
+        "o": [
+          "Fін = −ma₀",
+          "Pсер = A/Δt",
+          "∮ Fконс·dr = 0",
+          "r_C = Σ mᵢrᵢ / Σ mᵢ"
+        ],
+        "a": 1,
+        "why": "Роботу ділимо на повний час її виконання.. A — робота; Δt — інтервал часу; Pсер — середня потужність",
+        "detail": [
+          "Роботу ділимо на повний час її виконання."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Кінетична енергія»?",
+        "o": [
+          "Σ Fзовн,x = 0 ⇒ Pₓ = const",
+          "F_C = 2m(v′ × ω)",
+          "A = Eₖ₂ − Eₖ₁",
+          "Eₖ = mv²/2 = p²/(2m)"
+        ],
+        "a": 3,
+        "why": "p=mv; Підставляємо v=p/m.. Eₖ — кінетична енергія; m — маса; v — модуль швидкості; p — модуль імпульсу",
+        "detail": [
+          "p=mv",
+          "Підставляємо v=p/m."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Теорема про кінетичну енергію»?",
+        "o": [
+          "P = Σ mᵢvᵢ",
+          "v_C = P/M",
+          "A = Eₖ₂ − Eₖ₁",
+          "F=−∇U"
+        ],
+        "a": 2,
+        "why": "δA=m(dv/dt)·dr; dr=vdt, тому δA=mv·dv; v·dv=d(v²)/2; Інтегруємо між початковим і кінцевим станами.. A — сумарна робота; v₁ — початкова швидкість; v₂ — кінцева швидкість; m — маса",
+        "detail": [
+          "δA=m(dv/dt)·dr",
+          "dr=vdt, тому δA=mv·dv",
+          "v·dv=d(v²)/2",
+          "Інтегруємо між початковим і кінцевим станами."
+        ],
+        "topic": "Формули"
+      }
+    ],
+    "tasks": [
+      {
+        "title": "№4.1 · Робота сталої сили",
+        "level": "Практика",
+        "q": "Положення початку (1;2) м, кінця (2;−3) м. Стала сила має компоненти (3;4) Н. Визначити роботу.",
+        "given": "r₁=(1;2) м; r₂=(2;−3) м; F=(3;4) Н",
+        "find": "A",
+        "hint": "Визнач систему, відомі величини та фізичний закон. Лише потім підставляй дані.",
+        "steps": [
+          "Віднімаємо початкові координати від кінцевих: Δx=2−1=1 м, Δy=−3−2=−5 м.",
+          "Скалярний добуток у координатах: A=FₓΔx+FᵧΔy.",
+          "Підставляємо 3·1+4·(−5)=−17 Дж."
+        ],
+        "answer": "−17 Дж.",
+        "guide": {
+          "vars": [
+            "r₁,r₂ — радіус-вектори, м",
+            "Δr — переміщення, м",
+            "F — сила, Н",
+            "A — робота, Дж"
+          ],
+          "theory": "Робота сталої сили дорівнює скалярному добутку сили та повного переміщення.",
+          "math": [
+            "A=\\vec F\\cdot\\Delta\\vec r",
+            "A=3\\cdot1+4(-5)=-17\\ \\mathrm{J}"
+          ],
+          "check": "Від’ємний знак означає, що сумарна проєкція сили на переміщення від’ємна."
+        },
+        "source": "Подласов, збірник 2023 · №4.1, с. 12",
+        "record": "",
+        "image": "assets/new-work.svg",
+        "imageCaption": "Авторська схема до задачі (не в масштабі).",
+        "visual": [
+          "assets/worked/energy-05-10-1-01-1.png",
+          "assets/worked/energy-05-10-1-01-2.png",
+          "assets/worked/energy-05-10-1-01-step1.png",
+          "assets/worked/energy-05-10-1-01-answer.png"
+        ]
+      },
+      {
+        "title": "№4.12 · Робота сили тяги",
+        "level": "Практика",
+        "q": "Вагонетка маси 400 кг стартує зі спокою, проходить 5 м і набуває 2 м/с. Коефіцієнт тертя 0,01, горизонтальний шлях.",
+        "given": "m=400 кг; s=5 м; v=2 м/с; μ=0,01; g=9,8 м/с²",
+        "find": "Aтяги",
+        "hint": "Визнач систему, відомі величини та фізичний закон. Лише потім підставляй дані.",
+        "steps": [
+          "Зміна кінетичної енергії = 400·2²/2=800 Дж.",
+          "Тертя Fтер=μmg=39,2 Н. Його робота = −39,2·5=−196 Дж.",
+          "Aтяги+Aтер=ΔEₖ. Переносимо Aтер праворуч.",
+          "Aтяги=800+196=996 Дж."
+        ],
+        "answer": "996 Дж ≈ 1 кДж.",
+        "guide": {
+          "vars": [
+            "m — маса, кг",
+            "s — шлях, м",
+            "v — швидкість, м/с",
+            "μ — коефіцієнт тертя",
+            "g — прискорення тяжіння, м/с²",
+            "A — робота, Дж"
+          ],
+          "theory": "Теорема про кінетичну енергію; робота тертя від’ємна. Нормальна реакція та тяжіння роботи не виконують.",
+          "math": [
+            "A_{\\mathrm{net}}=\\Delta E_k",
+            "A_{\\mathrm{pull}}=\\frac{mv^2}{2}+\\mu mgs=996\\ \\mathrm{J}"
+          ],
+          "check": "Робота тяги більша за приріст кінетичної енергії, бо компенсує тертя."
+        },
+        "source": "Подласов, збірник 2023 · №4.12, с. 13",
+        "record": "",
+        "image": "assets/friction.svg",
+        "imageCaption": "Авторська схема до задачі (не в масштабі).",
+        "visual": [
+          "assets/worked/energy-05-10-1-02-1.png",
+          "assets/worked/energy-05-10-1-02-2.png",
+          "assets/worked/energy-05-10-1-02-step1.png",
+          "assets/worked/energy-05-10-1-02-answer.png"
+        ]
+      }
+    ],
+    "oral": [
+      [
+        "Що є скаляром?",
+        "Скалярний добуток сили й переміщення дає число. Відповідь: Робота."
+      ],
+      [
+        "Коли робота сили від’ємна?",
+        "Косинус тупого кута від’ємний. Відповідь: Кут між силою і рухом більший за 90°."
+      ],
+      [
+        "Як знайти роботу змінної сили?",
+        "Робота сумує скалярні добутки сили і малих переміщень. Відповідь: Інтегрувати F·dr вздовж траєкторії."
+      ],
+      [
+        "Одиниця потужності?",
+        "Один ват — джоуль за секунду. Відповідь: Вт."
+      ],
+      [
+        "Миттєва потужність?",
+        "δA/dt = F·dr/dt. Відповідь: F·v."
+      ],
+      [
+        "Як зміниться Eₖ при подвоєнні швидкості?",
+        "Кінетична енергія пропорційна v². Відповідь: Зросте у 4 рази."
+      ],
+      [
+        "Що дорівнює зміні кінетичної енергії?",
+        "Теорема стосується сумарної роботи сил. Відповідь: Робота всіх сил."
+      ],
+      [
+        "Чи залежить Eₖ від системи відліку?",
+        "Швидкість залежить від системи, отже й mv²/2. Відповідь: Так."
+      ],
+      [
+        "F=10 Н, s=2 м, кут 60°. Робота?",
+        "10·2·cos60°=10 Дж. Відповідь: 10 Дж."
+      ],
+      [
+        "За 4 с виконано 120 Дж роботи. Середня потужність?",
+        "120/4=30 Вт. Відповідь: 30 Вт."
+      ],
+      [
+        "m=2 кг, v=3 м/с. Кінетична енергія?",
+        "2·3²/2=9 Дж. Відповідь: 9 Дж."
+      ],
+      [
+        "Якщо швидкість стала за модулем, що відбувається з сумарною роботою?",
+        "ΔEₖ=0 за сталої маси. Відповідь: Дорівнює нулю."
+      ],
+      [
+        "Виведи: Елементарна робота",
+        "Скалярний добуток дорівнює добутку модулів на косинус кута.; |dr| = ds.. Позначення: δA — елементарна робота; F — сила; dr — вектор малого переміщення; ds — елемент шляху; α — кут між силою і переміщенням"
+      ],
+      [
+        "Виведи: Робота змінної сили",
+        "Сумуємо елементарні роботи вздовж траєкторії.. Позначення: A₁₂ — робота між положеннями 1 та 2; F — сила; dr — елемент переміщення"
+      ],
+      [
+        "Виведи: Стала сила",
+        "Виносимо сталі F і cosα за інтеграл.; Інтеграл ds дорівнює s.. Позначення: A — робота; F — модуль сталої сили; s — довжина прямолінійного переміщення; α — кут між ними"
+      ],
+      [
+        "Виведи: Миттєва потужність",
+        "Підставляємо δA = F·dr.; dr/dt = v.. Позначення: P — потужність; δA — елементарна робота; dt — малий проміжок часу; F — сила; v — швидкість"
+      ],
+      [
+        "Виведи: Середня потужність",
+        "Роботу ділимо на повний час її виконання.. Позначення: A — робота; Δt — інтервал часу; Pсер — середня потужність"
+      ],
+      [
+        "Виведи: Кінетична енергія",
+        "p=mv; Підставляємо v=p/m.. Позначення: Eₖ — кінетична енергія; m — маса; v — модуль швидкості; p — модуль імпульсу"
+      ],
+      [
+        "Виведи: Теорема про кінетичну енергію",
+        "δA=m(dv/dt)·dr; dr=vdt, тому δA=mv·dv; v·dv=d(v²)/2; Інтегруємо між початковим і кінцевим станами.. Позначення: A — сумарна робота; v₁ — початкова швидкість; v₂ — кінцева швидкість; m — маса"
+      ]
+    ],
+    "cards": [
+      [
+        "Що є скаляром?",
+        "Робота"
+      ],
+      [
+        "Коли робота сили від’ємна?",
+        "Кут між силою і рухом більший за 90°"
+      ],
+      [
+        "Як знайти роботу змінної сили?",
+        "Інтегрувати F·dr вздовж траєкторії"
+      ],
+      [
+        "Одиниця потужності?",
+        "Вт"
+      ],
+      [
+        "Миттєва потужність?",
+        "F·v"
+      ],
+      [
+        "Як зміниться Eₖ при подвоєнні швидкості?",
+        "Зросте у 4 рази"
+      ],
+      [
+        "Що дорівнює зміні кінетичної енергії?",
+        "Робота всіх сил"
+      ],
+      [
+        "Чи залежить Eₖ від системи відліку?",
+        "Так"
+      ],
+      [
+        "F=10 Н, s=2 м, кут 60°. Робота?",
+        "10 Дж"
+      ],
+      [
+        "За 4 с виконано 120 Дж роботи. Середня потужність?",
+        "30 Вт"
+      ],
+      [
+        "m=2 кг, v=3 м/с. Кінетична енергія?",
+        "9 Дж"
+      ],
+      [
+        "Якщо швидкість стала за модулем, що відбувається з сумарною роботою?",
+        "Дорівнює нулю"
+      ],
+      [
+        "Елементарна робота",
+        "δA = F·dr = F ds cosα"
+      ],
+      [
+        "Робота змінної сили",
+        "A₁₂ = ∫ F·dr"
+      ],
+      [
+        "Стала сила",
+        "A = Fs cosα"
+      ],
+      [
+        "Миттєва потужність",
+        "P = δA/dt = F·v"
+      ],
+      [
+        "Середня потужність",
+        "Pсер = A/Δt"
+      ],
+      [
+        "Кінетична енергія",
+        "Eₖ = mv²/2 = p²/(2m)"
+      ],
+      [
+        "Теорема про кінетичну енергію",
+        "A = Eₖ₂ − Eₖ₁"
+      ]
+    ],
+    "glossary": [
+      [
+        "Елементарна робота",
+        "Позначення: δA. Одиниця СІ: Дж."
+      ],
+      [
+        "Сила",
+        "Позначення: F. Одиниця СІ: Н."
+      ],
+      [
+        "Вектор малого переміщення",
+        "Позначення: dr. Одиниця СІ: м."
+      ],
+      [
+        "Елемент шляху",
+        "Позначення: ds. Одиниця СІ: м."
+      ],
+      [
+        "Кут між силою і переміщенням",
+        "Позначення: α. Одиниця СІ: рад."
+      ],
+      [
+        "Робота між положеннями 1 та 2",
+        "Позначення: A₁₂. Одиниця СІ: Дж."
+      ],
+      [
+        "Елемент переміщення",
+        "Позначення: dr. Одиниця СІ: м."
+      ],
+      [
+        "Робота",
+        "Позначення: A. Одиниця СІ: Дж."
+      ],
+      [
+        "Модуль сталої сили",
+        "Позначення: F. Одиниця СІ: Н."
+      ],
+      [
+        "Довжина прямолінійного переміщення",
+        "Позначення: s. Одиниця СІ: м."
+      ],
+      [
+        "Кут між ними",
+        "Позначення: α. Одиниця СІ: рад."
+      ],
+      [
+        "Потужність",
+        "Позначення: P. Одиниця СІ: Вт."
+      ],
+      [
+        "Малий проміжок часу",
+        "Позначення: dt. Одиниця СІ: с."
+      ],
+      [
+        "Швидкість",
+        "Позначення: v. Одиниця СІ: м/с."
+      ],
+      [
+        "Інтервал часу",
+        "Позначення: Δt. Одиниця СІ: с."
+      ],
+      [
+        "Середня потужність",
+        "Позначення: Pсер. Одиниця СІ: Вт."
+      ],
+      [
+        "Кінетична енергія",
+        "Позначення: Eₖ. Одиниця СІ: Дж."
+      ],
+      [
+        "Маса",
+        "Позначення: m. Одиниця СІ: кг."
+      ],
+      [
+        "Модуль швидкості",
+        "Позначення: v. Одиниця СІ: м/с."
+      ],
+      [
+        "Модуль імпульсу",
+        "Позначення: p. Одиниця СІ: кг·м/с."
+      ],
+      [
+        "Сумарна робота",
+        "Позначення: A. Одиниця СІ: Дж."
+      ],
+      [
+        "Початкова швидкість",
+        "Позначення: v₁. Одиниця СІ: м/с."
+      ],
+      [
+        "Кінцева швидкість",
+        "Позначення: v₂. Одиниця СІ: м/с."
+      ]
+    ],
+    "symbols": {
+      "\\delta A=\\vec F\\cdot d\\vec r=F\\,ds\\cos\\alpha": [
+        [
+          "δA",
+          "елементарна робота",
+          "Дж"
+        ],
+        [
+          "F",
+          "сила",
+          "Н"
+        ],
+        [
+          "dr",
+          "вектор малого переміщення",
+          "м"
+        ],
+        [
+          "ds",
+          "елемент шляху",
+          "м"
+        ],
+        [
+          "α",
+          "кут між силою і переміщенням",
+          "рад"
+        ]
+      ],
+      "A_{12}=\\int_1^2\\vec F\\cdot d\\vec r": [
+        [
+          "A₁₂",
+          "робота між положеннями 1 та 2",
+          "Дж"
+        ],
+        [
+          "F",
+          "сила",
+          "Н"
+        ],
+        [
+          "dr",
+          "елемент переміщення",
+          "м"
+        ]
+      ],
+      "A=Fs\\cos\\alpha": [
+        [
+          "A",
+          "робота",
+          "Дж"
+        ],
+        [
+          "F",
+          "модуль сталої сили",
+          "Н"
+        ],
+        [
+          "s",
+          "довжина прямолінійного переміщення",
+          "м"
+        ],
+        [
+          "α",
+          "кут між ними",
+          "рад"
+        ]
+      ],
+      "P=\\frac{\\delta A}{dt}=\\vec F\\cdot\\vec v": [
+        [
+          "P",
+          "потужність",
+          "Вт"
+        ],
+        [
+          "δA",
+          "елементарна робота",
+          "Дж"
+        ],
+        [
+          "dt",
+          "малий проміжок часу",
+          "с"
+        ],
+        [
+          "F",
+          "сила",
+          "Н"
+        ],
+        [
+          "v",
+          "швидкість",
+          "м/с"
+        ]
+      ],
+      "\\langle P\\rangle=\\frac{A}{\\Delta t}": [
+        [
+          "A",
+          "робота",
+          "Дж"
+        ],
+        [
+          "Δt",
+          "інтервал часу",
+          "с"
+        ],
+        [
+          "Pсер",
+          "середня потужність",
+          "Вт"
+        ]
+      ],
+      "E_k=\\frac{mv^2}{2}=\\frac{p^2}{2m}": [
+        [
+          "Eₖ",
+          "кінетична енергія",
+          "Дж"
+        ],
+        [
+          "m",
+          "маса",
+          "кг"
+        ],
+        [
+          "v",
+          "модуль швидкості",
+          "м/с"
+        ],
+        [
+          "p",
+          "модуль імпульсу",
+          "кг·м/с"
+        ]
+      ],
+      "A_{\\mathrm{net}}=\\frac{mv_2^2}{2}-\\frac{mv_1^2}{2}": [
+        [
+          "A",
+          "сумарна робота",
+          "Дж"
+        ],
+        [
+          "v₁",
+          "початкова швидкість",
+          "м/с"
+        ],
+        [
+          "v₂",
+          "кінцева швидкість",
+          "м/с"
+        ],
+        [
+          "m",
+          "маса",
+          "кг"
+        ]
+      ]
+    },
+    "podcast": [
+      {
+        "title": "Енергія та її форми",
+        "text": "Енергія — загальна кількісна міра руху й взаємодії матерії. У механіці розрізняють кінетичну енергію, пов’язану з рухом тіла, та потенціальну, пов’язану з взаємодією і взаємним розташуванням тіл. Енергія є скалярною величиною, вимірюється в джоулях. Енергія може переходити з однієї форми в іншу. При цьому загальний енергетичний баланс має враховувати всі форми енергії. Механічна енергія не завжди зберігається окремо: наприклад, при терті частина механічної енергії переходить у внутрішню. Важливий акцент: Для майбутніх енергетиків важливо розуміти не тільки числові значення енергії, а і здатність системи виконувати роботу. Різні форми енергії мають спільний фізичний зміст."
+      },
+      {
+        "title": "Елементарна робота сили",
+        "text": "Елементарна робота — скалярний добуток сили на малий вектор переміщення. Вона дорівнює добутку модулів сили й переміщення на косинус кута між ними. Якщо сила спрямована вздовж переміщення, робота додатна; протилежно — від’ємна; перпендикулярно — нульова. Позначення δA використовується для елементарної роботи. Робота залежить від процесу і загалом не є диференціалом функції стану. Вектор переміщення dr є диференціалом радіус-вектора. Проєкція сили на напрям руху дорівнює F cosα, тому можна множити цю проєкцію на елемент довжини шляху. Це еквівалентний спосіб обчислити скалярний добуток. Важливий акцент: Різниця між позначеннями δ і d має фізичний зміст: елементарна робота не є приростом окремої функції стану A. Скалярний добуток дає число, а не вектор. Від’ємна робота не означає, що сила має від’ємний модуль."
+      },
+      {
+        "title": "Робота на скінченній ділянці",
+        "text": "Якщо сила змінюється уздовж траєкторії, розбиваємо рух на малі переміщення. Робота на всій ділянці дорівнює інтегралу елементарної роботи. При дії декількох сил робота рівнодійної дорівнює сумі робіт кожної сили, оскільки скалярний добуток лінійний. Графічно робота дорівнює алгебраїчній площі під графіком проєкції сили на напрям руху від довжини шляху. Площі нижче осі враховуються зі знаком мінус. За сталої сили й прямолінійного переміщення кут і модуль сили сталі, отже інтеграл зводиться до шкільної формули. Важливий акцент: Шкільна формула є окремим випадком інтегральної. Не можна множити довільну змінну силу на весь шлях."
+      },
+      {
+        "title": "Середня та миттєва потужність",
+        "text": "Потужність характеризує швидкість виконання роботи. Середня потужність — відношення роботи до тривалості процесу. Миттєва потужність — робота за малий проміжок часу, поділена на цей проміжок у границі. Підставляючи δA=F·dr, отримуємо скалярний добуток сили на миттєву швидкість. Від’ємна потужність означає, що сила зменшує механічну енергію через свою роботу. Одиниця потужності — ват, один джоуль за секунду. Важливий акцент: Середня потужність і функція миттєвої потужності — різні величини. Коли питають залежність від часу, треба шукати саме миттєву."
+      },
+      {
+        "title": "Кінетична енергія та її теорема",
+        "text": "Кінетична енергія матеріальної точки — скалярна величина, що характеризує її рух. В класичній механіці вона дорівнює половині добутку маси на квадрат модуля швидкості. Вона залежить від системи відліку. Для виведення теореми застосовуємо другий закон Ньютона за сталої маси: сила дорівнює масі, помноженій на похідну швидкості за часом. Підставляємо в елементарну роботу. Оскільки dr=vdt, отримуємо m v·dv. Скалярний добуток v·dv дорівнює половині диференціала v². Інтегрування дає різницю кінетичних енергій між кінцевим і початковим станами. Теорема: робота рівнодійної всіх сил дорівнює приросту кінетичної енергії. Для малих змін δA=dEₖ. Важливий акцент: Теорема має інтегральний та диференціальний вигляд. Треба вміти не лише відтворити формулу енергії, а й пояснити, як вона виникла із закону Ньютона та означення роботи."
+      },
+      {
+        "title": "Практичне повторення",
+        "text": "№4.1 · Робота сталої сили. Робота сталої сили дорівнює скалярному добутку сили та повного переміщення. Віднімаємо початкові координати від кінцевих: Δx=2−1=1 м, Δy=−3−2=−5 м. №4.12 · Робота сили тяги. Теорема про кінетичну енергію; робота тертя від’ємна. Нормальна реакція та тяжіння роботи не виконують. Зміна кінетичної енергії = 400·2²/2=800 Дж. Перед іспитом спробуй самостійно назвати закон, його умови та фізичний зміст."
+      }
+    ],
+    "simulation": "",
+    "standard": "Візуальні задачі: умова, дані, теорія, покрокове розв’язання, відповідь. Рисунки схематичні."
+  },
+  {
+    "id": "energy-05-10-2",
+    "title": "Потенціальна енергія. Консервативні сили",
+    "date": "05.10.2026",
+    "duration": "49 хв 29 с",
+    "unit": "Механіка",
+    "description": "Силове поле, робота центральних сил, потенціальні поля, гравітаційна та пружна енергія, градієнт.",
+    "source": "5.10.26ch2.mp4. Конспект за розшифровкою; таймкоди приблизні. Акценти лектора — переказ. Додаткові задачі, пояснення та питання укладено окремо.",
+    "pdf": "pdf/energy-05-10-2.pdf",
+    "reading": [
+      {
+        "title": "1. Кінетична енергія системи та силове поле",
+        "time": "00:00–11:55",
+        "blocks": [
+          [
+            "p",
+            "Кінетична енергія системи адитивна: це сума кінетичних енергій її частинок. Теорема про кінетичну енергію справедлива для системи, якщо в роботі враховано всі внутрішні та зовнішні сили. Внутрішні сили можуть виконувати сумарну роботу навіть тоді, коли їх векторна сума нульова."
+          ],
+          [
+            "p",
+            "Силове поле — область простору, у кожній точці якої на пробне тіло діє сила певної природи. Поле задають векторною функцією координат. Для стаціонарного поля ця функція явно не залежить від часу. Однорідне поле має той самий вектор сили в усіх точках (для однакового пробного тіла)."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 00:00–11:55",
+            "Адитивність кінетичної енергії не означає, що можна замінити всі швидкості швидкістю центра мас. У полі важливо розрізняти напрям та модуль сили."
+          ],
+          [
+            "math",
+            "E_k=\\sum_i\\frac{m_iv_i^2}{2}",
+            "Кінетична енергія системи",
+            true
+          ]
+        ]
+      },
+      {
+        "title": "2. Центральні сили та їх робота",
+        "time": "11:55–22:40",
+        "blocks": [
+          [
+            "p",
+            "У полі центральних сил вектор сили напрямлений уздовж прямої, що проходить через силовий центр і точку прикладання. У стаціонарному центральному полі радіальна проєкція сили залежить лише від відстані r до центра."
+          ],
+          [
+            "p",
+            "Елементарну роботу можна записати як добуток радіальної проєкції сили на приріст відстані dr. Геометрично dr=ds cosα, де α — кут між зовнішнім радіальним напрямом і дотичною до траєкторії."
+          ],
+          [
+            "p",
+            "Тому інтеграл роботи залежить від початкового та кінцевого радіусів, а не від форми шляху. Приклад — сила тяжіння точкових мас."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 11:55–22:40",
+            "У формулі для роботи центральної сили лишаються тільки відстань до центра і її приріст; це пояснює незалежність роботи від форми траєкторії."
+          ],
+          [
+            "math",
+            "A_{12}=\\int_{r_1}^{r_2}F_r(r)\\,dr",
+            "Робота центральної сили",
+            true
+          ]
+        ]
+      },
+      {
+        "title": "3. Консервативні та неконсервативні сили",
+        "time": "22:40–27:00",
+        "blocks": [
+          [
+            "p",
+            "Консервативні сили — сили, робота яких визначається початковим та кінцевим положеннями тіла і не залежить від форми траєкторії. По замкненій траєкторії їх сумарна робота дорівнює нулю. Силові поля таких сил називають потенціальними."
+          ],
+          [
+            "p",
+            "Неконсервативні сили не мають цієї властивості. Сила тертя ковзання на горизонтальній площині виконує роботу, пропорційну довжині шляху зі знаком мінус, тому повернення в початкову точку не компенсує втрату механічної енергії."
+          ],
+          [
+            "p",
+            "Дисипативні сили спричиняють перетворення механічної енергії у внутрішню. Не кожна неконсервативна сила обов’язково є дисипативною."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 22:40–27:00",
+            "На іспиті слід чітко сформулювати незалежність від форми траєкторії та наслідок для замкненого контуру."
+          ],
+          [
+            "math",
+            "\\oint\\vec F_{\\mathrm{cons}}\\cdot d\\vec r=0",
+            "Робота по замкненому контуру",
+            true
+          ]
+        ]
+      },
+      {
+        "title": "4. Потенціальна енергія у полях тяжіння та пружності",
+        "time": "27:00–42:20",
+        "blocks": [
+          [
+            "p",
+            "Потенціальна енергія характеризує конфігурацію системи взаємодіючих тіл. Для консервативної сили робота дорівнює зменшенню потенціальної енергії. Нульовий рівень енергії можна вибрати довільно, але різниця енергій від цього не змінюється."
+          ],
+          [
+            "p",
+            "Поблизу поверхні Землі поле тяжіння можна вважати однорідним. Якщо вісь z спрямована вгору, сила тяжіння має проєкцію −mg. Інтегрування дає роботу mg(z₁−z₂), звідки потенціальна енергія U=mgz+C."
+          ],
+          [
+            "p",
+            "Для двох точкових мас за нульового рівня на нескінченності U=−GMm/r. Від’ємність означає, що для віддалення мас до нескінченності потрібно підвищити їх потенціальну енергію. Для ідеальної пружини за нуля у недеформованому стані U=kx²/2."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 27:00–42:20",
+            "Нуль потенціальної енергії вибирається; від’ємні значення не є помилкою. Фізично визначальними є різниці потенціальних енергій."
+          ],
+          [
+            "math",
+            "A_{12}=U_1-U_2=-\\Delta U",
+            "Робота консервативної сили",
+            true
+          ],
+          [
+            "math",
+            "U=mgz+C",
+            "Однорідне поле тяжіння",
+            true
+          ],
+          [
+            "math",
+            "U=-\\frac{GMm}{r}",
+            "Гравітаційна енергія",
+            true
+          ],
+          [
+            "math",
+            "U=\\frac{kx^2}{2}",
+            "Пружна енергія",
+            true
+          ]
+        ]
+      },
+      {
+        "title": "5. Сила як від’ємний градієнт потенціальної енергії",
+        "time": "42:20–49:29",
+        "blocks": [
+          [
+            "p",
+            "У одновимірному випадку проєкція консервативної сили дорівнює мінус похідній потенціальної енергії за координатою. У тривимірному випадку U залежить від x, y, z. Частинна похідна за x обчислюється при фіксованих y та z."
+          ],
+          [
+            "p",
+            "Градієнт скалярної функції — вектор із компонентами її частинних похідних. Він спрямований у бік найшвидшого зростання функції. Сила має протилежний напрям до градієнта потенціальної енергії."
+          ],
+          [
+            "p",
+            "Рівновага в одновимірному консервативному полі можлива при нульовій першій похідній U. Мінімум потенціальної енергії відповідає стійкій рівновазі, максимум — нестійкій (додаткове пояснення)."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · 42:20–49:29",
+            "Лектор окремо вводить круглий символ ∂ для частинної похідної. При диференціюванні за однією координатою інші вважаються сталими."
+          ],
+          [
+            "math",
+            "\\vec F=-\\nabla U",
+            "Сила та градієнт",
+            true
+          ],
+          [
+            "math",
+            "F_x=-\\frac{\\partial U}{\\partial x}",
+            "Проєкція сили",
+            true
+          ],
+          [
+            "figure",
+            "new-parabola",
+            "Мінімум потенціальної енергії та рівновага."
+          ]
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "1. Кінетична енергія системи та силове поле",
+        "time": "00:00–11:55",
+        "text": [
+          "Кінетична енергія системи адитивна: це сума кінетичних енергій її частинок. Теорема про кінетичну енергію справедлива для системи, якщо в роботі враховано всі внутрішні та зовнішні сили. Внутрішні сили можуть виконувати сумарну роботу навіть тоді, коли їх векторна сума нульова.",
+          "Силове поле — область простору, у кожній точці якої на пробне тіло діє сила певної природи. Поле задають векторною функцією координат. Для стаціонарного поля ця функція явно не залежить від часу. Однорідне поле має той самий вектор сили в усіх точках (для однакового пробного тіла)."
+        ],
+        "equations": [
+          "Eₖ = Σ mᵢvᵢ²/2"
+        ]
+      },
+      {
+        "title": "2. Центральні сили та їх робота",
+        "time": "11:55–22:40",
+        "text": [
+          "У полі центральних сил вектор сили напрямлений уздовж прямої, що проходить через силовий центр і точку прикладання. У стаціонарному центральному полі радіальна проєкція сили залежить лише від відстані r до центра.",
+          "Елементарну роботу можна записати як добуток радіальної проєкції сили на приріст відстані dr. Геометрично dr=ds cosα, де α — кут між зовнішнім радіальним напрямом і дотичною до траєкторії.",
+          "Тому інтеграл роботи залежить від початкового та кінцевого радіусів, а не від форми шляху. Приклад — сила тяжіння точкових мас."
+        ],
+        "equations": [
+          "A₁₂ = ∫ Fᵣ(r) dr"
+        ]
+      },
+      {
+        "title": "3. Консервативні та неконсервативні сили",
+        "time": "22:40–27:00",
+        "text": [
+          "Консервативні сили — сили, робота яких визначається початковим та кінцевим положеннями тіла і не залежить від форми траєкторії. По замкненій траєкторії їх сумарна робота дорівнює нулю. Силові поля таких сил називають потенціальними.",
+          "Неконсервативні сили не мають цієї властивості. Сила тертя ковзання на горизонтальній площині виконує роботу, пропорційну довжині шляху зі знаком мінус, тому повернення в початкову точку не компенсує втрату механічної енергії.",
+          "Дисипативні сили спричиняють перетворення механічної енергії у внутрішню. Не кожна неконсервативна сила обов’язково є дисипативною."
+        ],
+        "equations": [
+          "∮ Fконс·dr = 0"
+        ]
+      },
+      {
+        "title": "4. Потенціальна енергія у полях тяжіння та пружності",
+        "time": "27:00–42:20",
+        "text": [
+          "Потенціальна енергія характеризує конфігурацію системи взаємодіючих тіл. Для консервативної сили робота дорівнює зменшенню потенціальної енергії. Нульовий рівень енергії можна вибрати довільно, але різниця енергій від цього не змінюється.",
+          "Поблизу поверхні Землі поле тяжіння можна вважати однорідним. Якщо вісь z спрямована вгору, сила тяжіння має проєкцію −mg. Інтегрування дає роботу mg(z₁−z₂), звідки потенціальна енергія U=mgz+C.",
+          "Для двох точкових мас за нульового рівня на нескінченності U=−GMm/r. Від’ємність означає, що для віддалення мас до нескінченності потрібно підвищити їх потенціальну енергію. Для ідеальної пружини за нуля у недеформованому стані U=kx²/2."
+        ],
+        "equations": [
+          "A₁₂ = U₁−U₂ = −ΔU",
+          "U=mgz+C",
+          "U=−GMm/r",
+          "U=kx²/2"
+        ]
+      },
+      {
+        "title": "5. Сила як від’ємний градієнт потенціальної енергії",
+        "time": "42:20–49:29",
+        "text": [
+          "У одновимірному випадку проєкція консервативної сили дорівнює мінус похідній потенціальної енергії за координатою. У тривимірному випадку U залежить від x, y, z. Частинна похідна за x обчислюється при фіксованих y та z.",
+          "Градієнт скалярної функції — вектор із компонентами її частинних похідних. Він спрямований у бік найшвидшого зростання функції. Сила має протилежний напрям до градієнта потенціальної енергії.",
+          "Рівновага в одновимірному консервативному полі можлива при нульовій першій похідній U. Мінімум потенціальної енергії відповідає стійкій рівновазі, максимум — нестійкій (додаткове пояснення)."
+        ],
+        "equations": [
+          "F=−∇U",
+          "Fₓ=−∂U/∂x"
+        ]
+      }
+    ],
+    "summary": [
+      "Кінетична енергія системи адитивна: це сума кінетичних енергій її частинок. Теорема про кінетичну енергію справедлива для системи, якщо в роботі враховано всі внутрішні та зовнішні сили. Внутрішні сили можуть виконувати сумарну роботу навіть тоді, коли їх векторна сума нульова.",
+      "У полі центральних сил вектор сили напрямлений уздовж прямої, що проходить через силовий центр і точку прикладання. У стаціонарному центральному полі радіальна проєкція сили залежить лише від відстані r до центра.",
+      "Консервативні сили — сили, робота яких визначається початковим та кінцевим положеннями тіла і не залежить від форми траєкторії. По замкненій траєкторії їх сумарна робота дорівнює нулю. Силові поля таких сил називають потенціальними.",
+      "Потенціальна енергія характеризує конфігурацію системи взаємодіючих тіл. Для консервативної сили робота дорівнює зменшенню потенціальної енергії. Нульовий рівень енергії можна вибрати довільно, але різниця енергій від цього не змінюється.",
+      "У одновимірному випадку проєкція консервативної сили дорівнює мінус похідній потенціальної енергії за координатою. У тривимірному випадку U залежить від x, y, z. Частинна похідна за x обчислюється при фіксованих y та z."
+    ],
+    "formulas": [
+      {
+        "name": "Кінетична енергія системи",
+        "latex": "E_k=\\sum_i\\frac{m_iv_i^2}{2}",
+        "eq": "Eₖ = Σ mᵢvᵢ²/2",
+        "vars": "Eₖ — сумарна кінетична енергія; mᵢ — маса i-го тіла; vᵢ — модуль швидкості i-го тіла",
+        "steps": [
+          "Обчислюємо Eₖ кожного тіла й додаємо скаляри."
+        ]
+      },
+      {
+        "name": "Робота центральної сили",
+        "latex": "A_{12}=\\int_{r_1}^{r_2}F_r(r)\\,dr",
+        "eq": "A₁₂ = ∫ Fᵣ(r) dr",
+        "vars": "A₁₂ — робота; Fᵣ — радіальна проєкція сили; r — відстань до центра; dr — приріст відстані",
+        "steps": [
+          "δA=Fᵣds cosα",
+          "ds cosα=dr",
+          "Інтегруємо за r."
+        ]
+      },
+      {
+        "name": "Робота по замкненому контуру",
+        "latex": "\\oint\\vec F_{\\mathrm{cons}}\\cdot d\\vec r=0",
+        "eq": "∮ Fконс·dr = 0",
+        "vars": "Fконс — консервативна сила; dr — мале переміщення; ∮ — інтеграл по замкненому контуру",
+        "steps": [
+          "Початкове й кінцеве положення однакові.",
+          "Робота залежить тільки від цих положень."
+        ]
+      },
+      {
+        "name": "Робота консервативної сили",
+        "latex": "A_{12}=U_1-U_2=-\\Delta U",
+        "eq": "A₁₂ = U₁−U₂ = −ΔU",
+        "vars": "A₁₂ — робота сили; U₁,U₂ — потенціальні енергії; ΔU — зміна потенціальної енергії",
+        "steps": [
+          "ΔU=U₂−U₁",
+          "Робота консервативної сили протилежна приросту U."
+        ]
+      },
+      {
+        "name": "Однорідне поле тяжіння",
+        "latex": "U=mgz+C",
+        "eq": "U=mgz+C",
+        "vars": "m — маса; g — прискорення тяжіння; z — висота; C — стала вибору нуля",
+        "steps": [
+          "F_z=−mg",
+          "A=−mg(z₂−z₁)",
+          "U₂−U₁=mg(z₂−z₁)."
+        ]
+      },
+      {
+        "name": "Гравітаційна енергія",
+        "latex": "U=-\\frac{GMm}{r}",
+        "eq": "U=−GMm/r",
+        "vars": "G — гравітаційна стала; M,m — маси; r — відстань між центрами; U — енергія",
+        "steps": [
+          "Fᵣ=−GMm/r²",
+          "Інтегруємо роботу від r до нескінченності.",
+          "Вибираємо U(∞)=0."
+        ]
+      },
+      {
+        "name": "Пружна енергія",
+        "latex": "U=\\frac{kx^2}{2}",
+        "eq": "U=kx²/2",
+        "vars": "k — жорсткість; x — деформація; U — енергія",
+        "steps": [
+          "Fₓ=−kx",
+          "ΔU=−∫Fₓdx",
+          "За U(0)=0 отримуємо kx²/2."
+        ]
+      },
+      {
+        "name": "Сила та градієнт",
+        "latex": "\\vec F=-\\nabla U",
+        "eq": "F=−∇U",
+        "vars": "F — вектор сили; ∇ — оператор градієнта; U — потенціальна енергія",
+        "steps": [
+          "δA=F·dr=−dU",
+          "Порівнюємо коефіцієнти при dx, dy, dz.",
+          "Fₓ=−∂U/∂x та аналогічно для інших координат."
+        ]
+      },
+      {
+        "name": "Проєкція сили",
+        "latex": "F_x=-\\frac{\\partial U}{\\partial x}",
+        "eq": "Fₓ=−∂U/∂x",
+        "vars": "Fₓ — проєкція сили; ∂ — знак частинної похідної; x — координата; U — енергія",
+        "steps": [
+          "Фіксуємо y та z.",
+          "Диференціюємо U за x і змінюємо знак."
+        ]
+      }
+    ],
+    "formulaTable": [
+      [
+        "Кінетична енергія системи",
+        "E_k=\\sum_i\\frac{m_iv_i^2}{2}"
+      ],
+      [
+        "Робота центральної сили",
+        "A_{12}=\\int_{r_1}^{r_2}F_r(r)\\,dr"
+      ],
+      [
+        "Робота по замкненому контуру",
+        "\\oint\\vec F_{\\mathrm{cons}}\\cdot d\\vec r=0"
+      ],
+      [
+        "Робота консервативної сили",
+        "A_{12}=U_1-U_2=-\\Delta U"
+      ],
+      [
+        "Однорідне поле тяжіння",
+        "U=mgz+C"
+      ],
+      [
+        "Гравітаційна енергія",
+        "U=-\\frac{GMm}{r}"
+      ],
+      [
+        "Пружна енергія",
+        "U=\\frac{kx^2}{2}"
+      ],
+      [
+        "Сила та градієнт",
+        "\\vec F=-\\nabla U"
+      ],
+      [
+        "Проєкція сили",
+        "F_x=-\\frac{\\partial U}{\\partial x}"
+      ]
+    ],
+    "quiz": [
+      {
+        "q": "Яка властивість консервативної сили?",
+        "o": [
+          "Модуль сили завжди сталий",
+          "Робота завжди нульова",
+          "Робота завжди додатна",
+          "Робота не залежить від форми шляху"
+        ],
+        "a": 3,
+        "why": "Робота залежить лише від кінцевого та початкового положень.",
+        "topic": "Потенціальна енергія. Консервативні сили",
+        "detail": []
+      },
+      {
+        "q": "Робота консервативної сили на замкненій траєкторії?",
+        "o": [
+          "Завжди додатна",
+          "Залежить від довжини",
+          "Завжди від’ємна",
+          "0"
+        ],
+        "a": 3,
+        "why": "Початкове і кінцеве положення збігаються.",
+        "topic": "Потенціальна енергія. Консервативні сили",
+        "detail": []
+      },
+      {
+        "q": "Чому тертя ковзання неконсервативне?",
+        "o": [
+          "Сила вимірюється в ньютонах",
+          "Маса змінюється",
+          "Сила завжди нульова",
+          "Робота залежить від шляху"
+        ],
+        "a": 3,
+        "why": "Aтер=−Fтер s за сталого модуля тертя.",
+        "topic": "Потенціальна енергія. Консервативні сили",
+        "detail": []
+      },
+      {
+        "q": "Що змінюється при виборі іншого нуля U?",
+        "o": [
+          "Сила",
+          "Прискорення",
+          "Різниця енергій",
+          "Абсолютне значення U, не ΔU"
+        ],
+        "a": 3,
+        "why": "Додавання сталої не змінює різницю і похідну.",
+        "topic": "Потенціальна енергія. Консервативні сили",
+        "detail": []
+      },
+      {
+        "q": "Який знак U гравітації при U(∞)=0?",
+        "o": [
+          "Залежить від швидкості",
+          "Від’ємний",
+          "Додатний",
+          "Завжди нуль"
+        ],
+        "a": 1,
+        "why": "U=−GMm/r для додатних мас.",
+        "topic": "Потенціальна енергія. Консервативні сили",
+        "detail": []
+      },
+      {
+        "q": "Чому Fₓ=−∂U/∂x?",
+        "o": [
+          "Градієнт завжди нульовий",
+          "Робота дорівнює спаду U",
+          "Робота дорівнює зростанню U",
+          "Сила є енергією"
+        ],
+        "a": 1,
+        "why": "Порівнюємо δA=Fₓdx і δA=−dU.",
+        "topic": "Потенціальна енергія. Консервативні сили",
+        "detail": []
+      },
+      {
+        "q": "У якому напрямі градієнт U?",
+        "o": [
+          "Завжди вниз",
+          "Найшвидшого спадання U",
+          "Найшвидшого зростання U",
+          "Завжди уздовж швидкості"
+        ],
+        "a": 2,
+        "why": "Градієнт задає напрям максимального зростання.",
+        "topic": "Потенціальна енергія. Консервативні сили",
+        "detail": []
+      },
+      {
+        "q": "Що визначає частинна похідна за x?",
+        "o": [
+          "Зміну за x при фіксованих інших координатах",
+          "Зміну за всіма координатами одночасно",
+          "Лише зміну за часом",
+          "Суму координат"
+        ],
+        "a": 0,
+        "why": "Усі інші незалежні змінні вважаються сталими.",
+        "topic": "Потенціальна енергія. Консервативні сили",
+        "detail": []
+      },
+      {
+        "q": "U зросла від 5 до 12 Дж. Робота консервативної сили?",
+        "o": [
+          "0 Дж",
+          "+7 Дж",
+          "−7 Дж",
+          "17 Дж"
+        ],
+        "a": 2,
+        "why": "A=U₁−U₂=−7 Дж.",
+        "topic": "Потенціальна енергія. Консервативні сили",
+        "detail": []
+      },
+      {
+        "q": "k=100 Н/м, x=0,1 м. Енергія пружини?",
+        "o": [
+          "5 Дж",
+          "1 Дж",
+          "10 Дж",
+          "0,5 Дж"
+        ],
+        "a": 3,
+        "why": "100·0,1²/2=0,5 Дж.",
+        "topic": "Потенціальна енергія. Консервативні сили",
+        "detail": []
+      },
+      {
+        "q": "U=3x², у СІ. Яка Fₓ при x=2 м?",
+        "o": [
+          "−12 Н",
+          "−6 Н",
+          "+12 Н",
+          "+6 Н"
+        ],
+        "a": 0,
+        "why": "−dU/dx=−6x=−12 Н.",
+        "topic": "Потенціальна енергія. Консервативні сили",
+        "detail": []
+      },
+      {
+        "q": "Якою є робота сили тяжіння при переміщенні горизонтально?",
+        "o": [
+          "Завжди від’ємна",
+          "mgh при h>0",
+          "mg",
+          "0"
+        ],
+        "a": 3,
+        "why": "Сила вертикальна, переміщення горизонтальне.",
+        "topic": "Потенціальна енергія. Консервативні сили",
+        "detail": []
+      },
+      {
+        "q": "Який запис відповідає поняттю «Кінетична енергія системи»?",
+        "o": [
+          "P = δA/dt = F·v",
+          "Pсер = A/Δt",
+          "∮ Fконс·dr = 0",
+          "Eₖ = Σ mᵢvᵢ²/2"
+        ],
+        "a": 3,
+        "why": "Обчислюємо Eₖ кожного тіла й додаємо скаляри.. Eₖ — сумарна кінетична енергія; mᵢ — маса i-го тіла; vᵢ — модуль швидкості i-го тіла",
+        "detail": [
+          "Обчислюємо Eₖ кожного тіла й додаємо скаляри."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Робота центральної сили»?",
+        "o": [
+          "P = δA/dt = F·v",
+          "Ma_C = Σ Fзовн",
+          "A₁₂ = ∫ Fᵣ(r) dr",
+          "A = Fs cosα"
+        ],
+        "a": 2,
+        "why": "δA=Fᵣds cosα; ds cosα=dr; Інтегруємо за r.. A₁₂ — робота; Fᵣ — радіальна проєкція сили; r — відстань до центра; dr — приріст відстані",
+        "detail": [
+          "δA=Fᵣds cosα",
+          "ds cosα=dr",
+          "Інтегруємо за r."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Робота по замкненому контуру»?",
+        "o": [
+          "Σ Fзовн = 0 ⇒ P = const",
+          "U=−GMm/r",
+          "∮ Fконс·dr = 0",
+          "U=mgz+C"
+        ],
+        "a": 2,
+        "why": "Початкове й кінцеве положення однакові.; Робота залежить тільки від цих положень.. Fконс — консервативна сила; dr — мале переміщення; ∮ — інтеграл по замкненому контуру",
+        "detail": [
+          "Початкове й кінцеве положення однакові.",
+          "Робота залежить тільки від цих положень."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Робота консервативної сили»?",
+        "o": [
+          "U=−GMm/r",
+          "A₁₂ = U₁−U₂ = −ΔU",
+          "F_C = 2m(v′ × ω)",
+          "Σ Fзовн,x = 0 ⇒ Pₓ = const"
+        ],
+        "a": 1,
+        "why": "ΔU=U₂−U₁; Робота консервативної сили протилежна приросту U.. A₁₂ — робота сили; U₁,U₂ — потенціальні енергії; ΔU — зміна потенціальної енергії",
+        "detail": [
+          "ΔU=U₂−U₁",
+          "Робота консервативної сили протилежна приросту U."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Однорідне поле тяжіння»?",
+        "o": [
+          "∮ Fконс·dr = 0",
+          "U=kx²/2",
+          "U=mgz+C",
+          "Fвідц = mω²R"
+        ],
+        "a": 2,
+        "why": "F_z=−mg; A=−mg(z₂−z₁); U₂−U₁=mg(z₂−z₁).. m — маса; g — прискорення тяжіння; z — висота; C — стала вибору нуля",
+        "detail": [
+          "F_z=−mg",
+          "A=−mg(z₂−z₁)",
+          "U₂−U₁=mg(z₂−z₁)."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Гравітаційна енергія»?",
+        "o": [
+          "U=−GMm/r",
+          "Σ Fзовн,x = 0 ⇒ Pₓ = const",
+          "Σ Fзовн = 0 ⇒ P = const",
+          "A₁₂ = ∫ Fᵣ(r) dr"
+        ],
+        "a": 0,
+        "why": "Fᵣ=−GMm/r²; Інтегруємо роботу від r до нескінченності.; Вибираємо U(∞)=0.. G — гравітаційна стала; M,m — маси; r — відстань між центрами; U — енергія",
+        "detail": [
+          "Fᵣ=−GMm/r²",
+          "Інтегруємо роботу від r до нескінченності.",
+          "Вибираємо U(∞)=0."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Пружна енергія»?",
+        "o": [
+          "A₁₂ = ∫ F·dr",
+          "Σ mᵢ(vᵢ − v_C) = 0",
+          "Pсер = A/Δt",
+          "U=kx²/2"
+        ],
+        "a": 3,
+        "why": "Fₓ=−kx; ΔU=−∫Fₓdx; За U(0)=0 отримуємо kx²/2.. k — жорсткість; x — деформація; U — енергія",
+        "detail": [
+          "Fₓ=−kx",
+          "ΔU=−∫Fₓdx",
+          "За U(0)=0 отримуємо kx²/2."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Сила та градієнт»?",
+        "o": [
+          "dP/dt = Σ Fзовн",
+          "F=−∇U",
+          "Σ Fзовн,x = 0 ⇒ Pₓ = const",
+          "Δp = ∫ F dt"
+        ],
+        "a": 1,
+        "why": "δA=F·dr=−dU; Порівнюємо коефіцієнти при dx, dy, dz.; Fₓ=−∂U/∂x та аналогічно для інших координат.. F — вектор сили; ∇ — оператор градієнта; U — потенціальна енергія",
+        "detail": [
+          "δA=F·dr=−dU",
+          "Порівнюємо коефіцієнти при dx, dy, dz.",
+          "Fₓ=−∂U/∂x та аналогічно для інших координат."
+        ],
+        "topic": "Формули"
+      },
+      {
+        "q": "Який запис відповідає поняттю «Проєкція сили»?",
+        "o": [
+          "U=kx²/2",
+          "F_C = 2m(v′ × ω)",
+          "Fₓ=−∂U/∂x",
+          "v_C = P/M"
+        ],
+        "a": 2,
+        "why": "Фіксуємо y та z.; Диференціюємо U за x і змінюємо знак.. Fₓ — проєкція сили; ∂ — знак частинної похідної; x — координата; U — енергія",
+        "detail": [
+          "Фіксуємо y та z.",
+          "Диференціюємо U за x і змінюємо знак."
+        ],
+        "topic": "Формули"
+      }
+    ],
+    "tasks": [
+      {
+        "title": "№4.17 · Потенціальна яма",
+        "level": "Практика",
+        "q": "Потенціальна енергія U(r)=ar²−br, a,b>0. Знайти положення рівноваги, його стійкість та U у ньому.",
+        "given": "U=ar²−br; a>0; b>0",
+        "find": "r₀, U₀, стійкість",
+        "hint": "Визнач систему, відомі величини та фізичний закон. Лише потім підставляй дані.",
+        "steps": [
+          "Диференціюємо U: dU/dr=2ar−b.",
+          "Прирівнюємо до нуля: 2ar₀=b, r₀=b/(2a).",
+          "Друга похідна дорівнює 2a>0, тому радіальна рівновага стійка.",
+          "Підставляємо r₀: a·b²/(4a²)−b²/(2a)=−b²/(4a)."
+        ],
+        "answer": "r₀=b/(2a); U₀=−b²/(4a); стійка за радіальним напрямом.",
+        "guide": {
+          "vars": [
+            "U — потенціальна енергія, Дж",
+            "r — радіальна координата, м",
+            "a — коефіцієнт, Дж/м²",
+            "b — коефіцієнт, Дж/м",
+            "r₀ — рівноважна координата, м"
+          ],
+          "theory": "Fᵣ=−dU/dr. Рівновага потребує Fᵣ=0; додатна друга похідна означає локальний мінімум.",
+          "math": [
+            "F_r=b-2ar",
+            "r_0=\\frac{b}{2a}",
+            "U(r_0)=-\\frac{b^2}{4a}"
+          ],
+          "check": "Графік U — парабола з гілками вгору."
+        },
+        "source": "Подласов, збірник 2023 · №4.17, с. 14",
+        "record": "",
+        "image": "assets/new-parabola.svg",
+        "imageCaption": "Авторська схема до задачі (не в масштабі).",
+        "visual": [
+          "assets/worked/energy-05-10-2-01-1.png",
+          "assets/worked/energy-05-10-2-01-2.png",
+          "assets/worked/energy-05-10-2-01-step1.png",
+          "assets/worked/energy-05-10-2-01-answer.png"
+        ]
+      },
+      {
+        "title": "Пружина: зміна енергії",
+        "level": "Практика",
+        "q": "Пружина жорсткістю 200 Н/м розтягнута від 0,02 м до 0,05 м. Визначити роботу сили пружності.",
+        "given": "k=200 Н/м; x₁=0,02 м; x₂=0,05 м",
+        "find": "A",
+        "hint": "Визнач систему, відомі величини та фізичний закон. Лише потім підставляй дані.",
+        "steps": [
+          "Початкова енергія 100·0,02²=0,04 Дж.",
+          "Кінцева енергія 100·0,05²=0,25 Дж.",
+          "Робота пружності дорівнює 0,04−0,25=−0,21 Дж."
+        ],
+        "answer": "−0,21 Дж.",
+        "guide": {
+          "vars": [
+            "k — жорсткість, Н/м",
+            "x₁,x₂ — видовження, м",
+            "U — енергія, Дж",
+            "A — робота сили пружності, Дж"
+          ],
+          "theory": "Сила пружності консервативна; A=U₁−U₂, U=kx²/2.",
+          "math": [
+            "A=\\frac{k(x_1^2-x_2^2)}{2}=-0.21\\ \\mathrm{J}"
+          ],
+          "check": "Пружина протидіє розтягуванню, тому робота від’ємна."
+        },
+        "source": "",
+        "record": "",
+        "visual": [
+          "assets/worked/energy-05-10-2-02-1.png",
+          "assets/worked/energy-05-10-2-02-2.png",
+          "assets/worked/energy-05-10-2-02-step1.png",
+          "assets/worked/energy-05-10-2-02-answer.png"
+        ]
+      }
+    ],
+    "oral": [
+      [
+        "Яка властивість консервативної сили?",
+        "Робота залежить лише від кінцевого та початкового положень. Відповідь: Робота не залежить від форми шляху."
+      ],
+      [
+        "Робота консервативної сили на замкненій траєкторії?",
+        "Початкове і кінцеве положення збігаються. Відповідь: 0."
+      ],
+      [
+        "Чому тертя ковзання неконсервативне?",
+        "Aтер=−Fтер s за сталого модуля тертя. Відповідь: Робота залежить від шляху."
+      ],
+      [
+        "Що змінюється при виборі іншого нуля U?",
+        "Додавання сталої не змінює різницю і похідну. Відповідь: Абсолютне значення U, не ΔU."
+      ],
+      [
+        "Який знак U гравітації при U(∞)=0?",
+        "U=−GMm/r для додатних мас. Відповідь: Від’ємний."
+      ],
+      [
+        "Чому Fₓ=−∂U/∂x?",
+        "Порівнюємо δA=Fₓdx і δA=−dU. Відповідь: Робота дорівнює спаду U."
+      ],
+      [
+        "У якому напрямі градієнт U?",
+        "Градієнт задає напрям максимального зростання. Відповідь: Найшвидшого зростання U."
+      ],
+      [
+        "Що визначає частинна похідна за x?",
+        "Усі інші незалежні змінні вважаються сталими. Відповідь: Зміну за x при фіксованих інших координатах."
+      ],
+      [
+        "U зросла від 5 до 12 Дж. Робота консервативної сили?",
+        "A=U₁−U₂=−7 Дж. Відповідь: −7 Дж."
+      ],
+      [
+        "k=100 Н/м, x=0,1 м. Енергія пружини?",
+        "100·0,1²/2=0,5 Дж. Відповідь: 0,5 Дж."
+      ],
+      [
+        "U=3x², у СІ. Яка Fₓ при x=2 м?",
+        "−dU/dx=−6x=−12 Н. Відповідь: −12 Н."
+      ],
+      [
+        "Якою є робота сили тяжіння при переміщенні горизонтально?",
+        "Сила вертикальна, переміщення горизонтальне. Відповідь: 0."
+      ],
+      [
+        "Виведи: Кінетична енергія системи",
+        "Обчислюємо Eₖ кожного тіла й додаємо скаляри.. Позначення: Eₖ — сумарна кінетична енергія; mᵢ — маса i-го тіла; vᵢ — модуль швидкості i-го тіла"
+      ],
+      [
+        "Виведи: Робота центральної сили",
+        "δA=Fᵣds cosα; ds cosα=dr; Інтегруємо за r.. Позначення: A₁₂ — робота; Fᵣ — радіальна проєкція сили; r — відстань до центра; dr — приріст відстані"
+      ],
+      [
+        "Виведи: Робота по замкненому контуру",
+        "Початкове й кінцеве положення однакові.; Робота залежить тільки від цих положень.. Позначення: Fконс — консервативна сила; dr — мале переміщення; ∮ — інтеграл по замкненому контуру"
+      ],
+      [
+        "Виведи: Робота консервативної сили",
+        "ΔU=U₂−U₁; Робота консервативної сили протилежна приросту U.. Позначення: A₁₂ — робота сили; U₁,U₂ — потенціальні енергії; ΔU — зміна потенціальної енергії"
+      ],
+      [
+        "Виведи: Однорідне поле тяжіння",
+        "F_z=−mg; A=−mg(z₂−z₁); U₂−U₁=mg(z₂−z₁).. Позначення: m — маса; g — прискорення тяжіння; z — висота; C — стала вибору нуля"
+      ],
+      [
+        "Виведи: Гравітаційна енергія",
+        "Fᵣ=−GMm/r²; Інтегруємо роботу від r до нескінченності.; Вибираємо U(∞)=0.. Позначення: G — гравітаційна стала; M,m — маси; r — відстань між центрами; U — енергія"
+      ],
+      [
+        "Виведи: Пружна енергія",
+        "Fₓ=−kx; ΔU=−∫Fₓdx; За U(0)=0 отримуємо kx²/2.. Позначення: k — жорсткість; x — деформація; U — енергія"
+      ],
+      [
+        "Виведи: Сила та градієнт",
+        "δA=F·dr=−dU; Порівнюємо коефіцієнти при dx, dy, dz.; Fₓ=−∂U/∂x та аналогічно для інших координат.. Позначення: F — вектор сили; ∇ — оператор градієнта; U — потенціальна енергія"
+      ],
+      [
+        "Виведи: Проєкція сили",
+        "Фіксуємо y та z.; Диференціюємо U за x і змінюємо знак.. Позначення: Fₓ — проєкція сили; ∂ — знак частинної похідної; x — координата; U — енергія"
+      ]
+    ],
+    "cards": [
+      [
+        "Яка властивість консервативної сили?",
+        "Робота не залежить від форми шляху"
+      ],
+      [
+        "Робота консервативної сили на замкненій траєкторії?",
+        "0"
+      ],
+      [
+        "Чому тертя ковзання неконсервативне?",
+        "Робота залежить від шляху"
+      ],
+      [
+        "Що змінюється при виборі іншого нуля U?",
+        "Абсолютне значення U, не ΔU"
+      ],
+      [
+        "Який знак U гравітації при U(∞)=0?",
+        "Від’ємний"
+      ],
+      [
+        "Чому Fₓ=−∂U/∂x?",
+        "Робота дорівнює спаду U"
+      ],
+      [
+        "У якому напрямі градієнт U?",
+        "Найшвидшого зростання U"
+      ],
+      [
+        "Що визначає частинна похідна за x?",
+        "Зміну за x при фіксованих інших координатах"
+      ],
+      [
+        "U зросла від 5 до 12 Дж. Робота консервативної сили?",
+        "−7 Дж"
+      ],
+      [
+        "k=100 Н/м, x=0,1 м. Енергія пружини?",
+        "0,5 Дж"
+      ],
+      [
+        "U=3x², у СІ. Яка Fₓ при x=2 м?",
+        "−12 Н"
+      ],
+      [
+        "Якою є робота сили тяжіння при переміщенні горизонтально?",
+        "0"
+      ],
+      [
+        "Кінетична енергія системи",
+        "Eₖ = Σ mᵢvᵢ²/2"
+      ],
+      [
+        "Робота центральної сили",
+        "A₁₂ = ∫ Fᵣ(r) dr"
+      ],
+      [
+        "Робота по замкненому контуру",
+        "∮ Fконс·dr = 0"
+      ],
+      [
+        "Робота консервативної сили",
+        "A₁₂ = U₁−U₂ = −ΔU"
+      ],
+      [
+        "Однорідне поле тяжіння",
+        "U=mgz+C"
+      ],
+      [
+        "Гравітаційна енергія",
+        "U=−GMm/r"
+      ],
+      [
+        "Пружна енергія",
+        "U=kx²/2"
+      ],
+      [
+        "Сила та градієнт",
+        "F=−∇U"
+      ],
+      [
+        "Проєкція сили",
+        "Fₓ=−∂U/∂x"
+      ]
+    ],
+    "glossary": [
+      [
+        "Сумарна кінетична енергія",
+        "Позначення: Eₖ. Одиниця СІ: Дж."
+      ],
+      [
+        "Маса i-го тіла",
+        "Позначення: mᵢ. Одиниця СІ: кг."
+      ],
+      [
+        "Модуль швидкості i-го тіла",
+        "Позначення: vᵢ. Одиниця СІ: м/с."
+      ],
+      [
+        "Робота",
+        "Позначення: A₁₂. Одиниця СІ: Дж."
+      ],
+      [
+        "Радіальна проєкція сили",
+        "Позначення: Fᵣ. Одиниця СІ: Н."
+      ],
+      [
+        "Відстань до центра",
+        "Позначення: r. Одиниця СІ: м."
+      ],
+      [
+        "Приріст відстані",
+        "Позначення: dr. Одиниця СІ: м."
+      ],
+      [
+        "Консервативна сила",
+        "Позначення: Fконс. Одиниця СІ: Н."
+      ],
+      [
+        "Мале переміщення",
+        "Позначення: dr. Одиниця СІ: м."
+      ],
+      [
+        "Інтеграл по замкненому контуру",
+        "Позначення: ∮. Одиниця СІ: —."
+      ],
+      [
+        "Робота сили",
+        "Позначення: A₁₂. Одиниця СІ: Дж."
+      ],
+      [
+        "Потенціальні енергії",
+        "Позначення: U₁,U₂. Одиниця СІ: Дж."
+      ],
+      [
+        "Зміна потенціальної енергії",
+        "Позначення: ΔU. Одиниця СІ: Дж."
+      ],
+      [
+        "Маса",
+        "Позначення: m. Одиниця СІ: кг."
+      ],
+      [
+        "Прискорення тяжіння",
+        "Позначення: g. Одиниця СІ: м/с²."
+      ],
+      [
+        "Висота",
+        "Позначення: z. Одиниця СІ: м."
+      ],
+      [
+        "Стала вибору нуля",
+        "Позначення: C. Одиниця СІ: Дж."
+      ],
+      [
+        "Гравітаційна стала",
+        "Позначення: G. Одиниця СІ: Н·м²/кг²."
+      ],
+      [
+        "Маси",
+        "Позначення: M,m. Одиниця СІ: кг."
+      ],
+      [
+        "Відстань між центрами",
+        "Позначення: r. Одиниця СІ: м."
+      ],
+      [
+        "Енергія",
+        "Позначення: U. Одиниця СІ: Дж."
+      ],
+      [
+        "Жорсткість",
+        "Позначення: k. Одиниця СІ: Н/м."
+      ],
+      [
+        "Деформація",
+        "Позначення: x. Одиниця СІ: м."
+      ],
+      [
+        "Вектор сили",
+        "Позначення: F. Одиниця СІ: Н."
+      ],
+      [
+        "Оператор градієнта",
+        "Позначення: ∇. Одиниця СІ: 1/м."
+      ],
+      [
+        "Потенціальна енергія",
+        "Позначення: U. Одиниця СІ: Дж."
+      ],
+      [
+        "Проєкція сили",
+        "Позначення: Fₓ. Одиниця СІ: Н."
+      ],
+      [
+        "Знак частинної похідної",
+        "Позначення: ∂. Одиниця СІ: —."
+      ],
+      [
+        "Координата",
+        "Позначення: x. Одиниця СІ: м."
+      ]
+    ],
+    "symbols": {
+      "E_k=\\sum_i\\frac{m_iv_i^2}{2}": [
+        [
+          "Eₖ",
+          "сумарна кінетична енергія",
+          "Дж"
+        ],
+        [
+          "mᵢ",
+          "маса i-го тіла",
+          "кг"
+        ],
+        [
+          "vᵢ",
+          "модуль швидкості i-го тіла",
+          "м/с"
+        ]
+      ],
+      "A_{12}=\\int_{r_1}^{r_2}F_r(r)\\,dr": [
+        [
+          "A₁₂",
+          "робота",
+          "Дж"
+        ],
+        [
+          "Fᵣ",
+          "радіальна проєкція сили",
+          "Н"
+        ],
+        [
+          "r",
+          "відстань до центра",
+          "м"
+        ],
+        [
+          "dr",
+          "приріст відстані",
+          "м"
+        ]
+      ],
+      "\\oint\\vec F_{\\mathrm{cons}}\\cdot d\\vec r=0": [
+        [
+          "Fконс",
+          "консервативна сила",
+          "Н"
+        ],
+        [
+          "dr",
+          "мале переміщення",
+          "м"
+        ],
+        [
+          "∮",
+          "інтеграл по замкненому контуру",
+          "—"
+        ]
+      ],
+      "A_{12}=U_1-U_2=-\\Delta U": [
+        [
+          "A₁₂",
+          "робота сили",
+          "Дж"
+        ],
+        [
+          "U₁,U₂",
+          "потенціальні енергії",
+          "Дж"
+        ],
+        [
+          "ΔU",
+          "зміна потенціальної енергії",
+          "Дж"
+        ]
+      ],
+      "U=mgz+C": [
+        [
+          "m",
+          "маса",
+          "кг"
+        ],
+        [
+          "g",
+          "прискорення тяжіння",
+          "м/с²"
+        ],
+        [
+          "z",
+          "висота",
+          "м"
+        ],
+        [
+          "C",
+          "стала вибору нуля",
+          "Дж"
+        ]
+      ],
+      "U=-\\frac{GMm}{r}": [
+        [
+          "G",
+          "гравітаційна стала",
+          "Н·м²/кг²"
+        ],
+        [
+          "M,m",
+          "маси",
+          "кг"
+        ],
+        [
+          "r",
+          "відстань між центрами",
+          "м"
+        ],
+        [
+          "U",
+          "енергія",
+          "Дж"
+        ]
+      ],
+      "U=\\frac{kx^2}{2}": [
+        [
+          "k",
+          "жорсткість",
+          "Н/м"
+        ],
+        [
+          "x",
+          "деформація",
+          "м"
+        ],
+        [
+          "U",
+          "енергія",
+          "Дж"
+        ]
+      ],
+      "\\vec F=-\\nabla U": [
+        [
+          "F",
+          "вектор сили",
+          "Н"
+        ],
+        [
+          "∇",
+          "оператор градієнта",
+          "1/м"
+        ],
+        [
+          "U",
+          "потенціальна енергія",
+          "Дж"
+        ]
+      ],
+      "F_x=-\\frac{\\partial U}{\\partial x}": [
+        [
+          "Fₓ",
+          "проєкція сили",
+          "Н"
+        ],
+        [
+          "∂",
+          "знак частинної похідної",
+          "—"
+        ],
+        [
+          "x",
+          "координата",
+          "м"
+        ],
+        [
+          "U",
+          "енергія",
+          "Дж"
+        ]
+      ]
+    },
+    "podcast": [
+      {
+        "title": "Кінетична енергія системи та силове поле",
+        "text": "Кінетична енергія системи адитивна: це сума кінетичних енергій її частинок. Теорема про кінетичну енергію справедлива для системи, якщо в роботі враховано всі внутрішні та зовнішні сили. Внутрішні сили можуть виконувати сумарну роботу навіть тоді, коли їх векторна сума нульова. Силове поле — область простору, у кожній точці якої на пробне тіло діє сила певної природи. Поле задають векторною функцією координат. Для стаціонарного поля ця функція явно не залежить від часу. Однорідне поле має той самий вектор сили в усіх точках (для однакового пробного тіла). Важливий акцент: Адитивність кінетичної енергії не означає, що можна замінити всі швидкості швидкістю центра мас. У полі важливо розрізняти напрям та модуль сили."
+      },
+      {
+        "title": "Центральні сили та їх робота",
+        "text": "У полі центральних сил вектор сили напрямлений уздовж прямої, що проходить через силовий центр і точку прикладання. У стаціонарному центральному полі радіальна проєкція сили залежить лише від відстані r до центра. Елементарну роботу можна записати як добуток радіальної проєкції сили на приріст відстані dr. Геометрично dr=ds cosα, де α — кут між зовнішнім радіальним напрямом і дотичною до траєкторії. Тому інтеграл роботи залежить від початкового та кінцевого радіусів, а не від форми шляху. Приклад — сила тяжіння точкових мас. Важливий акцент: У формулі для роботи центральної сили лишаються тільки відстань до центра і її приріст; це пояснює незалежність роботи від форми траєкторії."
+      },
+      {
+        "title": "Консервативні та неконсервативні сили",
+        "text": "Консервативні сили — сили, робота яких визначається початковим та кінцевим положеннями тіла і не залежить від форми траєкторії. По замкненій траєкторії їх сумарна робота дорівнює нулю. Силові поля таких сил називають потенціальними. Неконсервативні сили не мають цієї властивості. Сила тертя ковзання на горизонтальній площині виконує роботу, пропорційну довжині шляху зі знаком мінус, тому повернення в початкову точку не компенсує втрату механічної енергії. Дисипативні сили спричиняють перетворення механічної енергії у внутрішню. Не кожна неконсервативна сила обов’язково є дисипативною. Важливий акцент: На іспиті слід чітко сформулювати незалежність від форми траєкторії та наслідок для замкненого контуру."
+      },
+      {
+        "title": "Потенціальна енергія у полях тяжіння та пружності",
+        "text": "Потенціальна енергія характеризує конфігурацію системи взаємодіючих тіл. Для консервативної сили робота дорівнює зменшенню потенціальної енергії. Нульовий рівень енергії можна вибрати довільно, але різниця енергій від цього не змінюється. Поблизу поверхні Землі поле тяжіння можна вважати однорідним. Якщо вісь z спрямована вгору, сила тяжіння має проєкцію −mg. Інтегрування дає роботу mg(z₁−z₂), звідки потенціальна енергія U=mgz+C. Для двох точкових мас за нульового рівня на нескінченності U=−GMm/r. Від’ємність означає, що для віддалення мас до нескінченності потрібно підвищити їх потенціальну енергію. Для ідеальної пружини за нуля у недеформованому стані U=kx²/2. Важливий акцент: Нуль потенціальної енергії вибирається; від’ємні значення не є помилкою. Фізично визначальними є різниці потенціальних енергій."
+      },
+      {
+        "title": "Сила як від’ємний градієнт потенціальної енергії",
+        "text": "У одновимірному випадку проєкція консервативної сили дорівнює мінус похідній потенціальної енергії за координатою. У тривимірному випадку U залежить від x, y, z. Частинна похідна за x обчислюється при фіксованих y та z. Градієнт скалярної функції — вектор із компонентами її частинних похідних. Він спрямований у бік найшвидшого зростання функції. Сила має протилежний напрям до градієнта потенціальної енергії. Рівновага в одновимірному консервативному полі можлива при нульовій першій похідній U. Мінімум потенціальної енергії відповідає стійкій рівновазі, максимум — нестійкій (додаткове пояснення). Важливий акцент: Лектор окремо вводить круглий символ ∂ для частинної похідної. При диференціюванні за однією координатою інші вважаються сталими."
+      },
+      {
+        "title": "Практичне повторення",
+        "text": "№4.17 · Потенціальна яма. Fᵣ=−dU/dr. Рівновага потребує Fᵣ=0; додатна друга похідна означає локальний мінімум. Диференціюємо U: dU/dr=2ar−b. Пружина: зміна енергії. Сила пружності консервативна; A=U₁−U₂, U=kx²/2. Початкова енергія 100·0,02²=0,04 Дж. Перед іспитом спробуй самостійно назвати закон, його умови та фізичний зміст."
+      }
+    ],
+    "simulation": "",
+    "standard": "Візуальні задачі: умова, дані, теорія, покрокове розв’язання, відповідь. Рисунки схематичні."
+  },
+  {
+    "id": "practice-08-10",
+    "title": "Практика: робота змінної сили та потужність",
+    "date": "08.10.2026",
+    "duration": "31 хв 20 с",
+    "unit": "Механіка",
+    "description": "Робота при підніманні на криволінійну гірку та потужність сили, яка залежить від часу.",
+    "source": "8.10.26ch1.mp4 та 8.10.26ch2.mp4. Обидва фрагменти обриваються; умову №4.9 звірено зі збірником, завершення — авторське. Конспект за розшифровкою; таймкоди приблизні. Акценти лектора — переказ. Додаткові задачі, пояснення та питання укладено окремо.",
+    "pdf": "pdf/practice-08-10.pdf",
+    "reading": [
+      {
+        "title": "1. Робота змінної сили: основний алгоритм",
+        "time": "ч. 1 · 00:10–07:30",
+        "blocks": [
+          [
+            "p",
+            "Робота сили вздовж довільної кривої визначається інтегралом. Якщо сила спрямована по дотичній у напрямі руху, її елементарна робота дорівнює модулю сили, помноженому на елемент шляху."
+          ],
+          [
+            "p",
+            "Повільне квазістатичне переміщення моделюємо рівновагою сил у кожній точці, нехтуючи інерційними членами. На малому відрізку криву можна замінити дотичною прямою з локальним кутом нахилу."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · ч. 1 · 00:10–07:30",
+            "Не перетворюй довільну криву на один прямокутний трикутник. Інтегрування ведеться по малих ділянках, а кути можуть змінюватися."
+          ]
+        ]
+      },
+      {
+        "title": "2. Піднімання на криволінійну гірку",
+        "time": "ч. 1 · 07:30–20:50",
+        "blocks": [
+          [
+            "p",
+            "Сили на тілі: тяжіння, нормальна реакція, тертя й прикладена дотична сила. За квазістатичного підйому проєкції сил на дотичну й нормаль урівноважені. Сила тертя дорівнює коефіцієнту тертя, помноженому на нормальну реакцію."
+          ],
+          [
+            "p",
+            "Геометрично проєкції елемента шляху ds на горизонталь і вертикаль дорівнюють відповідно ds cosα та ds sinα. Після інтегрування по всій монотонній гірці отримуємо горизонтальну довжину основи l та висоту h."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · ч. 1 · 07:30–20:50",
+            "Задача розв’язується означенням роботи, законом Ньютона у векторній формі, проєкціями та розбиттям інтеграла на два доданки."
+          ],
+          [
+            "worked",
+            0
+          ]
+        ]
+      },
+      {
+        "title": "3. Миттєва потужність сили",
+        "time": "ч. 1 · 21:00; ч. 2 · 00:00–10:00",
+        "blocks": [
+          [
+            "p",
+            "У задачі з заданим законом сили від часу потужність знаходять за скалярним добутком сили й швидкості в ту саму мить. Швидкість відновлюють інтегруванням прискорення, яке знаходять за другим законом Ньютона."
+          ],
+          [
+            "p",
+            "Необхідна початкова умова: тіло починає рухатися зі спокою, тому інтегруємо від нуля до поточного моменту. Вектори в координатах інтегрують покомпонентно."
+          ],
+          [
+            "p",
+            "У розшифровці ч. 2 розв’язання обривається після переходу до інтегрування; завершення нижче виконано окремо за відновленою умовою зі збірника."
+          ],
+          [
+            "lecturer",
+            "Акценти лектора · ч. 1 · 21:00; ч. 2 · 00:00–10:00",
+            "Потрібно розрізняти похідну dv/dt і диференціал dv. Щоб знайти v(t), множимо рівняння на dt та інтегруємо; не диференціюємо силу ще раз."
+          ],
+          [
+            "worked",
+            1
+          ]
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "1. Робота змінної сили: основний алгоритм",
+        "time": "ч. 1 · 00:10–07:30",
+        "text": [
+          "Робота сили вздовж довільної кривої визначається інтегралом. Якщо сила спрямована по дотичній у напрямі руху, її елементарна робота дорівнює модулю сили, помноженому на елемент шляху.",
+          "Повільне квазістатичне переміщення моделюємо рівновагою сил у кожній точці, нехтуючи інерційними членами. На малому відрізку криву можна замінити дотичною прямою з локальним кутом нахилу."
+        ],
+        "equations": []
+      },
+      {
+        "title": "2. Піднімання на криволінійну гірку",
+        "time": "ч. 1 · 07:30–20:50",
+        "text": [
+          "Сили на тілі: тяжіння, нормальна реакція, тертя й прикладена дотична сила. За квазістатичного підйому проєкції сил на дотичну й нормаль урівноважені. Сила тертя дорівнює коефіцієнту тертя, помноженому на нормальну реакцію.",
+          "Геометрично проєкції елемента шляху ds на горизонталь і вертикаль дорівнюють відповідно ds cosα та ds sinα. Після інтегрування по всій монотонній гірці отримуємо горизонтальну довжину основи l та висоту h."
+        ],
+        "equations": []
+      },
+      {
+        "title": "3. Миттєва потужність сили",
+        "time": "ч. 1 · 21:00; ч. 2 · 00:00–10:00",
+        "text": [
+          "У задачі з заданим законом сили від часу потужність знаходять за скалярним добутком сили й швидкості в ту саму мить. Швидкість відновлюють інтегруванням прискорення, яке знаходять за другим законом Ньютона.",
+          "Необхідна початкова умова: тіло починає рухатися зі спокою, тому інтегруємо від нуля до поточного моменту. Вектори в координатах інтегрують покомпонентно.",
+          "У розшифровці ч. 2 розв’язання обривається після переходу до інтегрування; завершення нижче виконано окремо за відновленою умовою зі збірника."
+        ],
+        "equations": []
+      }
+    ],
+    "summary": [
+      "Робота сили вздовж довільної кривої визначається інтегралом. Якщо сила спрямована по дотичній у напрямі руху, її елементарна робота дорівнює модулю сили, помноженому на елемент шляху.",
+      "Сили на тілі: тяжіння, нормальна реакція, тертя й прикладена дотична сила. За квазістатичного підйому проєкції сил на дотичну й нормаль урівноважені. Сила тертя дорівнює коефіцієнту тертя, помноженому на нормальну реакцію.",
+      "У задачі з заданим законом сили від часу потужність знаходять за скалярним добутком сили й швидкості в ту саму мить. Швидкість відновлюють інтегруванням прискорення, яке знаходять за другим законом Ньютона."
+    ],
+    "formulas": [],
+    "formulaTable": [],
+    "quiz": [
+      {
+        "q": "Що треба інтегрувати для роботи змінної сили?",
+        "o": [
+          "Скалярний добуток F·dr",
+          "F за часом",
+          "Масу за шляхом",
+          "Швидкість за часом"
+        ],
+        "a": 0,
+        "why": "Робота визначена інтегралом за траєкторією.",
+        "topic": "Практика: робота змінної сили та потужність",
+        "detail": []
+      },
+      {
+        "q": "Що означає повільний підйом у моделі?",
+        "o": [
+          "Прискоренням нехтуємо",
+          "Шлях дорівнює висоті",
+          "Сила тяжіння відсутня",
+          "Тертя відсутнє"
+        ],
+        "a": 0,
+        "why": "Квазістатична модель дозволяє врівноважити сили.",
+        "topic": "Практика: робота змінної сили та потужність",
+        "detail": []
+      },
+      {
+        "q": "Чому N=mg cosα?",
+        "o": [
+          "Тертя дорівнює тяжінню",
+          "Сила тяги вертикальна",
+          "Проєкції на нормаль урівноважені",
+          "Маса змінна"
+        ],
+        "a": 2,
+        "why": "Прикладена сила і тертя дотичні, тому нормальні компоненти дають N−mg cosα=0.",
+        "topic": "Практика: робота змінної сили та потужність",
+        "detail": []
+      },
+      {
+        "q": "Що дорівнює ds sinα?",
+        "o": [
+          "Вертикальному приросту висоти",
+          "Горизонтальному приросту",
+          "Роботі",
+          "Силі тертя"
+        ],
+        "a": 0,
+        "why": "Це проєкція малого відрізка на вертикаль.",
+        "topic": "Практика: робота змінної сили та потужність",
+        "detail": []
+      },
+      {
+        "q": "Що дорівнює ds cosα?",
+        "o": [
+          "Імпульсу",
+          "Прискоренню",
+          "Вертикальному приросту",
+          "Горизонтальному приросту"
+        ],
+        "a": 3,
+        "why": "Проєкція дотичного відрізка на горизонталь.",
+        "topic": "Практика: робота змінної сили та потужність",
+        "detail": []
+      },
+      {
+        "q": "Який результат для гірки без тертя?",
+        "o": [
+          "mgl",
+          "mg(h+l)",
+          "mgh",
+          "0"
+        ],
+        "a": 2,
+        "why": "Робота витрачається лише на приріст потенціальної енергії.",
+        "topic": "Практика: робота змінної сили та потужність",
+        "detail": []
+      },
+      {
+        "q": "Як отримати швидкість із заданої сили F(t)?",
+        "o": [
+          "Інтегрувати F/m за часом",
+          "Інтегрувати силу за координатою",
+          "Диференціювати F за часом",
+          "Множити F на масу"
+        ],
+        "a": 0,
+        "why": "dv/dt=F/m, отже v(t)=v₀+∫F/m dt.",
+        "topic": "Практика: робота змінної сили та потужність",
+        "detail": []
+      },
+      {
+        "q": "Як обчислюється миттєва потужність у координатах?",
+        "o": [
+          "Fₓvₓ+Fᵧvᵧ",
+          "Fₓ²+Fᵧ²",
+          "Fₓ+vₓ",
+          "Fₓvᵧ−Fᵧvₓ"
+        ],
+        "a": 0,
+        "why": "Потужність — скалярний, не векторний добуток.",
+        "topic": "Практика: робота змінної сили та потужність",
+        "detail": []
+      },
+      {
+        "q": "m=2 кг, g=10 м/с², h=3 м, l=4 м, μ=0,2. Робота на гірці?",
+        "o": [
+          "80 Дж",
+          "76 Дж",
+          "140 Дж",
+          "60 Дж"
+        ],
+        "a": 1,
+        "why": "mg(h+μl)=20·3,8=76 Дж.",
+        "topic": "Практика: робота змінної сили та потужність",
+        "detail": []
+      },
+      {
+        "q": "У №4.9 при m=1 кг, t=1 с якою є P?",
+        "o": [
+          "0 Вт",
+          "3 Вт",
+          "2 Вт",
+          "5 Вт"
+        ],
+        "a": 3,
+        "why": "2·1³+3·1⁵=5 Вт.",
+        "topic": "Практика: робота змінної сили та потужність",
+        "detail": []
+      },
+      {
+        "q": "Яка первісна 3t²?",
+        "o": [
+          "t³+C",
+          "6t+C",
+          "3t³+C",
+          "t²/3+C"
+        ],
+        "a": 0,
+        "why": "Похідна t³ дорівнює 3t².",
+        "topic": "Практика: робота змінної сили та потужність",
+        "detail": []
+      },
+      {
+        "q": "Яка проєкція швидкості vₓ при Fₓ=2t, m=2 кг, vₓ(0)=0?",
+        "o": [
+          "t/2",
+          "t²/2",
+          "2t",
+          "t²"
+        ],
+        "a": 1,
+        "why": "vₓ=(1/m)∫2t dt=t²/2.",
+        "topic": "Практика: робота змінної сили та потужність",
+        "detail": []
+      }
+    ],
+    "tasks": [
+      {
+        "title": "№4.6 · Робота на гірці",
+        "level": "Практика",
+        "q": "Невелике тіло маси m повільно тягнуть вгору вздовж довільної монотонної гірки висотою h та горизонтальною основою l. Сила дотична, коефіцієнт тертя μ. Визначити роботу сили.",
+        "given": "m,h,l,μ,g; квазістатичний рух",
+        "find": "A",
+        "hint": "Визнач систему, відомі величини та фізичний закон. Лише потім підставляй дані.",
+        "steps": [
+          "Проводимо локальні осі: Ox вздовж дотичної вгору, Oy перпендикулярно назовні.",
+          "Векторне рівняння: F + N + mg + Fтер = 0 (всі величини тут векторні).",
+          "Проєкції: N−mg cosα=0; F−mg sinα−μN=0.",
+          "Підставляємо N=mg cosα: F=mg sinα+μmg cosα.",
+          "Пишемо δA=F ds, інтегруємо від початку до кінця, виносимо сталі m,g,μ.",
+          "Геометричні співвідношення dh=ds sinα та dl=ds cosα дають ∫dh=h, ∫dl=l.",
+          "Додаємо два внески: робота проти тяжіння mgh і проти тертя μmgl."
+        ],
+        "answer": "A=mg(h+μl).",
+        "guide": {
+          "vars": [
+            "m — маса, кг",
+            "h — висота, м",
+            "l — горизонтальна довжина, м",
+            "μ — коефіцієнт тертя, безрозмірний",
+            "g — прискорення вільного падіння, м/с²",
+            "α — локальний кут нахилу",
+            "N — реакція опори, Н",
+            "F — прикладена сила, Н",
+            "ds — елемент шляху, м",
+            "A — робота, Дж"
+          ],
+          "theory": "Закон Ньютона з нехтуванням прискоренням; Fтер=μN; δA=F ds.",
+          "math": [
+            "N=mg\\cos\\alpha",
+            "F=mg\\sin\\alpha+\\mu mg\\cos\\alpha",
+            "A=mg\\int\\sin\\alpha\\,ds+\\mu mg\\int\\cos\\alpha\\,ds",
+            "A=mg(h+\\mu l)"
+          ],
+          "check": "При μ=0 лишається mgh; вираз має одиницю Н·м."
+        },
+        "source": "Подласов, збірник 2023 · №4.6, с. 13",
+        "record": "08.10, ч.1 · 00:10–20:50",
+        "image": "assets/new-hill.svg",
+        "imageCaption": "Авторська схема до задачі (не в масштабі).",
+        "visual": [
+          "assets/worked/practice-08-10-01-1.png",
+          "assets/worked/practice-08-10-01-2.png",
+          "assets/worked/practice-08-10-01-step1.png",
+          "assets/worked/practice-08-10-01-step2.png",
+          "assets/worked/practice-08-10-01-answer.png"
+        ]
+      },
+      {
+        "title": "№4.9 · Потужність сили F(t)",
+        "level": "Практика",
+        "q": "Тіло маси m стартує зі спокою під дією сили з проєкціями Fₓ=2t, Fᵧ=3t² (величини у СІ). Визначити P(t).",
+        "given": "m; Fₓ=2t; Fᵧ=3t²; v(0)=0",
+        "find": "P(t)",
+        "hint": "Визнач систему, відомі величини та фізичний закон. Лише потім підставляй дані.",
+        "steps": [
+          "Записуємо m dvₓ/dt=2t; m dvᵧ/dt=3t².",
+          "Ділимо на m, переносимо dt: dvₓ=(2t/m)dt; dvᵧ=(3t²/m)dt.",
+          "Інтегруємо від 0 до t, використовуючи vₓ(0)=vᵧ(0)=0. Первісні 2t і 3t² — t² і t³.",
+          "Отримуємо vₓ=t²/m; vᵧ=t³/m.",
+          "Скалярний добуток P=Fₓvₓ+Fᵧvᵧ. Підставляємо: 2t·t²/m+3t²·t³/m.",
+          "Зводимо до спільного знаменника: P=(2t³+3t⁵)/m."
+        ],
+        "answer": "P(t)=(2t³+3t⁵)/m (Вт у СІ).",
+        "guide": {
+          "vars": [
+            "m — маса, кг",
+            "t — час, с",
+            "Fₓ,Fᵧ — проєкції сили, Н",
+            "vₓ,vᵧ — проєкції швидкості, м/с",
+            "P — миттєва потужність, Вт",
+            "dt — диференціал часу, с"
+          ],
+          "theory": "Другий закон Ньютона m dv/dt=F, миттєва потужність P=F·v. Коефіцієнти 2 і 3 мають відповідні одиниці СІ.",
+          "math": [
+            "m\\frac{dv_x}{dt}=2t,\\quad m\\frac{dv_y}{dt}=3t^2",
+            "v_x=\\frac{1}{m}\\int_0^t2\\tau\\,d\\tau=\\frac{t^2}{m}",
+            "v_y=\\frac{1}{m}\\int_0^t3\\tau^2\\,d\\tau=\\frac{t^3}{m}",
+            "P(t)=\\frac{2t^3+3t^5}{m}"
+          ],
+          "check": "При t=0 потужність нульова. Завершення не є дослівним розв’язанням лектора."
+        },
+        "source": "Подласов, збірник 2023 · №4.9, с. 13",
+        "record": "08.10, ч.2 · 00:00–10:00; авторське завершення",
+        "image": "assets/new-power.svg",
+        "imageCaption": "Авторська схема до задачі (не в масштабі).",
+        "visual": [
+          "assets/worked/practice-08-10-02-1.png",
+          "assets/worked/practice-08-10-02-2.png",
+          "assets/worked/practice-08-10-02-step1.png",
+          "assets/worked/practice-08-10-02-step2.png",
+          "assets/worked/practice-08-10-02-answer.png"
+        ]
+      }
+    ],
+    "oral": [
+      [
+        "Що треба інтегрувати для роботи змінної сили?",
+        "Робота визначена інтегралом за траєкторією. Відповідь: Скалярний добуток F·dr."
+      ],
+      [
+        "Що означає повільний підйом у моделі?",
+        "Квазістатична модель дозволяє врівноважити сили. Відповідь: Прискоренням нехтуємо."
+      ],
+      [
+        "Чому N=mg cosα?",
+        "Прикладена сила і тертя дотичні, тому нормальні компоненти дають N−mg cosα=0. Відповідь: Проєкції на нормаль урівноважені."
+      ],
+      [
+        "Що дорівнює ds sinα?",
+        "Це проєкція малого відрізка на вертикаль. Відповідь: Вертикальному приросту висоти."
+      ],
+      [
+        "Що дорівнює ds cosα?",
+        "Проєкція дотичного відрізка на горизонталь. Відповідь: Горизонтальному приросту."
+      ],
+      [
+        "Який результат для гірки без тертя?",
+        "Робота витрачається лише на приріст потенціальної енергії. Відповідь: mgh."
+      ],
+      [
+        "Як отримати швидкість із заданої сили F(t)?",
+        "dv/dt=F/m, отже v(t)=v₀+∫F/m dt. Відповідь: Інтегрувати F/m за часом."
+      ],
+      [
+        "Як обчислюється миттєва потужність у координатах?",
+        "Потужність — скалярний, не векторний добуток. Відповідь: Fₓvₓ+Fᵧvᵧ."
+      ],
+      [
+        "m=2 кг, g=10 м/с², h=3 м, l=4 м, μ=0,2. Робота на гірці?",
+        "mg(h+μl)=20·3,8=76 Дж. Відповідь: 76 Дж."
+      ],
+      [
+        "У №4.9 при m=1 кг, t=1 с якою є P?",
+        "2·1³+3·1⁵=5 Вт. Відповідь: 5 Вт."
+      ],
+      [
+        "Яка первісна 3t²?",
+        "Похідна t³ дорівнює 3t². Відповідь: t³+C."
+      ],
+      [
+        "Яка проєкція швидкості vₓ при Fₓ=2t, m=2 кг, vₓ(0)=0?",
+        "vₓ=(1/m)∫2t dt=t²/2. Відповідь: t²/2."
+      ]
+    ],
+    "cards": [
+      [
+        "Що треба інтегрувати для роботи змінної сили?",
+        "Скалярний добуток F·dr"
+      ],
+      [
+        "Що означає повільний підйом у моделі?",
+        "Прискоренням нехтуємо"
+      ],
+      [
+        "Чому N=mg cosα?",
+        "Проєкції на нормаль урівноважені"
+      ],
+      [
+        "Що дорівнює ds sinα?",
+        "Вертикальному приросту висоти"
+      ],
+      [
+        "Що дорівнює ds cosα?",
+        "Горизонтальному приросту"
+      ],
+      [
+        "Який результат для гірки без тертя?",
+        "mgh"
+      ],
+      [
+        "Як отримати швидкість із заданої сили F(t)?",
+        "Інтегрувати F/m за часом"
+      ],
+      [
+        "Як обчислюється миттєва потужність у координатах?",
+        "Fₓvₓ+Fᵧvᵧ"
+      ],
+      [
+        "m=2 кг, g=10 м/с², h=3 м, l=4 м, μ=0,2. Робота на гірці?",
+        "76 Дж"
+      ],
+      [
+        "У №4.9 при m=1 кг, t=1 с якою є P?",
+        "5 Вт"
+      ],
+      [
+        "Яка первісна 3t²?",
+        "t³+C"
+      ],
+      [
+        "Яка проєкція швидкості vₓ при Fₓ=2t, m=2 кг, vₓ(0)=0?",
+        "t²/2"
+      ]
+    ],
+    "glossary": [],
+    "symbols": {},
+    "podcast": [
+      {
+        "title": "Робота змінної сили: основний алгоритм",
+        "text": "Робота сили вздовж довільної кривої визначається інтегралом. Якщо сила спрямована по дотичній у напрямі руху, її елементарна робота дорівнює модулю сили, помноженому на елемент шляху. Повільне квазістатичне переміщення моделюємо рівновагою сил у кожній точці, нехтуючи інерційними членами. На малому відрізку криву можна замінити дотичною прямою з локальним кутом нахилу. Важливий акцент: Не перетворюй довільну криву на один прямокутний трикутник. Інтегрування ведеться по малих ділянках, а кути можуть змінюватися."
+      },
+      {
+        "title": "Піднімання на криволінійну гірку",
+        "text": "Сили на тілі: тяжіння, нормальна реакція, тертя й прикладена дотична сила. За квазістатичного підйому проєкції сил на дотичну й нормаль урівноважені. Сила тертя дорівнює коефіцієнту тертя, помноженому на нормальну реакцію. Геометрично проєкції елемента шляху ds на горизонталь і вертикаль дорівнюють відповідно ds cosα та ds sinα. Після інтегрування по всій монотонній гірці отримуємо горизонтальну довжину основи l та висоту h. Важливий акцент: Задача розв’язується означенням роботи, законом Ньютона у векторній формі, проєкціями та розбиттям інтеграла на два доданки."
+      },
+      {
+        "title": "Миттєва потужність сили",
+        "text": "У задачі з заданим законом сили від часу потужність знаходять за скалярним добутком сили й швидкості в ту саму мить. Швидкість відновлюють інтегруванням прискорення, яке знаходять за другим законом Ньютона. Необхідна початкова умова: тіло починає рухатися зі спокою, тому інтегруємо від нуля до поточного моменту. Вектори в координатах інтегрують покомпонентно. У розшифровці ч. 2 розв’язання обривається після переходу до інтегрування; завершення нижче виконано окремо за відновленою умовою зі збірника. Важливий акцент: Потрібно розрізняти похідну dv/dt і диференціал dv. Щоб знайти v(t), множимо рівняння на dt та інтегруємо; не диференціюємо силу ще раз."
+      },
+      {
+        "title": "Практичне повторення",
+        "text": "№4.6 · Робота на гірці. Закон Ньютона з нехтуванням прискоренням; Fтер=μN; δA=F ds. Проводимо локальні осі: Ox вздовж дотичної вгору, Oy перпендикулярно назовні. №4.9 · Потужність сили F(t). Другий закон Ньютона m dv/dt=F, миттєва потужність P=F·v. Коефіцієнти 2 і 3 мають відповідні одиниці СІ. Записуємо m dvₓ/dt=2t; m dvᵧ/dt=3t². Перед іспитом спробуй самостійно назвати закон, його умови та фізичний зміст."
+      }
+    ],
+    "simulation": "",
+    "standard": "Візуальні задачі: умова, дані, теорія, покрокове розв’язання, відповідь. Рисунки схематичні."
   }
 ];
