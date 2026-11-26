@@ -5,7 +5,7 @@ echo This will send ONLY the prepared study scripts to Microsoft Edge TTS to gen
 echo Internet connection required. No original lecture recordings are uploaded.
 choice /c YN /n /m "Continue? [Y/N] "
 if errorlevel 2 exit /b 0
-set "ENV=%LOCALAPPDATA%\YaProgramistAudioenv"
+set "ENV=%LOCALAPPDATA%\YaProgramistAudio\venv"
 if not exist "%ENV%\Scripts\python.exe" (
   py -3.12 -m venv "%ENV%"
   if errorlevel 1 goto error
